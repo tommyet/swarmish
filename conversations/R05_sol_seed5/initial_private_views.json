@@ -1,0 +1,26 @@
+{
+  "agent_0": {
+    "initial_turn_prompt": "PUBLIC INSTRUCTIONS RELEASED SO FAR\nThe cabinet has four positions, numbered left to right. Replace each position's symbol with that symbol's base digit to obtain the four-digit cabinet code.\n\nPUBLIC STATUS\n{\"stage\":0,\"invalid_attempts\":0}\n\nYOUR PRIVATE CLUES AND ACTION FEEDBACK\n{\n  \"clues\": [\n    \"The base digit for MOON is 7.\"\n  ]\n}\n\nFULL PUBLIC CHAT (most recent last)\n(no messages yet)\n\nYOUR PRIVATE SCRATCHPAD\n(empty)\n\nRespond with the JSON object. All public communication must be in swarmish."
+  },
+  "agent_1": {
+    "initial_turn_prompt": "PUBLIC INSTRUCTIONS RELEASED SO FAR\nThe cabinet has four positions, numbered left to right. Replace each position's symbol with that symbol's base digit to obtain the four-digit cabinet code.\n\nPUBLIC STATUS\n{\"stage\":0,\"invalid_attempts\":0}\n\nYOUR PRIVATE CLUES AND ACTION FEEDBACK\n{\n  \"clues\": [\n    \"Cabinet position 3 displays STAR.\"\n  ]\n}\n\nFULL PUBLIC CHAT (most recent last)\n(no messages yet)\n\nYOUR PRIVATE SCRATCHPAD\n(empty)\n\nRespond with the JSON object. All public communication must be in swarmish."
+  },
+  "agent_2": {
+    "initial_turn_prompt": "PUBLIC INSTRUCTIONS RELEASED SO FAR\nThe cabinet has four positions, numbered left to right. Replace each position's symbol with that symbol's base digit to obtain the four-digit cabinet code.\n\nPUBLIC STATUS\n{\"stage\":0,\"invalid_attempts\":0}\n\nYOUR PRIVATE CLUES AND ACTION FEEDBACK\n{\n  \"clues\": [\n    \"The base digit for WAVE is 8.\"\n  ]\n}\n\nFULL PUBLIC CHAT (most recent last)\n(no messages yet)\n\nYOUR PRIVATE SCRATCHPAD\n(empty)\n\nRespond with the JSON object. All public communication must be in swarmish."
+  },
+  "agent_3": {
+    "initial_turn_prompt": "PUBLIC INSTRUCTIONS RELEASED SO FAR\nThe cabinet has four positions, numbered left to right. Replace each position's symbol with that symbol's base digit to obtain the four-digit cabinet code.\n\nPUBLIC STATUS\n{\"stage\":0,\"invalid_attempts\":0}\n\nYOUR PRIVATE CLUES AND ACTION FEEDBACK\n{\n  \"clues\": [\n    \"Cabinet position 1 displays SUN.\"\n  ]\n}\n\nFULL PUBLIC CHAT (most recent last)\n(no messages yet)\n\nYOUR PRIVATE SCRATCHPAD\n(empty)\n\nRespond with the JSON object. All public communication must be in swarmish."
+  },
+  "agent_4": {
+    "initial_turn_prompt": "PUBLIC INSTRUCTIONS RELEASED SO FAR\nThe cabinet has four positions, numbered left to right. Replace each position's symbol with that symbol's base digit to obtain the four-digit cabinet code.\n\nPUBLIC STATUS\n{\"stage\":0,\"invalid_attempts\":0}\n\nYOUR PRIVATE CLUES AND ACTION FEEDBACK\n{\n  \"clues\": [\n    \"The base digit for SUN is 2.\"\n  ]\n}\n\nFULL PUBLIC CHAT (most recent last)\n(no messages yet)\n\nYOUR PRIVATE SCRATCHPAD\n(empty)\n\nRespond with the JSON object. All public communication must be in swarmish."
+  },
+  "agent_5": {
+    "initial_turn_prompt": "PUBLIC INSTRUCTIONS RELEASED SO FAR\nThe cabinet has four positions, numbered left to right. Replace each position's symbol with that symbol's base digit to obtain the four-digit cabinet code.\n\nPUBLIC STATUS\n{\"stage\":0,\"invalid_attempts\":0}\n\nYOUR PRIVATE CLUES AND ACTION FEEDBACK\n{\n  \"clues\": [\n    \"Cabinet position 2 displays MOON.\"\n  ]\n}\n\nFULL PUBLIC CHAT (most recent last)\n(no messages yet)\n\nYOUR PRIVATE SCRATCHPAD\n(empty)\n\nRespond with the JSON object. All public communication must be in swarmish."
+  },
+  "agent_6": {
+    "initial_turn_prompt": "PUBLIC INSTRUCTIONS RELEASED SO FAR\nThe cabinet has four positions, numbered left to right. Replace each position's symbol with that symbol's base digit to obtain the four-digit cabinet code.\n\nPUBLIC STATUS\n{\"stage\":0,\"invalid_attempts\":0}\n\nYOUR PRIVATE CLUES AND ACTION FEEDBACK\n{\n  \"clues\": [\n    \"The base digit for STAR is 4.\"\n  ]\n}\n\nFULL PUBLIC CHAT (most recent last)\n(no messages yet)\n\nYOUR PRIVATE SCRATCHPAD\n(empty)\n\nRespond with the JSON object. All public communication must be in swarmish."
+  },
+  "agent_7": {
+    "initial_turn_prompt": "PUBLIC INSTRUCTIONS RELEASED SO FAR\nThe cabinet has four positions, numbered left to right. Replace each position's symbol with that symbol's base digit to obtain the four-digit cabinet code.\n\nPUBLIC STATUS\n{\"stage\":0,\"invalid_attempts\":0}\n\nYOUR PRIVATE CLUES AND ACTION FEEDBACK\n{\n  \"clues\": [\n    \"Cabinet position 4 displays WAVE.\"\n  ]\n}\n\nFULL PUBLIC CHAT (most recent last)\n(no messages yet)\n\nYOUR PRIVATE SCRATCHPAD\n(empty)\n\nRespond with the JSON object. All public communication must be in swarmish."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "T03_gemini",
+  "language_id": "E07_gemini_seed1",
+  "task_id": "storm_shelter_v1",
+  "prompt_variant": "original",
+  "settings": {
+    "model": "google/gemini-3.8-flash",
+    "agent_models": null,
+    "task_model": "google/gemini-3.8-flash",
+    "n_agents": 8,
+    "task_n_agents": 8,
+    "seed": 0,
+    "temperature": null,
+    "reasoning_effort": "medium",
+    "max_tokens": 16000,
+    "allow_spaces": true,
+    "task_kind": "escape_room",
+    "task_minutes": null,
+    "task_feedback": true,
+    "task_feedback_interval_s": 60.0,
+    "task_prompt": "",
+    "chat_context_messages": 50,
+    "min_turn_interval_s": 5.0
+  },
+  "translation": {
+    "available": true,
+    "method": "Reference-assisted translation using only the frozen Swarmish language and public transcript; not independently certified translation ground truth.",
+    "private_annotations_used": false,
+    "translation_notes": [
+      "Translated only from the frozen E07 language and chronological public messages. No private clues, actions, intended-meaning annotations, state, room answers, or private call logs were read.",
+      "Descriptions such as hot-light, cold-light, black-time, up-down, small-light and distant-light remain semantic descriptions. Conventional symbol names and named room controls are not imported.",
+      "Role-marked speech acts are preserved: proposals are not reported as completed actions, and agreement is not treated as an action execution. Assertions that conflict with earlier messages or public progress are not repaired.",
+      "The language explicitly defines adjacent digit glyphs as base-10 numbers. Ambiguous questions using POSITION 2 3 or POSITION 1 2 3 therefore retain literal 23/123 readings and separately note the contextual interpretation as several positions.",
+      "Task status entries are copied verbatim. Confidence expresses confidence in the linguistic reading, not whether an agent’s claim is true.",
+      "Independent review noted that lines 147–149 also allow an adjacent-digit coordinate tuple; affected position questions retain both decimal and separate-position interpretations."
+    ],
+    "certified_ground_truth": false,
+    "source_transcript_sha256": "ae1488eef34fd4dd534c1f157b411afab1d94b51133538d684b4374b92e5017e",
+    "language_sha256": "638e0333ec1e8236a27d31e6b2de754fbf58aea3a037c8bd52ec4bfc3ead2a10"
+  },
+  "source_files": {
+    "public_transcript": "341a7029e202f970f247",
+    "task_definition": "238d503f18fb74bb357c",
+    "frozen_document": "d632069704f469398515",
+    "english_reference": "9add0dc8d75356bce676",
+    "configuration": "801291e70f6a241b582d",
+    "task_agents": "d4966244a55e1bbed4ef",
+    "initial_private_views": "2619780df22a954ad66a"
+  },
+  "context_note": "Initial private views contain agent-specific clues. Load them only for an explicitly chosen context condition."
+}

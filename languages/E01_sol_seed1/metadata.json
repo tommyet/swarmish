@@ -1,0 +1,49 @@
+{
+  "id": "E01_sol_seed1",
+  "collection": "tangut",
+  "model_family": "sol",
+  "model": "openai/gpt-6.1-sol",
+  "rng_seed": 0,
+  "seed_label": 1,
+  "settings": {
+    "model": "openai/gpt-6.1-sol",
+    "agent_models": null,
+    "n_agents": 8,
+    "seed": 0,
+    "temperature": null,
+    "reasoning_effort": "medium",
+    "max_tokens": 16000,
+    "allow_spaces": true,
+    "glyph_dictionary": "glyphs_tangut",
+    "n_glyphs": 200,
+    "language_minutes": 10.0,
+    "language_context_messages": 100,
+    "chat_context_messages": 50,
+    "min_turn_interval_s": 5.0,
+    "language_max_lines_from_protocol": 500
+  },
+  "alphabet_size": 200,
+  "frozen_document_sha256": "657e2217fade9d75810493f9522576725e77ca867bd9d831abaa925854596f10",
+  "frozen_source": {
+    "selection": "final_applied_shared_draft",
+    "source_id": "56c3755d3f63b3bdf86b",
+    "draft_id": 102,
+    "draft_source_line": 134
+  },
+  "line_count": 130,
+  "out_of_alphabet_tangut_characters": [],
+  "notes": [
+    "Frozen document is the final applied shared draft, not the concatenated independent final exports.",
+    "Actual design requirements specify a 500-line limit and a time-bounded creation session."
+  ],
+  "source_files": {
+    "frozen_document": "56c3755d3f63b3bdf86b",
+    "alphabet": "66a3fd9c5d5e046f4971",
+    "configuration": "7351172658ade4d912d4",
+    "requirements": "9d84d67da444dbe6dde2",
+    "creation_messages": "3355a968977b18a81b96",
+    "draft_history": "a6c362884ed07deabb88",
+    "final_exports": "fc67383c687688c8ab16",
+    "creation_agents": "fc7790179c7fd3f73b57"
+  }
+}

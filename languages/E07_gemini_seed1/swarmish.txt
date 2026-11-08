@@ -1,0 +1,159 @@
+# SWARMISH LANGUAGE SPECIFICATION
+# A compositional, role-marked language for task coordination.
+
+## 1. CORE SYNTACTIC RULES & PROTOCOL
+1. STRICT CHARACTER RULE: Chat messages must consist ONLY of Swarmish glyphs, spaces, and agent IDs (e.g. agent_0). Never include brackets, English words, punctuation, or numbers as ASCII digits. Any other character results in total message replacement by ⊘.
+2. CONVERSATIONAL DISCIPLINE: Messages MUST contain only task-relevant semantic frames. Never send greetings, politeness tokens (hello, thanks), or conversational filler.
+3. SENTENCE STRUCTURE: Every sentence begins with a SPEECH ACT marker, followed by role-marked arguments in Topic-Object-Verb order:
+   [SPEECH_ACT] [AGT agent_id/entity] [PAT target/data] [LOC location/context]? [VERB/PREDICATE] [MOD modifier]?
+4. ROLE MARKERS: Arguments must be prefixed with a role marker ([AGT], [PAT], [LOC], [MOD]). Role markers come with two interchangeable synonyms (e.g. AGT_1 or AGT_2); alternate between them freely to prevent frequency spikes.
+5. NUMBERS: Digits 0-9 are written sequentially in base 10 using glyphs (e.g., 42 is 𘇩 𗶞). For negative numbers, prefix with NOT (𘖾).
+6. COMPOUNDING: Complex concepts are created by chaining 2 roots: [ROOT_A] [ROOT_B].
+   Examples: [KNOW] [NOT] = unknown/question; [SECRET] [VALUE] = private number; [MOVE] [UP] = rise; [TASK] [DONE] = completed.
+7. CONDITIONAL CLAUSES: [IF] [condition clause] [THEN] [result clause].
+
+## 2. SPEECH ACT MARKERS (Sentence Head)
+𘊌 : ASSERT_1 (inform, state fact)
+𘒳 : ASSERT_2 (inform, state fact - variant)
+𗀉 : QUERY_1 (ask question, request info)
+𘆣 : QUERY_2 (ask question, request info - variant)
+𗱓 : PROPOSE_1 (suggest action, offer trade)
+𗏶 : PROPOSE_2 (suggest action, offer trade - variant)
+𘚑 : AGREE_1 (confirm, accept, affirmative)
+𘍄 : AGREE_2 (confirm, accept, affirmative - variant)
+𗞉 : REJECT_1 (disagree, decline, negative)
+𗵵 : REJECT_2 (disagree, decline, negative - variant)
+
+## 3. GRAMMATICAL ROLE & CASE MARKERS
+𗪩 : AGT_1 (agent, subject, initiator)
+𗥐 : AGT_2 (agent, subject, initiator - variant)
+𗼛 : PAT_1 (patient, object, theme, item)
+𗃚 : PAT_2 (patient, object, theme, item - variant)
+𘚜 : LOC_1 (location, recipient, target, time, at/to)
+𗟆 : LOC_2 (location, recipient, target, time, at/to - variant)
+𘉝 : MOD_1 (modifier, attribute, manner, degree)
+𗽃 : MOD_2 (modifier, attribute, manner, degree - variant)
+
+## 4. LOGICAL CONNECTIVES & OPERATORS
+𗄼 : AND (conjunction)
+𗚽 : OR (disjunction)
+𘖾 : NOT (negation, false)
+𗧬 : IF (condition)
+𘍠 : THEN (consequence)
+𘔠 : BECAUSE (cause, reason)
+𘚄 : EQUAL (identical, match, equivalent)
+𗂺 : DIFFERENT (distinct, unlike, unequal)
+
+## 5. DIGITS (Base 10)
+𗈵 : 0 | 𘁁 : 1 | 𗶞 : 2 | 𗾌 : 3 | 𘇩 : 4
+𗊓 : 5 | 𘊫 : 6 | 𗬵 : 7 | 𗒏 : 8 | 𗡒 : 9
+
+## 6. PRONOUNS & DEICTICS
+𗾐 : SELF (I, me, my, we, us)
+𗪤 : OTHER (you, partner, other agent)
+𗘈 : ALL (every, everyone, total)
+𗲅 : NONE (nobody, zero, empty)
+𗉜 : THIS (here, current, present)
+𗞢 : THAT (there, former, remote)
+
+## 7. META, TASK & COORDINATION ROOTS
+𗱑 : READY (prepared, standing by)
+𗾨 : DONE (finished, completed, end)
+𘕡 : STEP (round, turn, phase, tick)
+𘙓 : TASK (goal, objective, mission)
+𘍂 : RULE (law, constraint, condition)
+𗭵 : SECRET (private, hidden data)
+𗠄 : PUBLIC (revealed, broadcast, open)
+𗹕 : VALUE (score, quantity, amount)
+𗏾 : OPTION (choice, alternative, candidate)
+𘐪 : STATUS (state, mode, condition)
+𗸽 : WAIT (delay, pause, hold)
+𗋭 : SUBMIT (commit, finalize action)
+
+## 8. SPATIAL, RELATIONAL & ORDER ROOTS
+𘋉 : UP (north, top)          | 𗜘 : DOWN (south, bottom)
+𘂮 : LEFT (west)             | 𘏉 : RIGHT (east)
+𗐪 : IN (inside, enter)       | 𗦥 : OUT (outside, exit)
+𘑋 : NEAR (close, adjacent)   | 𗎰 : FAR (distant)
+𗨞 : BEFORE (earlier, prior)  | 𗘗 : AFTER (later, next)
+𘎔 : ROW (horizontal line)    | 𘗇 : COLUMN (vertical line)
+𘖸 : GREATER (more, superior) | 𘛺 : LESSER (less, inferior)
+𗄪 : TRUE (correct, valid)    | 𗂄 : FALSE (incorrect, invalid)
+
+## 9. ACTION VERBS
+𗉞 : MOVE (travel, step, navigate)       | 𗗢 : SEND (give, transfer, transmit)
+𘎌 : RECEIVE (take, get, collect)        | 𘚐 : HAVE (possess, own, hold)
+𗑸 : KNOW (aware, information)           | 𘌔 : SEE (inspect, observe, read)
+𗹫 : THINK (believe, estimate, deduce)   | 𗳃 : CHOOSE (select, pick, vote)
+𘐂 : FIND (locate, discover)             | 𗷴 : PUT (place, set, deposit)
+𗘺 : REMOVE (delete, clear, drop)        | 𗢬 : OPEN (unlock, enable)
+𗊢 : CLOSE (lock, disable)               | 𘋍 : START (begin, initiate)
+𘆮 : STOP (halt, terminate)              | 𗁳 : ADD (increase, combine, join)
+𗪥 : SUBTRACT (decrease, split, divide)  | 𗈃 : COUNT (enumerate, tally)
+𘒄 : COMPARE (measure, evaluate)         | 𗜎 : VERIFY (test, check, validate)
+𘗣 : MODIFY (change, update, mutate)     | 𗘝 : HELP (support, assist)
+𘈩 : SHARE (distribute, exchange)        | 𗋮 : TRADE (swap, barter)
+𗉍 : VOTE (elect, decide collectively)   | 𗸪 : REVEAL (display, announce)
+𘚒 : HIDE (conceal, mask)                | 𘍍 : CREATE (build, generate)
+𗦴 : DESTROY (reset, wipe)               | 𗟎 : CONNECT (link, bind)
+𘃉 : SEPARATE (unlink, detach)           | 𗒮 : HOLD (retain, preserve)
+𘅌 : EXECUTE (perform, trigger, fire)    | 𗩠 : SUCCEED (win, achieve)
+𗳵 : FAIL (lose, abort, error)           | 𘆄 : REPEAT (again, loop)
+𗊑 : AGREE_ACTION (cooperate, align)     | 𗡉 : SPLIT (partition, share out)
+
+## 10. NOUNS & ENTITIES
+𘀝 : ITEM (object, thing, piece)         | 𘗟 : TOOL (instrument, mechanism)
+𘖽 : GRID (board, matrix, map)           | 𗈽 : ROOM (zone, chamber, area)
+𗇽 : DOOR (gate, portal)                 | 𗽀 : KEY (passcode, credential)
+𗏔 : TOKEN (chip, coin, marker)          | 𗣎 : RESOURCE (asset, fuel, points)
+𘉮 : TARGET (destination, goal cell)     | 𗋼 : PATH (trail, route, sequence)
+𗯘 : MESSAGE (communication, packet)     | 𗤄 : DATA (content, payload, info)
+𗥊 : LIST (array, queue, inventory)      | 𗼿 : SET (collection, group of items)
+𗪺 : CELL (square, coordinate, spot)     | 𗚋 : CARD (hand, deck, sheet)
+𘏛 : BOX (chest, container, slot)        | 𗄎 : COLOR (hue, tint)
+𗍽 : SHAPE (form, geometry)              | 𘑾 : TIME (clock, timestamp)
+𗌩 : COST (price, penalty, requirement)  | 𗑴 : REWARD (gain, bonus, payoff)
+𗡑 : AGENT (player, entity, participant) | 𗩨 : LIMIT (bound, maximum, minimum)
+𗡕 : POSITION (coordinate x y, location) | 𘚺 : SYMBOL (glyph, character, tag)
+𗜀 : CODE (password, cipher, formula)    | 𗕴 : LOCK (barrier, puzzle)
+𘙠 : ORDER (ranking, priority, command)  | 𗎿 : PAIR (duo, match set)
+𘝞 : LEVEL (stage, tier, depth)          | 𗇾 : BOUNDARY (edge, wall, perimeter)
+𗞿 : FLAG (marker, indicator, signal)    | 𗅲 : BASE (origin, starting point)
+𗪐 : SIGNAL (alert, notification)        | 𗨥 : TEST (trial, experiment, probe)
+
+## 11. DESCRIPTORS & ATTRIBUTES
+𗋫 : RED        | 𗷤 : BLUE       | 𗿃 : GREEN     | 𗤴 : YELLOW
+𗨽 : BLACK      | 𗛽 : WHITE      | 𘝄 : BIG       | 𗒳 : SMALL
+𘂲 : FAST       | 𗛢 : SLOW       | 𗌸 : HIGH      | 𘜇 : LOW
+𘙨 : FIRST      | 𘀦 : LAST       | 𘅠 : EMPTY     | 𘋟 : FULL
+𗌿 : SAME       | 𘉫 : DIFFERENT_A| 𘆎 : NEW       | 𗅋 : OLD
+𘄘 : SAFE       | 𘅊 : DANGER     | 𘆂 : GOOD      | 𗦢 : BAD
+𘎛 : EASY       | 𗭒 : HARD       | 𗘏 : HEAVY     | 𘍧 : LIGHT
+𘅪 : HOT        | 𗎶 : COLD       | 𘄊 : CLEAN     | 𗲄 : DIRTY
+𘝚 : VALID      | 𗂱 : INVALID    | 𗌈 : OPEN_A    | 𗇴 : CLOSED_A
+𗿋 : ACTIVE     | 𗋟 : INACTIVE   | 𗗫 : VISIBLE   | 𘝨 : HIDDEN
+𗭯 : CONSTANT   | 𗽕 : VARIABLE   | 𘑑 : DIRECT    | 𗻲 : INDIRECT
+𘁜 : PRIMARY    | 𗏻 : SECONDARY  | 𘔃 : UNIQUE    | 𗚀 : SHARED
+𗯧 : CORRECT    | 𗶢 : INCORRECT  | 𗗹 : ZERO_A    | 𗗅 : MAX
+𗓉 : MIN        | 𗜑 : TOTAL      | 𗣑 : PART      | 𗵫 : NEUTRAL
+
+## 12. TASK DIALOGUE EXAMPLES (Send ONLY glyphs and agent IDs in chat)
+Example 1: Sharing private coordinate / secret number:
+Message: 𘊌 𗪩 agent_1 𗼛 𗭵 𗹕 𘚜 𘁁 𘊫 𘚐
+Gloss: [ASSERT_1] [AGT_1] agent_1 [PAT_1] [SECRET] [VALUE] [LOC_1] 1 6 [HAVE]
+Meaning: agent_1 states: My secret value is 16.
+
+Example 2: Proposing a coordinated movement on a grid:
+Message: 𗱓 𗪩 agent_2 𗼛 𗪺 𗶞 𗾌 𗉞
+Gloss: [PROPOSE_1] [AGT_1] agent_2 [PAT_1] [CELL] 2 3 [MOVE]
+Meaning: agent_2 proposes moving to cell (2, 3).
+
+Example 3: Agreeing to a plan or proposal:
+Message: 𘚑 𗪩 agent_3 𗼛 𗱓 𘉝 𗄪 𗊑
+Gloss: [AGREE_1] [AGT_1] agent_3 [PAT_1] [PROPOSE] [MOD_1] [TRUE] [AGREE_ACTION]
+Meaning: agent_3 agrees with the proposal.
+
+Example 4: Asking for information:
+Message: 𗀉 𗪩 agent_0 𗼛 𗽀 𗄎 𘚜 agent_4 𗑸
+Gloss: [QUERY_1] [AGT_1] agent_0 [PAT_1] [KEY] [COLOR] [LOC_1] agent_4 [KNOW]
+Meaning: agent_0 asks agent_4: What color is the key?

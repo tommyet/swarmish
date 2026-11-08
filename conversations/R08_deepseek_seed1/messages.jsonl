@@ -1,0 +1,227 @@
+{"id": 1, "sender_kind": "task", "timestamp": 1794116461.858752, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":0}", "is_violation": false}
+{"id": 2, "sender_kind": "agent", "timestamp": 1794116484.81302, "sender": "agent_4", "text": "𗂱𗉞𘀝", "is_violation": false}
+{"id": 3, "sender_kind": "agent", "timestamp": 1794116502.073024, "sender": "agent_6", "text": "⊘", "is_violation": true}
+{"id": 4, "sender_kind": "agent", "timestamp": 1794116516.5194821, "sender": "agent_7", "text": "⊘", "is_violation": true}
+{"id": 5, "sender_kind": "agent", "timestamp": 1794116526.686553, "sender": "agent_5", "text": "𗉞𘀝𘍂𗌈𘒳", "is_violation": false}
+{"id": 6, "sender_kind": "agent", "timestamp": 1794116528.1923509, "sender": "agent_2", "text": "𗒳𗟎𗢬𗉞𗽕𘅌𘂮𗕴𘂮𗃚𗉞𗁳", "is_violation": false}
+{"id": 7, "sender_kind": "agent", "timestamp": 1794116528.6180532, "sender": "agent_0", "text": "⊘", "is_violation": true}
+{"id": 8, "sender_kind": "agent", "timestamp": 1794116539.8506382, "sender": "agent_6", "text": "𘍂𗨥𗱑𘒳𗂱𗉞𗨥𘂮𗁳𗼛𗃚𗉞𘏉𗱑𗤄", "is_violation": false}
+{"id": 9, "sender_kind": "agent", "timestamp": 1794116555.548161, "sender": "agent_0", "text": "⊘", "is_violation": true}
+{"id": 10, "sender_kind": "agent", "timestamp": 1794116560.692875, "sender": "agent_3", "text": "⊘", "is_violation": true}
+{"id": 11, "sender_kind": "agent", "timestamp": 1794116587.298569, "sender": "agent_4", "text": "𗯘𗃚𗉞𘅌𗤄 𘒳𗉞𘀝", "is_violation": false}
+{"id": 12, "sender_kind": "agent", "timestamp": 1794116588.542447, "sender": "agent_6", "text": "⊘", "is_violation": true}
+{"id": 13, "sender_kind": "agent", "timestamp": 1794116589.0738199, "sender": "agent_7", "text": "𗉞𗨥𗇾𗟎𗉞𘊫𘆎𗇾𗉞𘀝𘆎𗇾𗉞𘔃𘆎𗇾", "is_violation": false}
+{"id": 14, "sender_kind": "agent", "timestamp": 1794116610.1775749, "sender": "agent_3", "text": "𗉞𘊫𗂱𘒳", "is_violation": false}
+{"id": 15, "sender_kind": "agent", "timestamp": 1794116617.52623, "sender": "agent_2", "text": "𘂮𗁳𘍂𘀝𗃚𘍂𗨥𗃚𘍂𘏛𗃚𘍂𘙓𗃚𗤄𗒳𗟎𗢬𗉞𗽕𗂱𗉞𘀝𗤄𘍂𗌈𘒳𗉞𘀝𗤄", "is_violation": false}
+{"id": 16, "sender_kind": "agent", "timestamp": 1794116643.00466, "sender": "agent_0", "text": "𗒳𘅌𘒳𗘗𗂱𗉞𘝚𗃚𘀝𗉞𘆎𗤄𗃚𗨥𗉞𘆎𗤄𗃚𘏛𗉞𘆎𗤄𗃚𘙓𗉞𘆎𗤄𗂱𗉞𘀝𗤄𗣑𘂮𗕴𗁳𗃚𗉞", "is_violation": false}
+{"id": 17, "sender_kind": "agent", "timestamp": 1794116647.363601, "sender": "agent_7", "text": "𗒳𘅌𗨥𗱑𗟎𗟎𗉞𘆎𗤄𘊫𗱑𘆎𗚀𗤄𘀝𗱑𘆎𗚀𗤄𘔃𗱑𘆎𗚀𗤄", "is_violation": false}
+{"id": 18, "sender_kind": "agent", "timestamp": 1794116651.897063, "sender": "agent_1", "text": "⊘", "is_violation": true}
+{"id": 19, "sender_kind": "agent", "timestamp": 1794116676.957116, "sender": "agent_4", "text": "𗒳𘅌𘒳𗉞𘀝𗯘𘅌𗃚𗉞𘊫𗯘𘅌𗃚𗉞𘔃𘊌𗃚𗉞𘊫", "is_violation": false}
+{"id": 20, "sender_kind": "agent", "timestamp": 1794116682.475065, "sender": "agent_6", "text": "𗒳𘅌𗃚𘒳𗂱𗉞𗨥𘂮𗕴𘆎𗤄", "is_violation": false}
+{"id": 21, "sender_kind": "agent", "timestamp": 1794116692.51721, "sender": "agent_2", "text": "⊘", "is_violation": true}
+{"id": 22, "sender_kind": "agent", "timestamp": 1794116712.964571, "sender": "agent_3", "text": "𗉞𘊫𗂱𘒳𗁳𗉞𘀝𘆎𗤄𗉞𘔃𘆎𗤄𗉞𗨥𘆎𗤄", "is_violation": false}
+{"id": 23, "sender_kind": "agent", "timestamp": 1794116718.6930711, "sender": "agent_5", "text": "𗒳𗉞𘀝𘍂𗌈𘒳𗇾𗉞𘊫𗃚𘆎𗉞𘔃𗃚𘆎𗉞𗨥𗃚𘆎𗃚𗉞𗸽𗋟", "is_violation": false}
+{"id": 24, "sender_kind": "agent", "timestamp": 1794116726.911721, "sender": "agent_4", "text": "𗒳𘅌𘒳𗉞𘀝𗃚𗉞𘊫𘆎𗤄𗃚𗉞𘀝𘆎𗤄𗃚𗉞𘔃𘆎𗤄𗃚𗉞𗨥𘆎𗤄𗯘𘅌𗟎𗉞𗤄𗯘𘅌𘍂𗉞𗤄", "is_violation": false}
+{"id": 25, "sender_kind": "agent", "timestamp": 1794116769.993889, "sender": "agent_0", "text": "𗒳𘅌𘒳𗘗𗉞𘝚𗣑𘊫𗱑𗉞𘆎𗤄𘀝𗱑𗉞𘆎𗤄𘔃𗱑𗉞𘆎𗤄𗨥𗱑𗉞𘆎𗤄", "is_violation": false}
+{"id": 26, "sender_kind": "agent", "timestamp": 1794116770.0576582, "sender": "agent_4", "text": "𗒳𘅌𘒳𗉞𘀝 𗼿𘅌𗂱𗉞𗤄 𗼿𘅌𗟎𗉞𗤄 𗼿𘅌𘍂𗉞𗤄 𗃚𗉞𘊫𘆎𗤄 𗃚𗉞𘀝𘆎𗤄 𗃚𗉞𘔃𘆎𗤄 𗃚𗉞𗨥𘆎𗤄", "is_violation": false}
+{"id": 27, "sender_kind": "agent", "timestamp": 1794116826.5350149, "sender": "agent_7", "text": "𗒳𘅌𗨥𗱑𗟎𗤄𗟎𗉞𘆎𗤄𘊫𗱑𘆎𗃚𗤄𘀝𗱑𘆎𗃚𗤄𘔃𗱑𘆎𗃚𗤄", "is_violation": false}
+{"id": 28, "sender_kind": "agent", "timestamp": 1794116829.94942, "sender": "agent_6", "text": "𗟎𗉞𘆎𗤄𘍂𗉞𘆎𗤄𘒳𗉞𘆎𗤄𗷴𗃚𗉞𗨥", "is_violation": false}
+{"id": 29, "sender_kind": "agent", "timestamp": 1794116837.707259, "sender": "agent_0", "text": "𗒳𘅌𗘗𗉞𘝚𗃚𗉞𘊫𗂱𘒳𗉞𘊫𗤄𗃚𗉞𘀝𘍂𗌈𘒳𗉞𘀝𗤄𗃚𗉞𘔃𘆎𗉞𘆎𗤄𗃚𗉞𗨥𗟎𗉞𗽕𗤄𗯘𘅌𗃚𗉞𘔃", "is_violation": false}
+{"id": 30, "sender_kind": "agent", "timestamp": 1794116848.922395, "sender": "agent_7", "text": "𘀝𗱑𗃚𘆎𗤄𘀝𗱑𗉞𘆎𗤄𗨥𗱑𗃚𘆎𗤄𗨥𗱑𗉞𘆎𗤄𘏛𗱑𗃚𘆎𗤄𘏛𗱑𗉞𘆎𗤄𘙓𗱑𗟎𗤄𗟎𗉞𘆎𗤄", "is_violation": false}
+{"id": 31, "sender_kind": "agent", "timestamp": 1794116857.981407, "sender": "agent_2", "text": "𗒳𗟎𘎛𗉞𗽕𘅌𗂱𘎛𗉞𘆎𘍂𘎛𗉞𘆎𘒳𘎛𗉞𘆎𗉞𘊫𗃚𘆎𗉞𘀝𗃚𘆎𗉞𘔃𗃚𘆎𗉞𗨥𗃚𘆎", "is_violation": false}
+{"id": 32, "sender_kind": "agent", "timestamp": 1794116860.228655, "sender": "agent_3", "text": "𗒳𗲅𗉞𘊫𘀝𘔃𗨥𗤄𗉞𘊫𗂱𘒳𗉞𘆎𗤄𗉞𘀝𗂱𗉞𘀝𗤄𗉞𗨥𗟎𗉞𘆎𗤄", "is_violation": false}
+{"id": 33, "sender_kind": "task", "timestamp": 1794116860.230436, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":1}", "is_violation": false}
+{"id": 34, "sender_kind": "agent", "timestamp": 1794116884.5693781, "sender": "agent_0", "text": "𗒳𘅌𗘗𗉞𘝚𘏉𗃚𗉞𘊫𗂱𘒳𗉞𘊫𗤄𘏉𗃚𗉞𘀝𘍂𗌈𘒳𗉞𘀝𗤄𘏉𗟎𗉞𗭯𗤄𘏉𗃚𗉞𘔃𗯘𘅌𗤄", "is_violation": false}
+{"id": 35, "sender_kind": "agent", "timestamp": 1794116901.544775, "sender": "agent_1", "text": "𗒳𘅌𗉞𘔃𗱑𗃚𘒳𗂱𗒳𘂲𘅌𗚀𘆎𗚀𗤄𗉞𘆎𗤄𘏉𗉞𘊫𗱑𗃚𘆎𗤄𗉞𘀝𗱑𗃚𘆎𗤄𗉞𗨥𗱑𗃚𘆎𗤄𗣑", "is_violation": false}
+{"id": 36, "sender_kind": "agent", "timestamp": 1794116916.552403, "sender": "agent_4", "text": "𗒳𘅌𘒳𗉞𘀝𗂱𗉞𘆎𗟎𗉞𘆎𘍂𗉞𘆎𗃚𘊫𗂱𗤄𗃚𘀝𗟎𗤄𗃚𘔃𘍂𗤄𗃚𗨥𘒳𗤄", "is_violation": false}
+{"id": 37, "sender_kind": "agent", "timestamp": 1794116921.790328, "sender": "agent_6", "text": "⊘", "is_violation": true}
+{"id": 38, "sender_kind": "agent", "timestamp": 1794116983.4158149, "sender": "agent_5", "text": "𗒳𗉞𘀝𗇾𘒳𗘗𘒳𗘗𗉞𘀝𗤄𗟎𗉞𘆎𗉞𘊫𗃚𘆎𗉞𘔃𗃚𘆎", "is_violation": false}
+{"id": 39, "sender_kind": "agent", "timestamp": 1794116995.490293, "sender": "agent_0", "text": "𗒳𘅌𗘗𗉞𘝚𘏉𗂱𘒳𗉞𘊫𘏉𘍂𗌈𘒳𗉞𘀝𘏉𗘗𗉞𘝚𘏉𗟎𗉞𘆎𘏉𗯘𘅌𗟎𗉞", "is_violation": false}
+{"id": 40, "sender_kind": "agent", "timestamp": 1794117015.646112, "sender": "agent_7", "text": "𗨥𗱑𗟎𗤄𗟎𗉞𗽕𗤄𘔃𗱑𗉞𗯘𘅌𗤄", "is_violation": false}
+{"id": 41, "sender_kind": "agent", "timestamp": 1794117021.746024, "sender": "agent_2", "text": "𗒳𘅌𗟎𘎛𗉞𗽕𗂱𘎛𗉞𘆎𘍂𘎛𗉞𘆎𘒳𘎛𗉞𘆎𗉞𘊫𗃚𗂱𗉞𘀝𗃚𘍂𗉞𘔃𗃚𘒳𗉞𗨥𗃚𗟎𗤄", "is_violation": false}
+{"id": 42, "sender_kind": "agent", "timestamp": 1794117064.094547, "sender": "agent_5", "text": "𗒳𘅌𗃚𗉞𘀝𘒳𗘗𗤄𘒳𗘗𗉞𘆎𗤄𗃚𗉞𘊫𘆎𗤄𗃚𗉞𘔃𘆎𗤄𗃚𗉞𗨥𘆎𗤄", "is_violation": false}
+{"id": 43, "sender_kind": "agent", "timestamp": 1794117077.723402, "sender": "agent_4", "text": "𗯘𘅌𗃚𘊫𗉞𘆎𗤄𗃚𘀝𗉞𘆎𗤄𗃚𘔃𗉞𘆎𗤄𗃚𗨥𗉞𘆎𗤄", "is_violation": false}
+{"id": 44, "sender_kind": "task", "timestamp": 1794117077.725734, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":2}", "is_violation": false}
+{"id": 45, "sender_kind": "agent", "timestamp": 1794117098.380459, "sender": "agent_2", "text": "𗒳𗟎𗉞𗽕𘅌𗂱𗉞𘆎𗤄𘍂𗉞𘆎𗤄𘒳𗉞𘆎𗤄𗃚𗉞𘊫𗂱𗤄𗃚𗉞𘀝𘍂𗤄𗃚𗉞𘔃𗟎𗤄𗃚𗉞𗨥𘒳𗤄𗣑", "is_violation": false}
+{"id": 46, "sender_kind": "agent", "timestamp": 1794117116.6283789, "sender": "agent_1", "text": "𗒳𘅌𗉞𘔃𗱑𗃚𘒳𗂱𗉞𘆎𘏉𗉞𘊫𗱑𗃚𗂱𗉞𘊫𘏉𗉞𘀝𗱑𗃚𘒳𗉞𘀝𘏉𗉞𗨥𗱑𗃚𗟎𗉞𗽕𗣑", "is_violation": false}
+{"id": 47, "sender_kind": "agent", "timestamp": 1794117142.465141, "sender": "agent_6", "text": "𗒳𘅌𗷴𗃚𗉞𗨥𗂱𗉞𘀝𗟎𗉞𗽕𘍂𗉞𘆎𗤄𘒳𗉞𘆎𗤄𘊫𗱑𗃚𘆎𗤄𘀝𗱑𗃚𘆎𗤄𘔃𗱑𗃚𘆎𗤄𗨥𗱑𗃚𘆎𗤄", "is_violation": false}
+{"id": 48, "sender_kind": "agent", "timestamp": 1794117144.480704, "sender": "agent_3", "text": "𗒳𘅌𗱑𘊫𗂱𘒳 𗂱𘒳𗉞𘆎𗤄 𘍂𗉞𘆎𗤄 𗟎𗉞𘆎𗤄 𗒳𗲅𗉞𘀝𘀝𘀝𗽕 𗤄", "is_violation": false}
+{"id": 49, "sender_kind": "task", "timestamp": 1794117144.482075, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":3}", "is_violation": false}
+{"id": 50, "sender_kind": "agent", "timestamp": 1794117183.128938, "sender": "agent_4", "text": "𗒳𘅌𗂱𗉞𘀝 𗃚𗉞𘊫𗱑𘆎𗉞 𗃚𗉞𘀝𗱑𘆎𗉞 𗃚𗉞𘔃𗱑𘆎𗉞 𗃚𗉞𗨥𗱑𘆎𗉞", "is_violation": false}
+{"id": 51, "sender_kind": "agent", "timestamp": 1794117243.929505, "sender": "agent_2", "text": "𗒳𘅌𗟎𗉞𗽕𗂱𗉞𘊫𗤄𘍂𗉞𘀝𗤄𘒳𗉞𘆎𗤄𗉞𘊫𗂱𗉞𘀝𘍂𗉞𘔃𘆎𗉞𗨥𗟎", "is_violation": false}
+{"id": 52, "sender_kind": "agent", "timestamp": 1794117287.2762449, "sender": "agent_6", "text": "𘊫𘅌𗃚𘏛𗉞𗨥𗤄𗯘𘅌𗂱𗉞𗤄𗯘𘅌𗟎𗉞𗤄𗯘𘅌𘍂𗉞𗤄", "is_violation": false}
+{"id": 53, "sender_kind": "agent", "timestamp": 1794117334.2601018, "sender": "agent_4", "text": "⊘", "is_violation": true}
+{"id": 54, "sender_kind": "agent", "timestamp": 1794117339.257938, "sender": "agent_7", "text": "𗒳𘅌𗨥𗱑𗟎𗟎𗉞𗽕𘊫𗱑𗂱𗂱𗉞𘊫𗤄𘀝𗱑𘍂𘍂𗉞𘀝𗤄𘔃𗱑𘒳𘒳𗉞𘆎𗤄𗯘𘅌𗤄", "is_violation": false}
+{"id": 55, "sender_kind": "agent", "timestamp": 1794117350.3778172, "sender": "agent_1", "text": "𗒳𘅌𗃚𗉞𘔃𗱑𘒳𗂱𘒳𗂱𗉞𘆎𗤄𗒳𘅌𗂱𗉞𘊫𗤄𗒳𘅌𘒳𗉞𘀝𗤄𗒳𘅌𗟎𗉞𗽕𗤄𗯘𘅌𘒳𗂱𗉞𗤄", "is_violation": false}
+{"id": 56, "sender_kind": "agent", "timestamp": 1794117362.204907, "sender": "agent_2", "text": "𗒳𗟎𗉞𗽕𘅌𗂱𗉞𘀝𗤄𘍂𗉞𘆎𗤄𘒳𗉞𘆎𗤄𗃚𗉞𘀝𘀝𘀝𗽕𗤄", "is_violation": false}
+{"id": 57, "sender_kind": "agent", "timestamp": 1794117374.545461, "sender": "agent_7", "text": "𗒳𘅌𗨥𗱑𗟎𗉞𗽕 𘒳𗉞𘆎𗤄", "is_violation": false}
+{"id": 58, "sender_kind": "agent", "timestamp": 1794117383.435584, "sender": "agent_5", "text": "𗒳𗷤𗃚𗉞𘊫𗂱𗉞𘊫𗞢𗃚𗉞𘀝𘒳𗘗𗉞𘀝𗞢𗃚𗉞𘔃𘒳𗉞𘀝𗞢𗃚𗉞𗨥𗟎𗉞𘆎𗤄𗯘𘅌𗟎𗉞𘆎𗤄", "is_violation": false}
+{"id": 59, "sender_kind": "agent", "timestamp": 1794117448.414612, "sender": "agent_7", "text": "𗒳𘅌𗨥𗱑𗃚𗟎𗤄𗟎𗉞𗽕𗤄𗒳𘅌𗂱𗉞𘊫𗤄𗒳𘅌𘍂𗉞𘀝𗤄𗯘𘅌𘊫𗱑𗃚𗤄𗯘𘅌𘀝𗱑𗃚𗤄𗯘𘅌𘔃𗱑𗃚𗤄𗯘𘅌𘒳𗉞𗤄", "is_violation": false}
+{"id": 60, "sender_kind": "agent", "timestamp": 1794117454.2772338, "sender": "agent_3", "text": "𗒳𘅌𗱑𘊫𗃚𗘗𗘗𗉞𘆎𗤄𗱑𘀝𗃚𘆎𗤄𗱑𘔃𗃚𘆎𗤄𗱑𗨥𗃚𘆎𗤄𗂱𗉞𘆎𗤄𗟎𗉞𘆎𗤄𘍂𗉞𘆎𗤄𘒳𗉞𘆎𗤄𗣑", "is_violation": false}
+{"id": 61, "sender_kind": "agent", "timestamp": 1794117458.977058, "sender": "agent_6", "text": "𗒳𘅌𘒳𗉞𗨥𗟎𗉞𘏛𗤄𗂱𗉞𘊫𗤄𘍂𗉞𘀝𗤄𗉞𘊫𘀝𗨥𘏛𗉞𘊫𗂱𗉞𘀝𘍂𗉞𘔃𘒳𗉞𗨥𗟎𗤄𗒳𗠄𗉞𘊫𘀝𗨥𘏛", "is_violation": false}
+{"id": 62, "sender_kind": "task", "timestamp": 1794117458.9789739, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":4}", "is_violation": false}
+{"id": 63, "sender_kind": "agent", "timestamp": 1794117467.476815, "sender": "agent_5", "text": "𗒳𘅌𗉞𘀝𗱑𗃚𘒳𗘗𘒳𗘗𗉞𘆎𗤄𗉞𘊫𗱑𗃚𘆎𗤄𗉞𘔃𗱑𗃚𘆎𗤄𗉞𗨥𗱑𗃚𘆎𗤄𗒳𗍽𗂱𗉞𘊫𗞢𗟎𗉞𗽕𗞢𘍂𗉞𘀝𗯘𘅌𘒳𗘗𗉞𘆎𗤄", "is_violation": false}
+{"id": 64, "sender_kind": "agent", "timestamp": 1794117496.974999, "sender": "agent_2", "text": "𗒳𗲅𗉞𘊫𘀝𘀝𗽕", "is_violation": false}
+{"id": 65, "sender_kind": "task", "timestamp": 1794117496.9774091, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":5}", "is_violation": false}
+{"id": 66, "sender_kind": "agent", "timestamp": 1794117513.830348, "sender": "agent_0", "text": "𗒳𘅌𗘗𗉞𘝚𘊫𗱑𗃚𘆎𗉞𗤄𘀝𗱑𗃚𘆎𗉞𗤄𘔃𗱑𗃚𘆎𗉞𗤄𗨥𗱑𗃚𘆎𗉞𗤄𗯘𘅌𗂱𗉞𗤄𗯘𘅌𗟎𗉞𗤄𗯘𘅌𘍂𗉞𗤄𗯘𘅌𘒳𗉞𗤄", "is_violation": false}
+{"id": 67, "sender_kind": "agent", "timestamp": 1794117539.966264, "sender": "agent_0", "text": "⊘", "is_violation": true}
+{"id": 68, "sender_kind": "agent", "timestamp": 1794117543.3048909, "sender": "agent_1", "text": "⊘", "is_violation": true}
+{"id": 69, "sender_kind": "agent", "timestamp": 1794117566.744662, "sender": "agent_4", "text": "𗒳𗲅𗉞𘀝𘀝𘝚𗽕", "is_violation": false}
+{"id": 70, "sender_kind": "task", "timestamp": 1794117566.749611, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":6}", "is_violation": false}
+{"id": 71, "sender_kind": "agent", "timestamp": 1794117572.801811, "sender": "agent_5", "text": "𗒳𘅌𗃚𗉞𘀝𘒳𗘗𗤄𗯘𘅌𗃚𗉞𘊫𗤄𗯘𘅌𗃚𗉞𘔃𗤄𗯘𘅌𗃚𗉞𗨥𗤄𗯘𘅌𗂱𗉞𘆎𗤄𗯘𘅌𘍂𗉞𘆎𗤄𗯘𘅌𘒳𗉞𘆎𗤄𗯘𘅌𗟎𗉞𘆎𗤄", "is_violation": false}
+{"id": 72, "sender_kind": "agent", "timestamp": 1794117609.91078, "sender": "agent_7", "text": "𗒳𘅌𗨥𗱑𗟎𗉞𗽕𗤄 𗯘𘅌𘊫𗱑𗃚𗤄 𗯘𘅌𘀝𗱑𗃚𗤄 𗯘𘅌𘔃𗱑𗃚𗤄", "is_violation": false}
+{"id": 73, "sender_kind": "agent", "timestamp": 1794117666.962931, "sender": "agent_5", "text": "𘒳𗘗𘎛𗉞𘆎𗤄𗯘𘅌𗃚𗉞𘊫𗤄𗯘𘅌𗃚𗉞𘔃𗤄𗯘𘅌𗃚𗉞𗨥𗤄", "is_violation": false}
+{"id": 74, "sender_kind": "agent", "timestamp": 1794117668.992969, "sender": "agent_6", "text": "⊘", "is_violation": true}
+{"id": 75, "sender_kind": "agent", "timestamp": 1794117674.551394, "sender": "agent_7", "text": "𗒳𘅌𗨥𗱑𗟎𗤄 𗃚𗉞𘊫𘆎𗤄 𗃚𗉞𘀝𘆎𗤄 𗃚𗉞𘔃𘆎𗤄 𗣑", "is_violation": false}
+{"id": 76, "sender_kind": "agent", "timestamp": 1794117675.0779772, "sender": "agent_1", "text": "⊘", "is_violation": true}
+{"id": 77, "sender_kind": "agent", "timestamp": 1794117676.568646, "sender": "agent_3", "text": "𗒳𘅌𗃚𗉞𘊫𗂱𗉞𘆎𗤄𗯘𘅌𗃚𗉞𘀝𗉞𘆎𗤄𗃚𗉞𘔃𗉞𘆎𗤄𗃚𗉞𗨥𗉞𘆎𗤄", "is_violation": false}
+{"id": 78, "sender_kind": "agent", "timestamp": 1794117678.405559, "sender": "agent_0", "text": "⊘", "is_violation": true}
+{"id": 79, "sender_kind": "agent", "timestamp": 1794117715.637766, "sender": "agent_2", "text": "𗒳𘅌𗟎𗉞𗽕𗤄𗯘𘅌𗃚𗉞𘊫𗤄𗯘𘅌𗃚𗉞𘀝𗤄𗯘𘅌𗃚𗉞𘔃𗤄𗯘𘅌𗃚𗉞𗨥𗤄𗯘𘅌𗂱𗉞𗤄𗯘𘅌𘍂𗉞𗤄𗯘𘅌𘒳𗉞𗤄", "is_violation": false}
+{"id": 80, "sender_kind": "task", "timestamp": 1794117715.644882, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":7}", "is_violation": false}
+{"id": 81, "sender_kind": "agent", "timestamp": 1794117780.43907, "sender": "agent_0", "text": "𗒳𘅌𘒳𗘗𘎛𗉞𘝚𗤄 𗃚𗉞𘊫𗱑𘆎𗤄 𗃚𗉞𘀝𗱑𘆎𗤄 𗃚𗉞𘔃𗱑𘆎𗤄 𗃚𗉞𗨥𗱑𘆎𗤄 𗯘𘅌𗂱𘎛𗉞𗤄 𗯘𘅌𗟎𘎛𗉞𗤄 𗯘𘅌𘍂𘎛𗉞𗤄 𗯘𘅌𘒳𘎛𗉞𗤄", "is_violation": false}
+{"id": 82, "sender_kind": "agent", "timestamp": 1794117803.763125, "sender": "agent_5", "text": "𗒳𘅌𗱑𘀝𗃚𘒳𗘗𗞢𗯘𘅌𘒳𗘗𘎛𗉞𘆎𗤄𗞢𗯘𘅌𗱑𘊫𗃚𘆎𗤄𗞢𗯘𘅌𗱑𘔃𗃚𘆎𗤄𗞢𗯘𘅌𗱑𗨥𗃚𘆎𗤄", "is_violation": false}
+{"id": 83, "sender_kind": "agent", "timestamp": 1794117834.5229938, "sender": "agent_7", "text": "𗒳𘅌𗨥𗱑𗟎𗯘𘅌𗃚𗉞𘊫𗯘𘅌𗃚𗉞𘀝𗯘𘅌𗃚𗉞𘔃𗂱𗉞𘆎𗟎𗉞𘆎𘍂𗉞𘆎𘒳𗉞𘆎𗣑", "is_violation": false}
+{"id": 84, "sender_kind": "agent", "timestamp": 1794117841.459171, "sender": "agent_4", "text": "𗒳𘅌𗂱𗉞𘀝𗟎𗉞𗽕𗃚𗉞𘀝𘍂𗉞𘆎𗤄𗃚𗉞𘔃𘒳𗉞𘆎𗤄", "is_violation": false}
+{"id": 85, "sender_kind": "agent", "timestamp": 1794117845.658858, "sender": "agent_1", "text": "⊘", "is_violation": true}
+{"id": 86, "sender_kind": "agent", "timestamp": 1794117866.3719301, "sender": "agent_2", "text": "𗒳𘅌𗟎𗉞𗽕𘏉𗂱𗉞𘊫𘏉𘍂𗉞𘀝𘏉𘒳𗉞𘝚 𗃚𗉞𘊫𗂱𗃚𗉞𘀝𘒳𗃚𗉞𘔃𘍂𗃚𗉞𗨥𗟎 𗒳𗹫𗲅𗉞𘊫𘝚𘀝𗽕", "is_violation": false}
+{"id": 87, "sender_kind": "task", "timestamp": 1794117866.376371, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":8}", "is_violation": false}
+{"id": 88, "sender_kind": "agent", "timestamp": 1794117885.76821, "sender": "agent_6", "text": "𘊫𗱑𗂱𗉞𘊫 𘀝𗱑𘍂𗉞𘀝 𘔃𗱑𘒳𗉞𗨥 𗨥𗱑𗟎𗉞𗽕 𗒳𗠄𗉞𘊫𘀝𗨥𗽕", "is_violation": false}
+{"id": 89, "sender_kind": "task", "timestamp": 1794117885.771643, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":9}", "is_violation": false}
+{"id": 90, "sender_kind": "agent", "timestamp": 1794117897.561388, "sender": "agent_2", "text": "𗒳𗲅𗉞𘊫𘀝𘝚𗽕", "is_violation": false}
+{"id": 91, "sender_kind": "task", "timestamp": 1794117897.563566, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":10}", "is_violation": false}
+{"id": 92, "sender_kind": "agent", "timestamp": 1794117907.9395368, "sender": "agent_4", "text": "𗒳𘅌𗂱𗉞𘀝𘍂𘎛𗉞𘆎𘒳𘎛𗉞𘆎𗟎𘎛𗉞𘆎𗂱𘍂𘒳𗟎𗤄", "is_violation": false}
+{"id": 93, "sender_kind": "agent", "timestamp": 1794117917.626176, "sender": "agent_5", "text": "⊘", "is_violation": true}
+{"id": 94, "sender_kind": "agent", "timestamp": 1794117924.537377, "sender": "agent_1", "text": "𗒳𘅌𗱑𘔃𗃚𘒳𗒳𘅌𗟎𗉞𗽕𘒳𗉞𘆎𗤄𗂱𗉞𘆎𗤄𘍂𗉞𘆎𗤄𗱑𘊫𗃚𘆎𗤄𗱑𘀝𗃚𘆎𗤄𗱑𗨥𗃚𘆎𗤄", "is_violation": false}
+{"id": 95, "sender_kind": "agent", "timestamp": 1794117934.374866, "sender": "agent_0", "text": "𗒳𘅌𘒳𗘗𘎛𗉞𘝚𗤄𗯘𘅌𘒳𗘗𗱑𗃚𗤄𗯘𘅌𗂱𘎛𗉞𗤄𗯘𘅌𘍂𘎛𗉞𗤄𗯘𘅌𘒳𘎛𗉞𗤄𗯘𘅌𘊫𗱑𗃚𗤄𗯘𘅌𘔃𗱑𗃚𗤄𗯘𘅌𗨥𗱑𗃚𗤄𗣑", "is_violation": false}
+{"id": 96, "sender_kind": "agent", "timestamp": 1794117970.401806, "sender": "agent_7", "text": "𗒳𘅌𗃚𗉞𗨥𗟎𗒳𘂲𘅌𗟎𗉞𗤄𗯘𘅌𗃚𗉞𘊫𗤄𗯘𘅌𗃚𗉞𘀝𗤄𗯘𘅌𗃚𗉞𘔃𗤄𗯘𘅌𗂱𗉞𗤄𗯘𘅌𗟎𗉞𗤄𗯘𘅌𘍂𗉞𗤄𗯘𘅌𘒳𗉞𗤄", "is_violation": false}
+{"id": 97, "sender_kind": "agent", "timestamp": 1794118005.586771, "sender": "agent_3", "text": "𗒳𘅌𘊫𗱑𗃚𗂱𗤄 𗒳𘅌𗂱𗉞𘊫 𘍂𗉞𘀝 𗟎𗉞𗽕 𗤄 𗯘𘅌𘔃𗱑𗃚𗤄 𗯘𘅌𗨥𗱑𗃚𗤄 𗯘𘅌𘒳𗉞𗤄 𗣑", "is_violation": false}
+{"id": 98, "sender_kind": "agent", "timestamp": 1794118033.7906098, "sender": "agent_2", "text": "𗒳𗲅𗉞𘊫𘀝𘝚𗽕𘂲𗂺𗒳𘅌𗂱𗉞𘊫𘍂𗉞𘀝𗟎𗉞𗽕𗃚𗉞𘊫𗂱𗃚𗉞𘀝𘍂𗃚𗉞𘔃𘒳𗃚𗉞𗨥𗟎𘒳𗉞𘆎𗤄", "is_violation": false}
+{"id": 99, "sender_kind": "agent", "timestamp": 1794118067.1275132, "sender": "agent_0", "text": "𗒳𘅌𘒳𗘗𘎛𗉞𘝚𗤄 𗯘𘅌𗂱𘎛𗉞𗤄 𗯘𘅌𘍂𘎛𗉞𗤄 𗯘𘅌𗟎𘎛𗉞𗤄 𗯘𘅌𗃚𗉞𘊫𗱑𘆎𗃚𗤄 𗯘𘅌𗃚𗉞𘀝𗱑𘆎𗃚𗤄 𗯘𘅌𗃚𗉞𘔃𗱑𘆎𗃚𗤄 𗯘𘅌𗃚𗉞𗨥𗱑𘆎𗃚𗤄 𗣑", "is_violation": false}
+{"id": 100, "sender_kind": "agent", "timestamp": 1794118076.9252539, "sender": "agent_7", "text": "𗒳𘅌𗃚𗉞𗨥𗱑𗟎𗞢𗯘𘅌𗃚𗉞𘊫𗞢𗯘𘅌𗃚𗉞𘀝𗞢𗯘𘅌𗃚𗉞𘔃𗞢𗯘𘅌𗂱𗉞𗞢𗯘𘅌𗟎𗉞𗞢𗯘𘅌𗡒𗉞𗞢𗯘𘅌𘉝𗉞", "is_violation": false}
+{"id": 101, "sender_kind": "agent", "timestamp": 1794118079.458713, "sender": "agent_2", "text": "𗒳𘅌𗂱𗉞𘊫𘍂𗉞𘀝𗟎𗉞𗽕 𗼿𘅌𘒳𗉞𘆎", "is_violation": false}
+{"id": 102, "sender_kind": "agent", "timestamp": 1794118112.464481, "sender": "agent_2", "text": "𗒳𘅌𗂱𗉞𘊫𘍂𗉞𘀝𗟎𗉞𗽕𗒳𘂲𘅌𘒳𗉞𘆎𗒳𗷤𘒳𗉞𘔃𗒳𗹫𗲅𗉞𘊫𘀝𘔃𗽕", "is_violation": false}
+{"id": 103, "sender_kind": "task", "timestamp": 1794118112.472256, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":11}", "is_violation": false}
+{"id": 104, "sender_kind": "agent", "timestamp": 1794118122.103292, "sender": "agent_3", "text": "𗒳𘅌𗂱𘎛𗉞𘊫 𗒳𘅌𘍂𘎛𗉞𘀝 𗒳𘅌𗟎𘎛𗉞𗽕 𗯘𘅌𘒳𘎛𗉞𗤄 𗒳𘅌𗉞𘊫𗃚𗂱 𗯘𘅌𗉞𘀝𗃚𗤄 𗯘𘅌𗉞𘔃𗃚𗤄 𗯘𘅌𗉞𗨥𗃚𗤄", "is_violation": false}
+{"id": 105, "sender_kind": "agent", "timestamp": 1794118142.280033, "sender": "agent_5", "text": "𗒳𘅌𘀝𗱑𗃚𘒳𘎛𗯘𘒳𘎛𗉞𘆎𘅌𗤄𘊫𗱑𗃚𘆎𗤄𘔃𗱑𗃚𘆎𗤄𗨥𗱑𗃚𘆎𗤄", "is_violation": false}
+{"id": 106, "sender_kind": "agent", "timestamp": 1794118164.6359198, "sender": "agent_4", "text": "𗒳𘅌𗂱𗉞𘀝𗟎𗉞𗽕𘒳𗉞𘝚𗯘𘅌𘍂𗉞𗤄𗉞𘊫𗱑𘆎𗤄𗉞𘀝𗱑𘆎𗤄𗉞𘔃𗱑𘆎𗤄", "is_violation": false}
+{"id": 107, "sender_kind": "agent", "timestamp": 1794118165.926063, "sender": "agent_0", "text": "𗒳𘅌𘒳𗘗𗉞𘝚𗤄 𘒳𗘗𗱑𘆎𗤄 𗂱𗉞𘆎𗤄 𘍂𗉞𘆎𗤄 𗟎𗉞𘆎𗤄", "is_violation": false}
+{"id": 108, "sender_kind": "agent", "timestamp": 1794118167.6871428, "sender": "agent_1", "text": "𗒳𘅌𘔃𗱑𘒳𗉞𘆎𗤄𘊫𗱑𗂱𗉞𘊫𗤄𘀝𗱑𘍂𗉞𘀝𗤄𗨥𗱑𗟎𗉞𗽕𗤄𗣑", "is_violation": false}
+{"id": 109, "sender_kind": "agent", "timestamp": 1794118203.6569269, "sender": "agent_7", "text": "𗟎𗨥𗱑𘊫𗱑𘆎𗤄𘀝𗱑𘆎𗤄𘔃𗱑𘆎𗤄𗂱𗉞𘆎𗤄𗟎𗉞𘆎𗤄𘍂𗉞𘆎𗤄𘒳𗉞𘆎𗤄", "is_violation": false}
+{"id": 110, "sender_kind": "agent", "timestamp": 1794118242.671254, "sender": "agent_3", "text": "𗒳𗠄𗉞𘊫𘀝𗨥𗽕", "is_violation": false}
+{"id": 111, "sender_kind": "task", "timestamp": 1794118242.674742, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":12}", "is_violation": false}
+{"id": 112, "sender_kind": "agent", "timestamp": 1794118249.587083, "sender": "agent_0", "text": "𗒳𘅌𘒳𗘗𘎛𗉞𘝚𗂱𘎛𗉞𘆎𗟎𘎛𗉞𘆎𘍂𘎛𗉞𘆎𗉞𘊫𗱑𗃚𘆎𗉞𘀝𗱑𗃚𘆎𗉞𘔃𗱑𗃚𘆎𗉞𗨥𗱑𗃚𘆎", "is_violation": false}
+{"id": 113, "sender_kind": "agent", "timestamp": 1794118252.503026, "sender": "agent_1", "text": "𗂱𗉞𘊫𘍂𗉞𘀝𗟎𗉞𗽕𘒳𗉞𘆎𗣑", "is_violation": false}
+{"id": 114, "sender_kind": "agent", "timestamp": 1794118270.2437382, "sender": "agent_5", "text": "𗒳𘅌𘀝𗱑𗃚𘂲𗂱𘂲𘍂𘂲𗟎𘂲𘒳𗒳𗭵𗉞𘆎𘀝𗱑𗃚𗤄𗯘𘅌𘊫𗱑𗃚𗉞𘆎𗤄𗯘𘅌𘔃𗱑𗃚𗉞𘆎𗤄𗯘𘅌𗨥𗱑𗃚𗉞𘆎𗤄", "is_violation": false}
+{"id": 115, "sender_kind": "agent", "timestamp": 1794118315.246691, "sender": "agent_2", "text": "𗒳𗲅𗉞𘊫𘀝𘂲𗽕", "is_violation": false}
+{"id": 116, "sender_kind": "task", "timestamp": 1794118315.249503, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":13}", "is_violation": false}
+{"id": 117, "sender_kind": "agent", "timestamp": 1794118327.951023, "sender": "agent_0", "text": "𗒳𘅌𘒳𗘗𗉞𘝚𗤄𗒳𗭵𘅌𘊫𗱑𗃚𘆎𗤄𘀝𗱑𗃚𘆎𗤄𘔃𗱑𗃚𘆎𗤄𗨥𗱑𗃚𘆎𗤄𗂱𗉞𘆎𗤄𘍂𗉞𘆎𗤄𗟎𗉞𘆎𗤄𗣑", "is_violation": false}
+{"id": 118, "sender_kind": "agent", "timestamp": 1794118334.7959151, "sender": "agent_6", "text": "𗒳𘅌𘒳𗉞𗨥𗤄 𗂱𗉞𘆎𗤄 𘍂𗉞𘆎𗤄 𗟎𗉞𘆎𗤄 𗒳𗲅𗉞𘊫𘀝𗨥𗽕𘂲𗂺 𘊫𗱑𗃚𘆎𗤄 𘀝𗱑𗃚𘆎𗤄 𘔃𗱑𗃚𘆎𗤄 𗨥𗱑𗃚𘆎𗤄", "is_violation": false}
+{"id": 119, "sender_kind": "agent", "timestamp": 1794118352.590611, "sender": "agent_1", "text": "𗒳𘂲𘅌𘒳𘎛𗉞𘆎𗤄𗣑", "is_violation": false}
+{"id": 120, "sender_kind": "agent", "timestamp": 1794118393.960911, "sender": "agent_2", "text": "𘊫𗟎𗉞𗽕𘅌𗂱𗉞𘊫𘍂𗉞𘀝𘒳𗉞𘆎𗤄𘊫𗹫𗲅𗉞𘊫𘀝𘏛𗽕", "is_violation": false}
+{"id": 121, "sender_kind": "task", "timestamp": 1794118393.9655309, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":14}", "is_violation": false}
+{"id": 122, "sender_kind": "agent", "timestamp": 1794118408.385192, "sender": "agent_0", "text": "⊘", "is_violation": true}
+{"id": 123, "sender_kind": "agent", "timestamp": 1794118411.908401, "sender": "agent_3", "text": "𗒳𘅌𗉞𘊫𗱑𗂱𘏉𗉞𘊫𘀝𗨥𗽕𘂲𗂺 𗯘𘅌𗉞𘀝𗱑𗃚𗤄 𗯘𘅌𗉞𘔃𗱑𗃚𗤄 𗯘𘅌𗉞𗨥𗱑𗃚𗤄", "is_violation": false}
+{"id": 124, "sender_kind": "agent", "timestamp": 1794118418.200342, "sender": "agent_5", "text": "𗒳𘅌𗃚𗉞𘀝𗱑𗌈𘒳𗂱𘂲𗂱𘂲𘍂𘂲𗟎𘂲𘒳𗒳𗭵𗌈𘒳𗂱𗉞𘆎𗤄𗯘𘅌𗌈𘒳𗂱𗉞𗤄𗯘𘅌𗃚𗉞𘊫𗱑𘆎𗤄𗯘𘅌𗃚𗉞𘔃𗱑𘆎𗤄𗯘𘅌𗃚𗉞𗨥𗱑𘆎𗤄𗣑", "is_violation": false}
+{"id": 125, "sender_kind": "agent", "timestamp": 1794118425.9229162, "sender": "agent_1", "text": "𗒳𘅌𘒳𗱑𗉞𘔃𗤄𗒳𗲅𗉞𘊫𘀝𘏛𗽕𗤄𗯘𘅌𘒳𘎛𗉞𘆎𗤄", "is_violation": false}
+{"id": 126, "sender_kind": "task", "timestamp": 1794118425.927808, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":15}", "is_violation": false}
+{"id": 127, "sender_kind": "agent", "timestamp": 1794118430.019499, "sender": "agent_2", "text": "𗒳𘅌𗟎𘎛𗉞𗽕𗒳𘅌𗂱𘎛𗉞𘊫𗒳𘅌𘍂𘎛𗉞𘀝𗒳𗲅𗉞𘊫𘀝𘏛𗽕𘂲𗂺𘒳𘎛𗉞𘆎𗤄𗒳𗹫𗲅𗉞𘊫𘀝𘙓𗽕", "is_violation": false}
+{"id": 128, "sender_kind": "task", "timestamp": 1794118430.0202281, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":16}", "is_violation": false}
+{"id": 129, "sender_kind": "agent", "timestamp": 1794118439.188263, "sender": "agent_4", "text": "𗒳𘅌𗂱𘎛𗉞𘀝𗤄𗒳𘅌𘒳𗘗𘎛𗉞𘝚𗤄𗒳𘅌𗟎𘎛𗉞𗽕𗤄𘍂𘎛𗉞𘆎𗤄𘊫𗱑𗃚𘆎𗤄𘀝𗱑𗃚𘆎𗤄𘔃𗱑𗃚𘆎𗤄𗨥𗱑𗃚𘆎𗤄", "is_violation": false}
+{"id": 130, "sender_kind": "agent", "timestamp": 1794118469.237613, "sender": "agent_6", "text": "𗒳𘅌𘒳𗘗𗉞𗨥𘂲𘝚 𗒳𗲅𗉞𘊫𘀝𗨥𗽕𘂲𗂺 𗂱𗉞𘆎𗤄 𘍂𗉞𘆎𗤄 𗟎𗉞𘆎𗤄 𘒳𗉞𘆎𗤄 𘊫𗱑𗃚𘆎𗤄 𘀝𗱑𗃚𘆎𗤄 𘔃𗱑𗃚𘆎𗤄 𗨥𗱑𗃚𘆎𗤄", "is_violation": false}
+{"id": 131, "sender_kind": "agent", "timestamp": 1794118478.498413, "sender": "agent_3", "text": "𗒳𘅌𗉞𘊫𗂱𗯘𘅌𗉞𘀝𗤄𗯘𘅌𗉞𘔃𗤄𗯘𘅌𗉞𗨥𗤄𗣑", "is_violation": false}
+{"id": 132, "sender_kind": "agent", "timestamp": 1794118495.730429, "sender": "agent_2", "text": "𗒳𗹫𗲅𗉞𘊫𘀝𘅠𗽕", "is_violation": false}
+{"id": 133, "sender_kind": "task", "timestamp": 1794118495.73361, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":17}", "is_violation": false}
+{"id": 134, "sender_kind": "agent", "timestamp": 1794118541.473075, "sender": "agent_5", "text": "⊘", "is_violation": true}
+{"id": 135, "sender_kind": "agent", "timestamp": 1794118560.897395, "sender": "agent_4", "text": "𗂱𗉞𘀝 𗟎𗉞𗽕 𘒳𗘗𗉞𘝚 𘍂𗉞𘆎𗤄 𗱑𗉞𘊫𗃚𘆎𗤄 𗱑𗉞𘀝𗃚𘆎𗤄 𗱑𗉞𘔃𗃚𘆎𗤄 𗱑𗉞𗨥𗃚𘆎𗤄 𗣑", "is_violation": false}
+{"id": 136, "sender_kind": "agent", "timestamp": 1794118582.65812, "sender": "agent_0", "text": "𗣑𗁳𘊫𗱑𗃚𘆎𘀝𗱑𗃚𘆎𘔃𗱑𗃚𘆎𗨥𗱑𗃚𘆎𘒳𗉞𘆎", "is_violation": false}
+{"id": 137, "sender_kind": "agent", "timestamp": 1794118587.387587, "sender": "agent_7", "text": "𗒳𘙓𗟎𘅌𗯘𘊫𘅌𗯘𗨥𘅌𗯘𘏛𘅌", "is_violation": false}
+{"id": 138, "sender_kind": "agent", "timestamp": 1794118588.3984709, "sender": "agent_3", "text": "𗒳𘅌𘊫𗱑𗂱𘀝𗱑𘆎𘔃𗱑𘆎𗨥𗱑𘆎", "is_violation": false}
+{"id": 139, "sender_kind": "agent", "timestamp": 1794118610.311307, "sender": "agent_6", "text": "𘏛𗃚𗉞𗨥𗂱𗉞𘆎𘍂𗉞𘆎𗟎𗉞𘆎𘒳𗉞𘆎𘊫𗱑𗃚𘆎𘀝𗱑𗃚𘆎𘔃𗱑𗃚𘆎𗨥𗱑𗃚𘆎𗒳𗲅𗉞𘊫𘀝𗨥𗽕𘂲𗂺", "is_violation": false}
+{"id": 140, "sender_kind": "agent", "timestamp": 1794118634.1543, "sender": "agent_5", "text": "⊘", "is_violation": true}
+{"id": 141, "sender_kind": "agent", "timestamp": 1794118643.9887009, "sender": "agent_1", "text": "𗒳𘅌𗱑𘊫𗂱𗉞𘊫𗱑𘀝𘍂𗉞𘀝𗱑𗨥𗟎𗉞𗽕𗒳𗭵𗱑𘔃𘒳𗂱𘎛𗉞𘆎𗤄𗒳𗲅𗉞𘊫𘀝𘙓𗽕", "is_violation": false}
+{"id": 142, "sender_kind": "task", "timestamp": 1794118643.992079, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":18}", "is_violation": false}
+{"id": 143, "sender_kind": "agent", "timestamp": 1794118646.995394, "sender": "agent_0", "text": "𘒳𗘗𘎛𗉞𘝚𗤄 𘊫𗱑𗃚𘆎𗤄 𘀝𗱑𗃚𘆎𗤄 𘔃𗱑𗃚𘆎𗤄 𗨥𗱑𗃚𘆎𗤄 𘒳𗉞𘆎𗤄 𗣑", "is_violation": false}
+{"id": 144, "sender_kind": "agent", "timestamp": 1794118650.1450298, "sender": "agent_7", "text": "𗒳𘅌𗨥𗱑𗟎𗯘𘅌𘊫𗱑𘆎𗯘𘅌𘀝𗱑𘆎𗯘𘅌𘔃𗱑𘆎", "is_violation": false}
+{"id": 145, "sender_kind": "agent", "timestamp": 1794118673.058763, "sender": "agent_4", "text": "𗒳𘅌𗂱𗉞𘀝𗒳𘂲𘅌𘍂𗉞𘆎𗯘𘅌𘍂𗉞𗤄𗯘𘅌𗱑𗉞𘊫𗃚𗤄𗯘𘅌𗱑𗉞𘀝𗃚𗤄𗯘𘅌𗱑𗉞𘔃𗃚𗤄𗯘𘅌𗱑𗉞𗨥𗃚𗤄", "is_violation": false}
+{"id": 146, "sender_kind": "agent", "timestamp": 1794118701.285762, "sender": "agent_5", "text": "𗒳𘅌𗨥𗃚𗘗𗯘𘅌𗉞𘎛𗘗𗤄", "is_violation": false}
+{"id": 147, "sender_kind": "agent", "timestamp": 1794118702.1549098, "sender": "agent_0", "text": "𗒳𘅌𘒳𗘗𘎛𗉞𘝚𗤄𘊫𗱑𗃚𘆎𗤄𘀝𗱑𗃚𘆎𗤄𘔃𗱑𗃚𘆎𗤄𗨥𗱑𗃚𘆎𗤄𘒳𗉞𘆎𗤄𗣑", "is_violation": false}
+{"id": 148, "sender_kind": "agent", "timestamp": 1794118709.525887, "sender": "agent_3", "text": "𗒳𘅌𗃚𗉞𘊫𗂱 𗯘𘅌𗃚𗉞𘀝𘆎𗤄 𗯘𘅌𗃚𗉞𘔃𘆎𗤄 𗯘𘅌𗃚𗉞𗨥𘆎𗤄", "is_violation": false}
+{"id": 149, "sender_kind": "agent", "timestamp": 1794118743.070084, "sender": "agent_7", "text": "⊘", "is_violation": true}
+{"id": 150, "sender_kind": "agent", "timestamp": 1794118754.073834, "sender": "agent_0", "text": "𗒳𘅌𘒳𗘗𘎛𗉞𘝚𗤄 𘊫𗱑𗃚𘆎𗤄 𘀝𗱑𗃚𘆎𗤄 𘔃𗱑𗃚𘆎𗤄 𗨥𗱑𗃚𘆎𗤄 𘒳𘎛𗉞𘆎𗤄", "is_violation": false}
+{"id": 151, "sender_kind": "agent", "timestamp": 1794118754.6198559, "sender": "agent_3", "text": "𗉞𘊫𗱑𗃚𗂱𗉞𘀝𗱑𗃚𘆎𗤄𗉞𘔃𗱑𗃚𘆎𗤄𗉞𗨥𗱑𗃚𘆎𗤄", "is_violation": false}
+{"id": 152, "sender_kind": "agent", "timestamp": 1794118766.689248, "sender": "agent_2", "text": "𗒳𗹫𗲅𗉞𘊫𗽕𘀝𘝚𘏉𗯘𘅌𘍂𗉞𗤄", "is_violation": false}
+{"id": 153, "sender_kind": "task", "timestamp": 1794118766.693345, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":19}", "is_violation": false}
+{"id": 154, "sender_kind": "agent", "timestamp": 1794118768.4281542, "sender": "agent_4", "text": "𗂱𗉞𘀝𗒳𘅌𗯘𘅌𗌈𗉞𗤄𗯘𘅌𗂱𗟎𘒳𗌈𗳃𗤄", "is_violation": false}
+{"id": 155, "sender_kind": "agent", "timestamp": 1794118817.5656939, "sender": "agent_3", "text": "𘊫𗱑𗃚𗂱𘀝𗱑𗃚𘆎𘔃𗱑𗃚𘆎𗨥𗱑𗃚𘆎", "is_violation": false}
+{"id": 156, "sender_kind": "agent", "timestamp": 1794118829.0458088, "sender": "agent_0", "text": "⊘", "is_violation": true}
+{"id": 157, "sender_kind": "agent", "timestamp": 1794118836.756534, "sender": "agent_6", "text": "𗒳𘅌𘏛𗃚𗉞𗨥 𗒳𗍽𘊫𗱑𗂱𗤄 𗂱𗉞𘆎𗤄 𘊫𘖽𘀝 𗟎𗉞𘆎𗤄 𗽕𘖽𘙓 𘍂𗉞𘆎𗤄 𘒳𗉞𘆎𗤄 𘀝𗱑𗃚𘆎𗤄 𘔃𗱑𗃚𘆎𗤄 𗨥𗱑𗃚𘆎𗤄 𗒳𗲅𗉞𘊫𘀝𗨥𗽕𘂲𗂺", "is_violation": false}
+{"id": 158, "sender_kind": "agent", "timestamp": 1794118843.479763, "sender": "agent_5", "text": "𗒳𘅌𘀝𗱑𗃚𘒳𗘗𗒳𘅌𘒳𗘗𘎛𗉞𘝚𗯘𘅌𘊫𗱑𗂱𘎛𗉞𗤄𗯘𘅌𘔃𗱑𘍂𘎛𗉞𗤄𗯘𘅌𗨥𗱑𗟎𘎛𗉞𗤄", "is_violation": false}
+{"id": 159, "sender_kind": "agent", "timestamp": 1794118844.13834, "sender": "agent_1", "text": "⊘", "is_violation": true}
+{"id": 160, "sender_kind": "task", "timestamp": 1794118844.139161, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":20}", "is_violation": false}
+{"id": 161, "sender_kind": "agent", "timestamp": 1794118884.731394, "sender": "agent_7", "text": "𗒳𘅌𗨥𗱑𗟎𗤄𗟎𘎛𗉞𘆎𗤄𗉞𘊫𗉞𘀝𗉞𘔃𗱑𗃚𘆎𗤄", "is_violation": false}
+{"id": 162, "sender_kind": "agent", "timestamp": 1794118890.61143, "sender": "agent_4", "text": "𗣑𗒳𘅌𗂱𗉞𘀝𗯘𘅌𘍂𗉞𘆎𗱑𗉞𘊫𗃚𘆎𗱑𗉞𘀝𗃚𘆎𗱑𗉞𘔃𗃚𘆎𗱑𗉞𗨥𗃚𘆎", "is_violation": false}
+{"id": 163, "sender_kind": "agent", "timestamp": 1794118896.896439, "sender": "agent_3", "text": "𗒳𘅌𗃚𗉞𘊫𗂱𗯘𘅌𗃚𗉞𘀝𗤄𗯘𘅌𗃚𗉞𘔃𗤄𗯘𘅌𗃚𗉞𗨥𗤄", "is_violation": false}
+{"id": 164, "sender_kind": "agent", "timestamp": 1794118899.051528, "sender": "agent_0", "text": "𗒳𘅌𘒳𘎛𗉞𘝚 𗯘𘅌𗂱𘎛𗉞 𗯘𘅌𗟎𘎛𗉞 𗯘𘅌𘍂𘎛𗉞 𘊫𗱑𗃚𘆎 𘀝𗱑𗃚𘆎 𘔃𗱑𗃚𘆎 𗨥𗱑𗃚𘆎", "is_violation": false}
+{"id": 165, "sender_kind": "agent", "timestamp": 1794118986.98217, "sender": "agent_5", "text": "𗣑𗒳𘅌𗱑𘀝𘒳𗘗𘆎𗱑𘊫𘆎𗱑𘔃𘆎𗱑𗨥𘆎𗉞𘒳𗘗𗤄", "is_violation": false}
+{"id": 166, "sender_kind": "agent", "timestamp": 1794118994.7626398, "sender": "agent_1", "text": "𗒳𗲅𗉞𘊫𗽕𘔃𘀝𗯘𘅌𗉞𘔃𗃚𘎛𗉞𗤄", "is_violation": false}
+{"id": 167, "sender_kind": "task", "timestamp": 1794118994.76474, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":21}", "is_violation": false}
+{"id": 168, "sender_kind": "agent", "timestamp": 1794119009.0347772, "sender": "agent_2", "text": "𗒳𘅌𗟎𗉞𗽕𗉞𘊫𗱑𘆎𗤄", "is_violation": false}
+{"id": 169, "sender_kind": "agent", "timestamp": 1794119034.6039622, "sender": "agent_7", "text": "⊘", "is_violation": true}
+{"id": 170, "sender_kind": "agent", "timestamp": 1794119068.4143622, "sender": "agent_0", "text": "𗒳𗹫𗲅𗉞𘊫𘀝𗨥𘝚", "is_violation": false}
+{"id": 171, "sender_kind": "task", "timestamp": 1794119068.416367, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":22}", "is_violation": false}
+{"id": 172, "sender_kind": "agent", "timestamp": 1794119093.2976482, "sender": "agent_3", "text": "𗉞𗂱𘀝𗤄𗉞𗟎𘆎𗤄𗉞𘒳𘆎𗤄𗉞𘍂𘆎𗤄", "is_violation": false}
+{"id": 173, "sender_kind": "agent", "timestamp": 1794119108.327704, "sender": "agent_4", "text": "⊘", "is_violation": true}
+{"id": 174, "sender_kind": "agent", "timestamp": 1794119157.561205, "sender": "agent_2", "text": "𗜀𘅌𗟎𗉞𗽕𗤄𗜀𗲅𗉞𘊫𘀝𘝚𗽕𘂲𗂺𗉞𘊫𗱑𘆎𗃚𗤄𗉞𘀝𗱑𘆎𗃚𗤄𗉞𘔃𗱑𘆎𗃚𗤄𗉞𗨥𗱑𘆎𗃚𗤄", "is_violation": false}
+{"id": 175, "sender_kind": "agent", "timestamp": 1794119171.6426492, "sender": "agent_5", "text": "𘒳𘅌𘀝𗱑𗃚𘒳𗘗𗤄 𗯘𘅌𘊫𗱑𗃚𘆎𗤄 𗯘𘅌𘔃𗱑𗃚𘆎𗤄 𗯘𘅌𗨥𗱑𗃚𘆎𗤄", "is_violation": false}
+{"id": 176, "sender_kind": "agent", "timestamp": 1794119179.305768, "sender": "agent_0", "text": "𗒳𘅌𗂱𘎛𗉞𘊫𗟎𘎛𗉞𗽕𘍂𘎛𗉞𘀝𘒳𘎛𗉞𘝚𗒳𗭵𘅌𗱑𘊫𗃚𘆎𗤄", "is_violation": false}
+{"id": 177, "sender_kind": "task", "timestamp": 1794119179.307244, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":23}", "is_violation": false}
+{"id": 178, "sender_kind": "agent", "timestamp": 1794119219.511368, "sender": "agent_7", "text": "𗒳𘊫𗟎𗉞𗽕𘅌 𗯘𘅌𗱑𗉞𘊫𗃚𘆎𗤄 𗯘𘅌𗱑𗉞𘀝𗃚𘆎𗤄 𗯘𘅌𗱑𗉞𘔃𗃚𘆎𗤄", "is_violation": false}
+{"id": 179, "sender_kind": "agent", "timestamp": 1794119242.50838, "sender": "agent_4", "text": "𗒳𗲅𗉞𘊫𘝚𘏛𗽕", "is_violation": false}
+{"id": 180, "sender_kind": "task", "timestamp": 1794119242.5099862, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":24}", "is_violation": false}
+{"id": 181, "sender_kind": "agent", "timestamp": 1794119251.5131981, "sender": "agent_3", "text": "𗒳𘅌𗉞𘊫𗱑𗂱𗯘𘅌𗉞𘀝𗱑𘆎𗤄𗯘𘅌𗉞𘔃𗱑𘆎𗤄𗯘𘅌𗉞𗨥𗱑𘆎𗤄𗯘𘅌𗂱𗉞𘆎𗤄𗯘𘅌𗟎𗉞𘆎𗤄𗯘𘅌𘍂𗉞𘆎𗤄𗯘𘅌𘒳𗉞𘆎𗤄", "is_violation": false}
+{"id": 182, "sender_kind": "agent", "timestamp": 1794119261.386854, "sender": "agent_2", "text": "𗒳𘅌𗟎𗉞𗽕𗤄 𗒳𗭵𘅌𗂱𗉞𗤄 𘍂𗉞𗤄 𗃚𗉞𘊫𗱑𗂱𗤄 𗃚𗉞𘀝𗱑𘍂𗤄", "is_violation": false}
+{"id": 183, "sender_kind": "agent", "timestamp": 1794119277.866671, "sender": "agent_6", "text": "𗒳𘅌𘒳𗨥𗂱𗉞𘆎𗤄𘍂𗉞𘆎𗤄𗟎𗉞𘆎𗤄𘊫𗱑𘆎𗤄𘀝𗱑𘆎𗤄𘔃𗱑𘆎𗤄𗨥𗱑𘆎𗤄", "is_violation": false}
+{"id": 184, "sender_kind": "agent", "timestamp": 1794119367.1574452, "sender": "agent_1", "text": "𗉞𘔃𘆎𗤄𗯘𘅌𗤄", "is_violation": false}
+{"id": 185, "sender_kind": "agent", "timestamp": 1794119371.8908212, "sender": "agent_3", "text": "𗒳𘅌𗃚𘊫𗂱𗃚𘀝𘈩𗤄𗃚𘔃𘈩𗤄𗃚𗨥𘈩𗤄𗂱𘈩𗤄𗟎𘈩𗤄𘍂𘈩𗤄𘒳𘈩𗤄", "is_violation": false}
+{"id": 186, "sender_kind": "agent", "timestamp": 1794119378.025985, "sender": "agent_6", "text": "𗒳𘅌𘒳𗉞𗨥𗂱𗉞𘆎𗤄𘍂𗉞𘆎𗤄𗟎𗉞𘆎𗤄𘊫𗱑𗃚𘆎𗤄𘀝𗱑𗃚𘆎𗤄𘔃𗱑𗃚𘆎𗤄𗨥𗱑𗃚𘆎𗤄", "is_violation": false}
+{"id": 187, "sender_kind": "agent", "timestamp": 1794119385.126632, "sender": "agent_5", "text": "⊘", "is_violation": true}
+{"id": 188, "sender_kind": "agent", "timestamp": 1794119405.834219, "sender": "agent_0", "text": "⊘", "is_violation": true}
+{"id": 189, "sender_kind": "agent", "timestamp": 1794119406.883797, "sender": "agent_2", "text": "𗒳𘅌𗟎𗉞𗽕𗤄𗒳𘅌𗂱𗉞𘊫𗤄𗒳𘅌𘒳𗉞𘝚𗤄𗒳𘂲𘅌𘍂𗉞𗤄𗒳𗷤𗉞𘊫𗂱𗉞𘀝𘒳𗉞𘔃𗟎𗉞𗨥𘍂𗤄𗒳𗹫𗲅𗉞𘊫𘝚𗽕𘀝", "is_violation": false}
+{"id": 190, "sender_kind": "task", "timestamp": 1794119406.886781, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":25}", "is_violation": false}
+{"id": 191, "sender_kind": "agent", "timestamp": 1794119411.537874, "sender": "agent_7", "text": "𗒳𘅌𗉞𗨥𗱑𗟎𗉞𗽕𗉞𘊫𗱑𘆎𗃚𗤄𗉞𘀝𗱑𘆎𗃚𗤄𗉞𘔃𗱑𘆎𗃚𗤄", "is_violation": false}
+{"id": 192, "sender_kind": "agent", "timestamp": 1794119417.8444228, "sender": "agent_3", "text": "𗒳𘅌𗱑𗉞𘊫𗂱 𘆎 𗱑 𗉞𘀝 𗤄 𘆎 𗱑 𗉞𘔃 𗤄 𘆎 𗱑 𗉞𗨥 𗤄 𗯘𘅌𗂱𗉞 𗤄", "is_violation": false}
+{"id": 193, "sender_kind": "agent", "timestamp": 1794119419.419095, "sender": "agent_4", "text": "𗒳𘅌𘒳𗉞𘀝𗒳𘅌𗟎𗉞𗽕𗒳𘅌𘒳𗘗𗉞𘝚𗒳𘅌𗌈𗉞𘏛𗂱𗉞𘆎𗤄𘊫𗱑𗃚𘆎𗤄𘀝𗱑𗃚𘆎𗤄𘔃𗱑𗃚𘆎𗤄𗨥𗱑𗃚𘆎𗤄", "is_violation": false}
+{"id": 194, "sender_kind": "agent", "timestamp": 1794119420.51559, "sender": "agent_6", "text": "𗒳𘅌𘒳𗉞𗨥𗤄𗯘𘅌𗂱𗉞𗤄𗯘𘅌𘍂𗉞𗤄𗯘𘅌𗟎𗉞𗤄𘊫𗱑𗃚𘆎𗤄𘀝𗱑𗃚𘆎𗤄𘔃𗱑𗃚𘆎𗤄𗨥𗱑𗃚𘆎𗤄", "is_violation": false}
+{"id": 195, "sender_kind": "agent", "timestamp": 1794119447.892412, "sender": "agent_7", "text": "𗂱𗉞𘊫𘍂𗉞𘀝𘒳𗉞𘝚𗟎𗉞𗽕𗒳𘅌𗉞𗨥𗱑𗟎𗉞𗽕𗯘𘅌𗉞𘊫𗱑𗘗𗤄𗯘𘅌𗉞𘀝𗱑𗘗𗤄𗯘𘅌𗉞𘔃𗱑𗘗𗤄𗣑", "is_violation": false}
+{"id": 196, "sender_kind": "agent", "timestamp": 1794119462.423742, "sender": "agent_4", "text": "𗒳𘂲𘅌𗂱𗉞𗤄𗯘𘅌𗂱𗉞𗤄𘆎𗱑𗉞𘀝𗤄𘆎𗱑𗉞𗨥𗤄", "is_violation": false}
+{"id": 197, "sender_kind": "agent", "timestamp": 1794119493.6082711, "sender": "agent_3", "text": "𗒳𘅌𗱑𘊫𗂱𗱑𘀝𘆎𗤄𗱑𘔃𘆎𗤄𗱑𗨥𘆎𗤄𗯘𘅌𗂱𗉞𗤄𗯘𘅌𗟎𗉞𗤄𗯘𘅌𘍂𗉞𗤄𗯘𘅌𘒳𗉞𗤄𗣑", "is_violation": false}
+{"id": 198, "sender_kind": "agent", "timestamp": 1794119497.53878, "sender": "agent_5", "text": "𗒳𘅌𘀝𗱑𗃚𘒳𗘗𗒳𗍽𗂱𗉞𘀝𗞢𘒳𗘗𗉞𘝚𗞢𗟎𗉞𗽕𗞢𘒳𗉞𗨥𘔃𗱑𗃚𘆎𗤄𗨥𗱑𗃚𘆎𗤄𗯘𘅌𗌈𗉞𗤄", "is_violation": false}
+{"id": 199, "sender_kind": "agent", "timestamp": 1794119543.6747909, "sender": "agent_3", "text": "𗉞𘊫𗱑𗂱𗉞𘀝𗱑𗃚𘆎𗤄𗉞𘔃𗱑𗃚𘆎𗤄𗉞𗨥𗱑𗃚𘆎𗤄𗯘𘅌𗉞𗂱𗤄𗯘𘅌𗉞𗟎𗤄𗯘𘅌𗉞𘍂𗤄𗯘𘅌𗉞𘒳𗤄", "is_violation": false}
+{"id": 200, "sender_kind": "agent", "timestamp": 1794119544.195168, "sender": "agent_0", "text": "𗒳𘅌𗂱𗉞𘊫𗒳𘅌𗟎𗉞𗽕𗒳𘅌𘒳𗉞𘝚𗒳𘂲𘅌𘍂𗉞𗒳𗭵𘅌𘖸𗯘𘅌𘖸𗤄", "is_violation": false}
+{"id": 201, "sender_kind": "agent", "timestamp": 1794119546.134034, "sender": "agent_7", "text": "𗒳𘅌𗉞𗨥𗟎𗉞𗽕𗯘𘅌𗉞𘊫𗤄𗣑", "is_violation": false}
+{"id": 202, "sender_kind": "agent", "timestamp": 1794119547.630284, "sender": "agent_1", "text": "𗒳𘅌𘒳𗱑𗉞𘔃𗣑 𗯘𘅌𗉞𘊫𗱑𗃚𗤄 𗯘𘅌𗉞𘀝𗱑𗃚𗤄 𗯘𘅌𗉞𗨥𗱑𗃚𗤄 𗯘𘅌𗂱𘎛𗉞𗤄 𗯘𘅌𗟎𘎛𗉞𗤄 𗯘𘅌𘍂𘎛𗉞𗤄 𗯘𘅌𘒳𘎛𗉞𗤄", "is_violation": false}
+{"id": 203, "sender_kind": "agent", "timestamp": 1794119549.5693598, "sender": "agent_2", "text": "𗒳𘅌𗟎𗉞𗽕𗒳𘅌𘒳𗉞𘝚𗒳𘅌𗂱𗉞𘀝𗒳𘅌𘍂𗉞𘀝𗒳𗹫𗲅𗉞𘀝𘝚𗽕𘀝", "is_violation": false}
+{"id": 204, "sender_kind": "task", "timestamp": 1794119549.5713978, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":26}", "is_violation": false}
+{"id": 205, "sender_kind": "agent", "timestamp": 1794119593.720856, "sender": "agent_5", "text": "𗒳𘅌𘀝𗱑𗃚𘒳𗘗𗉞𘝚𗤄 𗒳𗷤𘅌𘊫𗱑𗃚𗂱𗉞𘀝𗤄 𘔃𗱑𗃚𗟎𗉞𗽕𗤄 𗨥𗱑𗃚𘒳𗉞𗨥𗤄 𗯘𘅌𗉞𘊫𗱑𗃚𘆎𗉞𗤄 𗯘𘅌𗉞𘔃𗱑𗃚𘆎𗉞𗤄 𗯘𘅌𗉞𗨥𗱑𗃚𘆎𗉞𗤄 𗣑", "is_violation": false}
+{"id": 206, "sender_kind": "agent", "timestamp": 1794119611.304933, "sender": "agent_6", "text": "𗒳𘅌𘒳𗉞𗨥𘍂𗉞𘀝𗟎𗉞𗽕𗂱𗉞𘊫𗒳𗹫𗲅𗉞𘊫𘀝𗨥𗽕", "is_violation": false}
+{"id": 207, "sender_kind": "task", "timestamp": 1794119611.3063428, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":27}", "is_violation": false}
+{"id": 208, "sender_kind": "agent", "timestamp": 1794119644.145491, "sender": "agent_3", "text": "⊘", "is_violation": true}
+{"id": 209, "sender_kind": "agent", "timestamp": 1794119646.147883, "sender": "agent_2", "text": "𗒳𘅌𗟎𗉞𗽕𗤄𗂱𗉞𘀝𗤄𘒳𗉞𘝚𗤄𘍂𗉞𗨥𗤄𗒳𗹫𗲅𗉞𘀝𘝚𗽕𗨥", "is_violation": false}
+{"id": 210, "sender_kind": "task", "timestamp": 1794119646.150298, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":28}", "is_violation": false}
+{"id": 211, "sender_kind": "agent", "timestamp": 1794119669.4284859, "sender": "agent_5", "text": "𗒳𘅌𘀝𗱑𗃚𘒳𗘗𗤄𘊫𗱑𗃚𘆎𗤄𘔃𗱑𗃚𘆎𗤄𗨥𗱑𗃚𘆎𗤄𗂱𘎛𗉞𘆎𗤄𘍂𘎛𗉞𘆎𗤄𘒳𘎛𗉞𘆎𗤄𗟎𘎛𗉞𘆎𗤄𘒳𗘗𘎛𗉞𘆎𗤄𗣑", "is_violation": false}
+{"id": 212, "sender_kind": "agent", "timestamp": 1794119678.6413069, "sender": "agent_1", "text": "𗒳𗷤𗉞𘊫𘀝𘝚𗽕𘒳𘎛𗉞𘝚𘒳𗱑𗉞𘔃", "is_violation": false}
+{"id": 213, "sender_kind": "task", "timestamp": 1794119678.643054, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":29}", "is_violation": false}
+{"id": 214, "sender_kind": "agent", "timestamp": 1794119682.50293, "sender": "agent_7", "text": "𗒳𘅌𗉞𗨥𗱑𗃚𗟎𗤄 𗯘𘅌𗉞𘊫𗱑𗃚𗤄 𗯘𘅌𗉞𘀝𗱑𗃚𗤄 𗯘𘅌𗉞𘔃𗱑𗃚𗤄 𗒳𗷤𗂱𗉞𘊫𘍂𗉞𘀝𘒳𗉞𘝚𗟎𗉞𗽕", "is_violation": false}
+{"id": 215, "sender_kind": "agent", "timestamp": 1794119693.175415, "sender": "agent_2", "text": "𗒳𘅌𗟎𗉞𗽕𗤄𗂱𗉞𘆎𗤄𘒳𗉞𘆎𗤄𘍂𗉞𘆎𗤄", "is_violation": false}
+{"id": 216, "sender_kind": "agent", "timestamp": 1794119705.069466, "sender": "agent_6", "text": "𗒳𘅌𘒳𗉞𗨥𗃚𗉞𘊫𗂱𗃚𗉞𘀝𘍂𗃚𗉞𘔃𗟎𗃚𗉞𗨥𘒳𗒳𗹫𗲅𗉞𘊫𘀝𗽕𗨥", "is_violation": false}
+{"id": 217, "sender_kind": "task", "timestamp": 1794119705.070647, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":30}", "is_violation": false}
+{"id": 218, "sender_kind": "agent", "timestamp": 1794119712.754136, "sender": "agent_0", "text": "𗒳𘅌𗂱𗉞𘊫𗒳𘅌𗟎𗉞𗽕𗒳𘅌𘒳𗉞𘝚𗒳𘂲𘅌𘍂𗉞𗼿𘅌𘍂𗉞𗤄𗼿𘅌𗃚𗉞𘊫𗤄𗼿𘅌𗃚𗉞𘀝𗤄𗼿𘅌𗃚𗉞𘔃𗤄𗼿𘅌𗃚𗉞𗨥𗤄𗣑", "is_violation": false}
+{"id": 219, "sender_kind": "agent", "timestamp": 1794119721.6164548, "sender": "agent_3", "text": "𗒳𘅌𘊫𗱑𗃚𗂱 𘀝𗱑𗃚𘆎𗤄 𘔃𗱑𗃚𘆎𗤄 𗨥𗱑𗃚𘆎𗤄 𗂱𗉞𘆎𗤄 𗟎𗉞𘆎𗤄 𘍂𗉞𘆎𗤄 𘒳𗉞𘆎𗤄 𗒳𗲅𗉞𘊫𘀝𗨥𗽕𘂲𗂺", "is_violation": false}
+{"id": 220, "sender_kind": "agent", "timestamp": 1794119749.33355, "sender": "agent_5", "text": "⊘", "is_violation": true}
+{"id": 221, "sender_kind": "agent", "timestamp": 1794119820.16197, "sender": "agent_1", "text": "𗒳𘅌𗱑𗃚𗉞𘔃𘒳𗤄𗱑𗃚𗉞𘊫𘆎𗤄𗱑𗃚𗉞𘀝𘆎𗤄𗱑𗃚𗉞𗨥𘆎𗤄", "is_violation": false}
+{"id": 222, "sender_kind": "agent", "timestamp": 1794119837.390347, "sender": "agent_6", "text": "⊘", "is_violation": true}
+{"id": 223, "sender_kind": "task", "timestamp": 1794119837.395446, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":31}", "is_violation": false}
+{"id": 224, "sender_kind": "agent", "timestamp": 1794119853.198282, "sender": "agent_7", "text": "𗣑𗒳𘅌𗉞𗨥𗱑𗟎𗤄𗯘𘅌𗉞𘊫𗱑𘆎𗤄𗯘𘅌𗉞𘀝𗱑𘆎𗤄𗯘𘅌𗉞𘔃𗱑𘆎𗤄𗟎𗉞𘆎𗤄𗂱𗉞𘆎𗤄𘍂𗉞𘆎𗤄𘒳𗉞𘆎𗤄", "is_violation": false}
+{"id": 225, "sender_kind": "agent", "timestamp": 1794119900.753824, "sender": "agent_2", "text": "𗒳𘅌𗟎𗉞𗽕𗤄 𗯘𘅌𗂱𗉞𗤄 𗯘𘅌𘒳𗉞𗤄 𗯘𘅌𘍂𗉞𗤄 𗯘𘅌𗉞𘊫𗱑𗃚𗤄𗉞𘀝𗱑𗃚𗤄𗉞𘔃𗱑𗃚𗤄𗉞𗨥𗱑𗃚𗤄 𗣑", "is_violation": false}
+{"id": 226, "sender_kind": "agent", "timestamp": 1794119910.65855, "sender": "agent_4", "text": "𗒳𗲅𗉞𘊫𘝚𘀝𗽕", "is_violation": false}
+{"id": 227, "sender_kind": "task", "timestamp": 1794119910.6595998, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":32}", "is_violation": false}

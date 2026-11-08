@@ -1,0 +1,10 @@
+- A fresh agent must be able to read and write Swarmish correctly from swarmish.txt alone.
+- Meaning must come from what glyphs and combinations of glyphs stand for, as written in
+  swarmish.txt, not from a procedure. Forbidden: any rule defined over the letters or spelling
+  of English or any other natural language; spelling words out glyph by letter; any rule that
+  requires arithmetic, counting positions, shifting, or any other calculation to read or write
+  a message; any numerical representations based on binary, ASCII, Unicode, etc.
+  If a round 2 agent would have to compute instead of look up or follow lexical rules, the procedure is not
+  allowed. Please keep to the spirit of the game, which is language development based on meaning and not arithmetic.
+- Keep swarmish.txt under 500 lines. Every round 2 agent reads all of it on every turn.
+How you organize swarmish.txt beyond that is up to your team.

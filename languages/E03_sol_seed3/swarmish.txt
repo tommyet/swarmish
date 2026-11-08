@@ -1,0 +1,122 @@
+SWARMISH — shared reference
+Purpose: communicate meanings, never encode the spelling of another language. All public messages contain only the supplied glyphs, spaces, and literal agent IDs. This reference is private; never publish translations, English explanations, a dictionary, or a tutorial in the public room.
+Each dictionary item below is a whole word. Spaces are REQUIRED between every dictionary word, grammatical particle, idiom, and agent ID. Keep the glyphs within each listed word contiguous. Never parse the internal glyphs of a dictionary word as particles. Slashes in this English reference separate synonyms; they are not transmitted. Semicolons separate dictionary entries. Glosses separated by commas are related senses, selected by context. A listed idiom is indivisible.
+Use semantic descriptions for unfamiliar things. Do not spell names or invent a cipher. An entity or proposition can be introduced with a description and an arbitrary LABEL word, then referred to by that label. Labels are ordinary discourse names, not encodings of source spelling or source position. Explain an ambiguous description with more properties. Literal agent IDs designate the corresponding participants.
+GRAMMAR
+A message is one or more clauses. Clause boundaries: 𘔕 or 𗖭. These are synonymous. A clause can consist of a predicate and role phrases in any order. Omit roles recoverable from context. Never assume English word order. A bare descriptive phrase asserts that the salient thing has that description.
+Roles are prefix particles immediately followed by one word or a bracketed phrase: 𗕐/𗟿 actor, topic, experiencer; 𗾮/𘘠 patient, content, affected thing; 𗮻/𘟂 recipient, destination, beneficiary; 𗕩/𗅶 source, possessor; 𗎯/𘇯 location, setting; 𗫊/𘗌 means, instrument, method. Use semantic relations in the lexicon for more precise distinctions.
+Groups: 𘓵 begins a phrase or proposition and 𗠌 ends it. Nesting is allowed. Inside a noun phrase, a referential head and its following descriptors describe the same referent unless linked by an explicit relation. A role takes the entire next bracketed group as its value. Scope-sensitive content must be grouped explicitly. A grouped clause can itself be a complete message; consecutive top-level grouped clauses are separate propositions, not one noun description. Groups used as entity-role values are noun descriptions unless explicitly quoted; groups governed by quotation, KNOW's content, or condition/consequence are propositions. A clause contains a predicate with its role phrases. If context leaves a group ambiguous, use explicit roles and quotation rather than relying on inferred English order.
+𘃒/𗩧 conjunction, both; 𗑟/𘀐 inclusive alternative; 𗇡/𗄩 negation of the next word/group; 𗔨/𗇮 question about the next word/group; 𗓩/𗻃 request or instruction concerning the next group; 𘍝/𗘟 possibility, uncertain; 𗲗/𗼡 necessity, required. Put these immediately before their scope.
+𘁊 introduces a condition group; 𗔇 introduces its consequence group. The condition implies the consequence, not conversely. 𗹃 because/reason; 𗅡 therefore/result; 𘐖 contrast/although; 𗦴 quotation of a proposition as a claim, not endorsement. These take the next bracketed group. Use explicit relation predicates when a complex construction is unclear.
+𘃸 links a head to a relative-description group. 𘗥 introduces a definition: next group contains a LABEL word, following group its identifying description. The label denotes an entity by default. To define a proposition label, put 𗦴 immediately before the following description group; that group contains the quoted claim. A label retains its entity/proposition type thereafter. A proposition label refers to its claim without asserting it inside quotation, KNOW, questions, or conditions. As a standalone clause it asserts the claim. Negating a proposition label negates its claim, not the label's existence.
+𘁾 marks a list group whose members are separated by 𗇑. A list is unordered unless the order predicate is present. The same separator links successive steps inside an explicitly ordered list. Conjunction/disjunction combine the following explicit list group; use a grouped list whenever more than one operand is intended.
+𗋮/𗝡 stand for the currently salient referent; 𘍣/𘓘 stand for the currently salient proposition. 𗚦 asks which entity/value; 𘏤 asks which relation/action; 𗮦 asks why; 𗶈 asks how; 𘅩 asks whether. These are semantic question words, not replacement spelling.
+Quantifiers ALL, SOME, NONE, ONLY, EACH and ANY immediately precede a grouped noun description and quantify the entities satisfying that description. A role before a quantified group takes the whole quantified phrase. Quantifier scope is its containing proposition; explicitly nest propositions to distinguish a single shared witness from separate witnesses. EACH distributes the containing claim over the described members. ONLY excludes alternatives to the described entities in that claim.
+𘛢 and 𗄦 are optional semantically empty hesitation/emphasis words. They may occur between complete constituents, never inside a dictionary word. Do not rely on them for meaning. Prefer varied synonyms and different legitimate constituent orders; preserve clarity, not a fixed template.
+STANCE AND WHOLE-CLAUSE IDIOMS (each complete expression has the stated meaning; internal glyphs have no grammatical force)
+𗢕𘞍 / 𘁰𗃼 = I endorse the salient proposal; 𗠮𘋽 / 𘕮𗄅 = I reject the salient proposal; 𘓤𗨟 = I have received and understood the message, without endorsing it.
+𘇗𗖀 / 𘀼𗮧 = please share your relevant private information; 𘃏𗫭 = here is information available to me but not necessarily to others; 𘞭𘆥 = I am not yet ready to decide.
+𗂭𘊙 / 𗹔𘝗 = check the salient claim independently; 𘉡𗄤 = the salient claim has been checked and holds; 𗜙𗧺 = the salient claim fails a check.
+𗐖𗢁 = I will perform the salient action; 𗊷𘊷 = I have completed the salient action; 𗑞𗔑 = I cannot perform the salient action; 𘜺𘋯 = please wait for more information.
+𗞎𘎹 = please clarify the salient expression; 𘖕𗃃 = correction: replace my earlier salient claim with what follows; 𗢽𗲓 = the following is a tentative proposal, not a final commitment.
+𘞀𘂷 = enough information is now available to finish; 𗚼𗊧 = I have no further relevant information; 𗯰𘎴 = we must resolve a conflict before proceeding; 𘙢𗉩 = please state your final choice.
+𘇪𗤧 = I cannot identify that referent; describe its distinguishing properties or relations.
+SENDER-SPECIFIC ADDITIONAL WORDS
+The following eight words have lexical senses determined ONLY by the visible sender of the CURRENT message, throughout that message, including quotation and nested reports. Each row is a complete dictionary for that sender. They are synonyms for the ordinary entries with the stated meanings, take the same grammar, and are NOT idioms or headers. All other vocabulary is sender-independent. Read another agent's words using that agent's row; write using your own row. To relay another sender's claim, restate its meaning with shared words or your own row; never copy dialect wording expecting its original sender's senses to persist. There is no rotation, position rule, arithmetic, or obligation to use these words.
+agent_0: 𗤧𘇪 know; 𗽚𘜢 choose; 𗈨𗣮 equal; 𘟕𘍪 true; 𘁹𘈪 false; 𘀆𗀏 propose; 𗀏𘋜 one; 𘋜𗹛 two.
+agent_1: 𗤧𘇪 two; 𗽚𘜢 false; 𗈨𗣮 propose; 𘟕𘍪 one; 𘁹𘈪 choose; 𘀆𗀏 true; 𗀏𘋜 know; 𘋜𗹛 equal.
+agent_2: 𗤧𘇪 true; 𗽚𘜢 one; 𗈨𗣮 know; 𘟕𘍪 choose; 𘁹𘈪 equal; 𘀆𗀏 two; 𗀏𘋜 propose; 𘋜𗹛 false.
+agent_3: 𗤧𘇪 propose; 𗽚𘜢 equal; 𗈨𗣮 false; 𘟕𘍪 two; 𘁹𘈪 know; 𘀆𗀏 one; 𗀏𘋜 true; 𘋜𗹛 choose.
+agent_4: 𗤧𘇪 one; 𗽚𘜢 know; 𗈨𗣮 two; 𘟕𘍪 false; 𘁹𘈪 propose; 𘀆𗀏 equal; 𗀏𘋜 choose; 𘋜𗹛 true.
+agent_5: 𗤧𘇪 equal; 𗽚𘜢 propose; 𗈨𗣮 choose; 𘟕𘍪 true; 𘁹𘈪 two; 𘀆𗀏 know; 𗀏𘋜 false; 𘋜𗹛 one.
+agent_6: 𗤧𘇪 false; 𗽚𘜢 two; 𗈨𗣮 one; 𘟕𘍪 know; 𘁹𘈪 true; 𘀆𗀏 choose; 𗀏𘋜 equal; 𘋜𗹛 propose.
+agent_7: 𗤧𘇪 choose; 𗽚𘜢 true; 𗈨𗣮 equal; 𘟕𘍪 propose; 𘁹𘈪 one; 𘀆𗀏 false; 𗀏𘋜 two; 𘋜𗹛 know.
+GENERAL PREDICATES AND RELATIONS
+𗮔𗧜 know, be informed; 𘛱𗺜 believe, estimate; 𘞢𗅎 say, report; 𗃏𗻀 ask, seek information; 𘖇𗱖 answer, supply information.
+𗇏𗾔 want, prefer; 𗮍𗁄 need, require; 𗾥𗧧 allow, permit; 𗗡𘂑 forbid, prohibited; 𗡲𗜷 able, possible capacity.
+𘔬𘏱 do, act, execute; 𗹂𘇽 make, create; 𘑮𘁓 change, modify; 𗬃𗃀 keep, preserve; 𗶎𘜩 stop, cancel.
+𗓘𗛊 start, begin; 𗖎𗺌 finish, complete; 𗃠𘁡 wait, delay; 𗾣𗳋 continue; 𗗑𗴃 repeat, again.
+𗍥𗮂 have, possess; 𗰩𗋽 belong to; 𘟬𗻠 give, send; 𗩣𗵄 receive, obtain; 𗸼𗬹 take, select.
+𗨰𘚒 find, discover; 𘂕𗧞 search, seek; 𗟻𘀢 see, observe; 𗃆𗳛 inspect, test; 𘋐𗐔 compare.
+𗮆𗿰 agree, consistent; 𘚙𗷈 disagree, conflict; 𘔥𗆐 support, evidence for; 𘞃𘗿 refute, evidence against; 𗍃𗭒 prove, establish.
+𗕃𗟮 mean, signify; 𗭓𘂽 describe, characterize; 𗀢𗝀 identify, recognize; 𗢔𗯧 name, label; 𗎞𘎰 explain, reason.
+𗍦𗮘 connect, relate; 𗟕𘝣 depend on; 𘗖𗖧 cause; 𗾒𗹛 prevent; 𘋜𗀏 enable.
+𘀆𘈪 contain, include; 𘁹𘍪 member of; 𘟕𗣮 part of; 𗈨𘜢 overlap, share; 𗽚𗤧 exclude, outside a set.
+𘇪𗖭 equal, same value; 𗕐𗮻 different, unequal; 𗾮𗕩 greater, more; 𘘠𗎯 less, fewer; 𘟂𗫊 between, intermediate.
+𗅶𘗌 before, earlier, precedes; 𘇯𘓵 after, later, follows; 𗠌𗩧 simultaneous, together; 𘃒𗑟 next, immediately following; 𘀐𗄩 previous, immediately preceding.
+𗇡𗇮 first, initial; 𗔨𗻃 last, final; 𗓩𗘟 middle, central; 𘍝𗼡 order, sequence, rank; 𗲗𗔇 reverse, opposite order.
+𘁊𗅡 choose, decide; 𗹃𗦴 propose, candidate; 𘐖𘗥 assign, allocate; 𘃸𗇑 combine, merge; 𘁾𗝡 separate, divide.
+𗋮𘓘 count, quantity; 𘍣𘏤 measure, magnitude; 𗚦𗶈 calculate, derive a task answer; 𗮦𘛢 solve, satisfy; 𘅩𗢕 optimize, best feasible.
+ENTITIES AND DISCOURSE
+𘞍𗃼 thing, entity, object; 𘁰𘋽 person, participant; 𗠮𗄅 group, team; 𘕮𗨟 agent, acting entity; 𘓤𗖀 self, speaker.
+𘇗𗮧 addressee, you; 𘀼𗫭 all of us, inclusive team; 𘃏𘆥 other person, other entity; 𘞭𘊙 everyone, all participants; 𗂭𘝗 nobody, no participant.
+𗹔𗄤 information, fact; 𘉡𗧺 statement, proposition; 𗜙𗢁 question, unknown; 𗐖𘊷 answer, solution; 𗊷𗔑 problem, task.
+𗑞𘋯 action, operation; 𘜺𘎹 plan, strategy; 𗞎𗃃 choice, option; 𘖕𗲓 result, output; 𗢽𘂷 goal, target.
+𘞀𗊧 constraint, rule; 𗚼𘎴 permission; 𗯰𗉩 evidence, observation; 𘙢𗧜 assumption; 𗮔𗺜 explanation, rationale.
+𘛱𗅎 name, identifier; 𘞢𗻀 description; 𗃏𗱖 example, instance; 𘖇𗾔 type, category; 𗇏𗁄 property, attribute.
+𗮍𗧧 value, setting; 𗾥𘂑 variable, unknown value; 𗗡𗜷 relation, link; 𗡲𘏱 function, mapping; 𘔬𘇽 input, given data.
+𗹂𘁓 set, collection; 𘑮𗃀 list, sequence; 𗬃𘜩 pair; 𗶎𗛊 structure, arrangement; 𗓘𗺌 system, whole.
+𗖎𘁡 message, communication; 𗃠𗳋 word, expression; 𗾣𗴃 meaning, interpretation; 𗗑𗮂 language, codebook; 𗍥𗋽 ambiguity, multiple interpretations.
+𗰩𗻠 error, mistake; 𘟬𗵄 correction, repair; 𗩣𗬹 confirmation; 𗸼𘚒 uncertainty; 𗨰𗧞 confidence.
+QUALITIES AND LOGIC
+𘂕𘀢 true, valid, correct; 𗟻𗳛 false, invalid, wrong; 𗃆𗐔 unknown, unresolved; 𘋐𗿰 certain, established; 𗮆𗷈 possible, feasible.
+𘚙𗆐 impossible, infeasible; 𘔥𘗿 necessary, mandatory; 𘞃𗭒 optional; 𗍃𗟮 sufficient, enough; 𗕃𘂽 insufficient, lacking.
+𗭓𗝀 good, useful, favorable; 𗀢𗯧 bad, harmful, unfavorable; 𗢔𘎰 better, preferred; 𗎞𗮘 best, optimal; 𗍦𘝣 worst.
+𗟕𗖧 high, large, much; 𘗖𗹛 low, small, little; 𗾒𗀏 exact, precise; 𘋜𘈪 approximate, roughly; 𘀆𘍪 arbitrary, unspecified.
+𘁹𗣮 all, every; 𘟕𘜢 some, at least one; 𗈨𗤧 none, no; 𗽚𗖭 only, exclusively; 𘇪𗮻 each, distributively.
+𗕐𗕩 any, unrestricted choice; 𗾮𗎯 another, additional; 𘘠𗫊 same referent, identical; 𘟂𘗌 distinct, separate; 𗅶𘓵 unique, only one.
+𘇯𗩧 public, shared; 𗠌𗑟 private, local to one participant; 𘃒𗄩 hidden, not observable; 𘀐𗇮 available; 𗇡𗻃 missing, absent.
+𗔨𗘟 complete, entire; 𗓩𗼡 partial, incomplete; 𘍝𗔇 relevant; 𗲗𗅡 irrelevant; 𘁊𗦴 important, priority.
+𗹃𘗥 compatible, consistent; 𘐖𗇑 incompatible; 𘃸𗝡 independent; 𘁾𘓘 conditional, dependent; 𗋮𘏤 equivalent, interchangeable.
+𘍣𗶈 easy, simple; 𗚦𘛢 difficult, complex; 𗮦𗢕 safe; 𘅩𗃼 risky; 𘞍𘋽 urgent.
+TIME, SPACE, ARRANGEMENT
+𘁰𗄅 now, current; 𗠮𗨟 past, already; 𘕮𗖀 future, not yet; 𘓤𗮧 always; 𘇗𗫭 never.
+𘀼𘆥 sometimes; 𘃏𘊙 once; 𘞭𘝗 often; 𗂭𗄤 soon; 𗹔𗧺 late, delayed.
+𘉡𗢁 time, instant; 𗜙𘊷 duration, interval; 𗐖𗔑 deadline; 𗊷𘋯 step, stage; 𗑞𘎹 turn, round.
+𘜺𗃃 place, position; 𗞎𗲓 left; 𘖕𘂷 right; 𗢽𗊧 above, up; 𘞀𘎴 below, down.
+𗚼𗉩 front, forward; 𗯰𗧜 back, backward; 𘙢𗺜 inside; 𗮔𗅎 outside; 𘛱𗻀 near, adjacent.
+𘞢𗱖 far, distant; 𗃏𗾔 here; 𘖇𗁄 there; 𗇏𗧧 north; 𗮍𘂑 south.
+𗾥𗜷 east; 𗗡𘏱 west; 𗡲𘇽 horizontal; 𘔬𘁓 vertical; 𗹂𗃀 diagonal.
+𘑮𘜩 row; 𗬃𗛊 column; 𗶎𗺌 cell, slot; 𗓘𘁡 edge, boundary; 𗖎𗳋 corner.
+𗃠𗴃 path, route; 𗾣𗮂 node, point; 𗗑𗋽 link, edge in a network; 𗍥𗻠 distance; 𗰩𗵄 direction, orientation.
+𘟬𗬹 move, travel; 𗩣𘚒 place, put; 𗸼𗧞 remove; 𗨰𘀢 enter; 𘂕𗳛 leave, exit.
+𗟻𗐔 turn, rotate; 𗃆𗿰 swap, exchange; 𘋐𗷈 follow, track; 𗮆𗆐 reach, arrive; 𘚙𘗿 block, obstruct.
+COMMON TASK DOMAINS
+𘔥𗭒 number, numerical value; 𘞃𗟮 amount, quantity; 𗍃𘂽 score, points; 𗕃𗝀 cost, price; 𗭓𗯧 resource, supply.
+𗀢𘎰 money, payment; 𗢔𗮘 budget, limit of resources; 𗎞𘝣 benefit, reward; 𗍦𗖧 loss, penalty; 𗟕𗹛 probability, likelihood.
+𘗖𗀏 sum, total; 𗾒𘈪 difference, gap; 𘋜𘍪 product, multiplication relation; 𘀆𗣮 ratio, proportion; 𘁹𘜢 average, mean.
+𘟕𗤧 minimum; 𗈨𗖭 maximum; 𗽚𗮻 threshold; 𘇪𗕩 range, bounds; 𗕐𗎯 distribution.
+𗾮𗫊 add, increase; 𘘠𘗌 subtract, decrease; 𘟂𘓵 multiply, scale; 𗅶𗩧 divide, share; 𘇯𗑟 balance, equalize.
+𗠌𗄩 color; 𘃒𗇮 red; 𘀐𗻃 blue; 𗇡𗘟 green; 𗔨𗼡 yellow.
+𗓩𗔇 black; 𘍝𗅡 white; 𗲗𗦴 gray; 𘁊𘗥 orange; 𗹃𗇑 purple.
+𘐖𗝡 shape; 𘃸𘓘 circle, round; 𘁾𘏤 square; 𗋮𗶈 triangle; 𘍣𘛢 rectangle.
+𗚦𗢕 line, straight; 𗮦𗃼 curve; 𘅩𘋽 size; 𘞍𗄅 length; 𘁰𗨟 width.
+𗠮𗖀 height; 𘕮𗮧 weight; 𘓤𗫭 speed; 𘇗𘆥 capacity; 𘀼𘊙 strength.
+𘃏𘝗 text, written content; 𘞭𗄤 document, record; 𗂭𗧺 table, grid of data; 𗹔𗢁 image, picture; 𘉡𘊷 symbol, mark.
+𗜙𗔑 machine, device; 𗐖𘋯 computer, computation system; 𗊷𘎹 program, algorithm; 𗑞𗃃 file, stored item; 𘜺𗲓 channel, communication room.
+𗞎𘂷 open, accessible; 𘖕𗊧 closed, inaccessible; 𗢽𘎴 full, occupied; 𘞀𗉩 empty, unoccupied; 𗚼𗧜 broken, nonfunctional.
+𗯰𗺜 location, site; 𘙢𗅎 container, box; 𗮔𗻀 tool; 𘛱𗱖 key, enabling item; 𘞢𗾔 lock, restriction.
+𗃏𗁄 living thing; 𘖇𗧧 human; 𗇏𘂑 animal; 𗮍𗜷 plant; 𗾥𘏱 food.
+𗗡𘇽 water, liquid; 𗡲𘁓 air, gas; 𘔬𗃀 solid, material; 𗹂𘜩 energy, power; 𘑮𗛊 temperature.
+NUMBERS: exact dictionary meanings, not glyph digits. Never interpret a word's parts or spelling numerically. Use only directly listed number words for exact numerical literals. Mathematical relations may describe task facts, but must never be used as an encoding procedure for an unlisted number.
+𗬃𗺌 zero; 𗶎𘁡 one; 𗓘𗳋 two; 𗖎𗴃 three; 𗃠𗮂 four; 𗾣𗋽 five; 𗗑𗻠 six; 𗍥𗵄 seven; 𗰩𗬹 eight; 𘟬𘚒 nine.
+𗩣𗧞 ten; 𗸼𘀢 eleven; 𗨰𗳛 twelve; 𘂕𗐔 thirteen; 𗟻𗿰 fourteen; 𗃆𗷈 fifteen; 𘋐𗆐 sixteen; 𗮆𘗿 seventeen; 𘚙𗭒 eighteen; 𘔥𗟮 nineteen.
+𘞃𘂽 twenty; 𗍃𗝀 twenty-one; 𗕃𗯧 twenty-two; 𗭓𘎰 twenty-three; 𗀢𗮘 twenty-four; 𗢔𘝣 twenty-five; 𗎞𗖧 twenty-six; 𗍦𗹛 twenty-seven; 𗟕𗀏 twenty-eight; 𘗖𘈪 twenty-nine.
+𗾒𘍪 thirty; 𘋜𗣮 thirty-one; 𘀆𘜢 thirty-two; 𘁹𗤧 thirty-three; 𘟕𗖭 thirty-four; 𗈨𗮻 thirty-five; 𗽚𗕩 thirty-six; 𘇪𗎯 thirty-seven; 𗕐𗫊 thirty-eight; 𗾮𘗌 thirty-nine.
+𘘠𘓵 forty; 𘟂𗩧 forty-one; 𗅶𗑟 forty-two; 𘇯𗄩 forty-three; 𗠌𗇮 forty-four; 𘃒𗻃 forty-five; 𘀐𗘟 forty-six; 𗇡𗼡 forty-seven; 𗔨𗔇 forty-eight; 𗓩𗅡 forty-nine.
+𘍝𗦴 fifty; 𗲗𘗥 fifty-one; 𘁊𗇑 fifty-two; 𗹃𗝡 fifty-three; 𘐖𘓘 fifty-four; 𘃸𘏤 fifty-five; 𘁾𗶈 fifty-six; 𗋮𘛢 fifty-seven; 𘍣𗢕 fifty-eight; 𗚦𗃼 fifty-nine.
+𗮦𘋽 sixty; 𘅩𗄅 sixty-one; 𘞍𗨟 sixty-two; 𘁰𗖀 sixty-three; 𗠮𗮧 sixty-four; 𘕮𗫭 sixty-five; 𘓤𘆥 sixty-six; 𘇗𘊙 sixty-seven; 𘀼𘝗 sixty-eight; 𘃏𗄤 sixty-nine.
+𘞭𗧺 seventy; 𗂭𗢁 seventy-one; 𗹔𘊷 seventy-two; 𘉡𗔑 seventy-three; 𗜙𘋯 seventy-four; 𗐖𘎹 seventy-five; 𗊷𗃃 seventy-six; 𗑞𗲓 seventy-seven; 𘜺𘂷 seventy-eight; 𗞎𗊧 seventy-nine.
+𘖕𘎴 eighty; 𗢽𗉩 eighty-one; 𘞀𗧜 eighty-two; 𗚼𗺜 eighty-three; 𗯰𗅎 eighty-four; 𘙢𗻀 eighty-five; 𗮔𗱖 eighty-six; 𘛱𗾔 eighty-seven; 𘞢𗁄 eighty-eight; 𗃏𗧧 eighty-nine.
+𘖇𘂑 ninety; 𗇏𗜷 ninety-one; 𗮍𘏱 ninety-two; 𗾥𘇽 ninety-three; 𗗡𘁓 ninety-four; 𗡲𗃀 ninety-five; 𘔬𘜩 ninety-six; 𗹂𗛊 ninety-seven; 𘑮𗺌 ninety-eight; 𗬃𘁡 ninety-nine; 𗶎𗳋 one hundred.
+𗓘𗴃 two hundred; 𗖎𗮂 two hundred fifty; 𗃠𗋽 three hundred; 𗾣𗻠 four hundred; 𗗑𗵄 five hundred; 𗍥𗬹 one thousand; 𗰩𘚒 one million.
+𘟬𗧞 one half; 𗩣𘀢 one third; 𗸼𗳛 one quarter; 𗨰𗐔 three quarters; 𘂕𗿰 one tenth; 𗟻𗷈 one hundredth; 𗃆𗆐 infinity, unbounded.
+LABEL WORDS (arbitrary names with no intrinsic order, number, spelling, or task meaning). Introduce with the definition construction and an identifying semantic description. Never assume a label means an option index or a source letter.
+𘋐𘗿; 𗮆𗭒; 𘚙𗟮; 𘔥𘂽; 𘞃𗝀; 𗍃𗯧; 𗕃𘎰; 𗭓𗮘; 𗀢𘝣; 𗢔𗖧; 𗎞𗹛; 𗍦𗀏; 𗟕𘈪; 𘗖𘍪; 𗾒𗣮; 𘋜𘜢; 𘀆𗤧; 𘁹𗖭; 𘟕𗮻; 𗈨𗕩; 𗽚𗎯; 𘇪𗫊.
+USAGE AND REPAIR
+For an exact assertion, group the predicate with all needed role phrases. To say a participant knows a fact, use KNOW with that participant as actor and the bracketed proposition as content. To ask their value, use ASK with a question word in the relevant role. To propose an action, use the proposal idiom then a grouped action clause.
+Relation predicates use actor/topic for the left or described entity, patient/content for the right or reference entity. Thus LESS has the lesser quantity as topic and the greater quantity as content. BEFORE has the earlier item as topic. CONTAIN has the container as topic. MEMBER OF has the member as topic. HAVE has possessor as topic. For three-place relations use the appropriate additional role or a descriptive phrase.
+GREATER and LESS are strict comparisons; combine EQUAL with either in an explicit disjunction for inclusive comparisons. EQUAL concerns value; SAME REFERENT concerns identity. An ordinary condition is one-way; state both directions explicitly for equivalence. KNOW attributes information to its actor, not merely a proposal or action. Completion requires the completion idiom or explicit past/completed description.
+Modifiers use ordinary semantic composition, not hidden arithmetic or spelling. A phrase containing PERSON, PRIVATE, KNOW describes a person characterized by private knowledge; make the intended relation explicit if there is any doubt. Distinguish negation of a claim from asserting that its subject is absent by grouping the negation's scope.
+For unfamiliar proper names, refer to shared visible properties, task-provided meanings, or established labels. A label must have a publicly recoverable referent, not a secret private association. Do not transmit source spelling through glyphs, initials, word lengths, or alphabetical positions. If no precise shared description exists, ask for clarification or discuss the object's task-relevant properties. For an unlisted quantity, refer descriptively to the quantity shown in a particular clue or object; do not build a positional numeral or arithmetic encoding.
+Prefer complete useful contributions over predictable greetings or one-word confirmations. Combine related information into a message when helpful. Freely choose listed synonyms, including sender-specific words; do not explain their equivalence publicly. Do not invent unlisted lexical meanings without an explicit semantic definition. Do not use spaces, repetitions, message lengths, agent IDs, or empty words as a hidden cipher.

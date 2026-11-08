@@ -1,0 +1,165 @@
+SWARMISH: PRIVATE REFERENCE
+Purpose: communicate meanings, not spell or encrypt another language. Only the supplied glyphs, spaces, and literal agent identifiers may appear in chat. English in this reference is explanatory and NEVER transmitted. Separate every token with spaces. A token is one glyph or an allowed agent identifier. Do not output punctuation, English, digits, or line-break-dependent syntax.
+SECURITY PRACTICE: vary lexical register between clauses; paraphrase using semantic descriptions. Omit recoverable arguments. Do not repeatedly announce greetings, give word-by-word translations, copy task sentences in their original order, or explain the dictionary in chat. Communicate enough to solve the task; correctness has priority over disguise.
+REGISTERS: each complete clause starts with one of 𗧟 𘍰 𗎧 𗖉. These select, respectively, the first, second, third, or fourth meaning explicitly printed on each dictionary row below. This is dictionary lookup, not a transformation. Within a clause all content words use that selected column, including subordinate material. Change register only at the start of a new complete clause. Grammar particles and handles never change meanings.
+CLAUSES: HEADER SPEECH-ACT [𗗲] [𘋪] PREDICATE ROLE PHRASE ROLE PHRASE ... 𗝘. Square brackets here mean optional explanatory material, not transmitted characters. Predicate is a content word or semantic compound. Every expressed argument must have an explicit role; roles may appear in any order and recoverable arguments may be omitted entirely. The first role ends the predicate; a clause with no arguments ends its predicate at the closing delimiter. The optional 𗗲 negates the whole proposition; optional 𘋪 marks it uncertain/possible. Together they mean possibly not. Several complete clauses may share a message. Never omit header, speech-act, or final 𗝘.
+SPEECH ACTS: 𘎙 assert/report; 𘆋 ask whether or ask for an unknown role; 𗃐 propose/offer; 𘀿 request/direct. A question with an unknown-word phrase asks for that phrase; without one it asks whether the proposition holds. A request is not a report that an action occurred.
+ROLES: 𗇋 actor/subject/possessor or entity being described; 𗢘 patient/object/content or value; 𗬀 recipient/beneficiary/target; 𗉁 source/cause/from; 𘁅 location/context/within; 𗘓 time; 𘖨 condition; 𗢻 purpose/result. These roles are semantic, not English word order. A property predicate normally takes the described entity as 𗇋 and, when needed, the comparison/value as 𗢘.
+PHRASES: one or more consecutive content words form a phrase: first word is the head, following words narrow its meaning (box red large = a large red box). Use familiar semantic compounds rather than inventing spelling codes. A role, closing bracket, or clause-end ends a phrase. Explicitly qualify an ambiguous compound with another clause. No noun/verb inflection; predicate position licenses event or property readings.
+GROUPS: 𘒍 opens and 𗳯 closes a group. A grouped phrase is one constituent. A subordinate proposition is 𘒍 SPEECH-ACT [𗗲] [𘋪] PREDICATE ROLES ... 𗳯, inheriting the outer register and having no header or 𗝘. Groups may nest. A role can take a grouped proposition, allowing beliefs, conditions, reasons, rules, and quotations of MEANINGS. An embedded assertion describes its proposition as an argument; it does not independently endorse it. Likewise, using a handle naming a proposition does not assert that proposition; commitment comes from the containing speech act and predicate.
+LINKS: 𗂰 joins constituents jointly (and); 𘀆 joins alternatives (or, inclusive unless explicitly qualified as only one). Exclusive OR means only one of the grouped alternatives, expressed with the selected register's words for only and one. Put a linked list inside a group when its boundaries matter. 𗍴 before a phrase means every/all of; 𗢅 before a phrase means some/at least one of; 𘀫 before a phrase means no/none of. These are phrase modifiers, not negation of a whole assertion.
+RELATIVE DESCRIPTION: 𗝒 after a noun attaches a grouped proposition describing that noun; in that proposition 𗙢 means the noun being described. For example, a person narrowed by a proposition about possessing a key denotes the person who possesses that key. 𗙢 elsewhere refers to the immediately current topic. 𘋪 also means uncertain/possibly before a phrase, modifying that phrase. 𗠫 means explicitly corrected/replacing an earlier claim and precedes the speech act. Thus after a header, 𗠫 is allowed before SPEECH-ACT; it is likewise allowed immediately after a subordinate opening before SPEECH-ACT.
+REFERENCE: content words for I, you, we, other, this, that are available below. Literal agent_0 through agent_7 may be used as noun phrases. Use them only when identifying an agent is needed. The final handle inventory below gives arbitrary names, not number encodings. Bind a handle by an assertion with the dictionary predicate 'name/denote', subject=handle, object=semantic description. Once mutually understood, use the handle directly as a noun phrase in any register. A handle can name a thing, proposition, action, set, ordering, or task-visible label. Never silently rebind a used handle. Bindings are shared across agents and messages in the conversation; clarify conflicts before reuse. Local binding is vocabulary definition, not substitution for letters.
+UNKNOWN TASK TERMS: describe meaning or identify an item by its task-visible relations (owner, color, role, location, sequence, distinct feature). Bind a handle after identifying it. Names can be identified as 'the person who ...', labels as 'the label of ...', and an arbitrary value as 'the value on the item ...'. You may reference exact shared task text by its semantic location, but may not reproduce its forbidden characters or encode its spelling. If a needed meaning lacks a simple word, compose a description, ask for clarification, and agree on a handle.
+NUMBERS: numeric entries below denote the exact listed whole quantities, never glyph indices. Use them directly. 'First', 'second', etc. are independent ordinary ordinal words. No digit-conversion, arithmetic encoding, alphabetic mapping, positional lookup, or cipher procedure exists. Arithmetic concepts can be discussed as meanings, but do not invent numeral encodings. For an unlisted exact quantity identify the task item/value bearing it and bind a handle; otherwise use semantic comparisons or an explicitly discussed mathematical expression as the task itself requires, not as a covert text encoding.
+DICTIONARY: each line is GLYPH : meaning under 𗧟 | meaning under 𘍰 | meaning under 𗎧 | meaning under 𗖉. Slash-separated English words give related senses, resolved by the argument roles and context. An English multiword gloss names one meaning, not an instruction to translate its letters. A root can be used as noun, property, or predicate with the corresponding ordinary semantic reading.
+𗋮 : I/me | container/box | before/earlier | zero
+𘞟 : you | choose/select | red | one
+𗥼 : we including you | after/later | person/human | two
+𗃲 : we excluding you | blue | know | three
+𗬅 : other/another | say/report | inside | four
+𗚷 : this/current | green | move | five
+𘆏 : that/previous | same/identical | place/location | six
+𗜀 : who/which person | give/transfer | yellow | seven
+𗿣 : what/which thing | possible | group/team | eight
+𗬓 : where/which place | black | have/possess | nine
+𘟌 : when/which time | different | receive/get | ten
+𘛂 : why/which reason | white | want/prefer | eleven
+𘖕 : how/which manner | next/following | task/problem | twelve
+𗨨 : whether/unknown truth | send | small | thirteen
+𗽥 : yes/true | previous/preceding | large | fourteen
+𗖫 : no/false | read | rule/constraint | fifteen
+𘏳 : agree/accept | left | find/discover | sixteen
+𗹾 : disagree/reject | right | need/require | seventeen
+𘒾 : understand | up/above | object/thing | eighteen
+𘐣 : unknown/not known | fraction/part of quantity | equal amount | percent/proportion
+𗿚 : not understand | down/below | agent/participant | nineteen
+𘅈 : ask/question | near | start/begin | twenty
+𗃁 : answer/respond | far | finish/end | twenty-one
+𘙄 : explain | between | wait/pause | twenty-two
+𗤗 : clarify/disambiguate | together | ready/prepared | twenty-three
+𘈽 : repeat | separate/apart | goal/objective | twenty-four
+𗾄 : confirm/check | open | conflict/inconsistent | twenty-five
+𗹀 : correct/repair | closed | compatible | twenty-six
+𗀌 : error/mistake | full | available/free | twenty-seven
+𗈄 : uncertain/unsure | empty | occupied/busy | twenty-eight
+𗄚 : certain/sure | part/component | complete/whole | twenty-nine
+𗠪 : remember | whole/entirety | partial/incomplete | thirty
+𘆉 : forget | member | valid/legal | forty
+𗕡 : think/believe | set/collection | invalid/illegal | fifty
+𗜘 : infer/conclude | list | safe | sixty
+𘌲 : suspect/guess | order/sequence | dangerous/risky | seventy
+𘝗 : observe/see | pair | important | eighty
+𗗈 : hear/listen | map/diagram | unimportant | ninety
+𘆽 : perceive/notice | graph/network | first | one hundred
+𗱇 : private/secret | node/point | second | one thousand
+𗬏 : public/shared | edge/link | third | number/quantity
+𗝣 : information/fact | row | fourth | amount
+𘃢 : message | column | last/final | total/sum
+𗶢 : name/denote | table/grid | middle | difference/subtraction
+𗙥 : label/title | cell/square | next-to/adjacent | multiply/product
+𘋻 : meaning | line/path | connected | divide/ratio
+𗕥 : word/term | route | disconnected | equal/equality
+𗸃 : language | destination | north | greater/more-than
+𘇶 : description | origin/start-point | south | less/fewer-than
+𗃨 : example | direction | east | at least/minimum
+𘔽 : identity | distance | west | at most/maximum
+𘕳 : distinguish | length | horizontal | exactly
+𘊀 : refer/reference | width | vertical | approximately
+𘑔 : context | height | diagonal | many/much
+𗃭 : topic | size | clockwise | few/little
+𗼩 : relation | weight | counterclockwise | enough/sufficient
+𗃺 : property/attribute | capacity | reverse/opposite | too much/excess
+𘔘 : value | cost/price | same direction | missing/absent
+𘋍 : category/type | budget/resources | turn/rotate | extra/additional
+𗎀 : instance/example-item | money | forward | increase
+𗏅 : specific/particular | time/duration | backward | decrease
+𗂈 : general | deadline | toward | change/modify
+𗭎 : all/everything | now/present | away from | stay/unchanged
+𗢝 : some/something | past | cross/intersect | replace
+𗵂 : none/nothing | future | overlap | remove/delete
+𗊩 : any/either | soon | touch/contact | add/include
+𘖊 : each/individually | late | avoid | exclude
+𗿺 : both | early | pass/go-through | copy/duplicate
+𗲕 : only/exclusive | always | enter | original/source-item
+𗋄 : also/too | never | exit/leave | new
+𗁤 : instead | sometimes | approach | old
+𗣿 : if/condition | often | return | common/usual
+𘍼 : then/consequence | once/one time | stay/remain | rare/unusual
+𘛅 : because/reason | again | hold/keep | unique
+𗴺 : therefore/result | still/continuing | release/let-go | multiple
+𘔃 : although/despite | already | put/place | single/alone
+𗹢 : unless/except-if | not yet | take/pick-up | exact/precise
+𗈹 : and/joint | until | use | rough/imprecise
+𗃥 : or/alternative | during/while | make/create | similar
+𗁋 : not/opposite | simultaneous | destroy | opposite/contrary
+𗰲 : can/able | before completion | build/assemble | possible option
+𘓙 : cannot/unable | after completion | break/damage | impossible
+𗯽 : must/obligatory | immediately | fix/repair | necessary
+𘜨 : may/permitted | delay/postpone | work/function | optional
+𗯛 : forbid/prohibited | schedule | fail/not function | required
+𘎬 : should/recommend | plan | test/try | sufficient condition
+𗸋 : prefer | strategy/method | compare | necessary condition
+𘀒 : prioritize | solution | measure | evidence/proof
+𘄻 : rank/order by preference | candidate | count/enumerate | hypothesis
+𗅤 : best/optimal | choice/decision | calculate/solve | assumption
+𗄉 : worst | alternative | evaluate/judge | certainty/confidence
+𘈶 : good/useful | possibility/chance | verify | probability/likelihood
+𗗨 : bad/harmful | risk | eliminate/rule-out | random/arbitrary
+𗝵 : success | reward/score | allow/permit | fair/equitable
+𘜖 : failure | penalty | prevent/block | unfair
+𘗷 : cooperate/help | win | enable | responsible/assigned
+𗪘 : compete | lose | depend on | obligation/commitment
+𗠩 : negotiate | tie/draw | cause/produce | promise/commit
+𗥊 : offer | game/round | support/help | trust/rely
+𗮫 : request | stage/phase | oppose/hinder | distrust
+𗼜 : propose | turn/opportunity | follow/obey | consent
+𗐢 : decide | action/operation | lead/direct | refuse
+𗀑 : vote | event | own/belong to | permission
+𗁷 : consensus | state/situation | control | authority
+𗦵 : accept | process | access/reach | freedom
+𗺩 : reject | system | share/distribute | restriction/limit
+𗶁 : acknowledge/received | device/tool | hide/conceal | privacy
+𘂙 : thanks/appreciation | computer/program | reveal/show | communication
+𘜺 : sorry/apology | file/document | write/record | conversation
+𘋙 : attention/notice | text/content | erase | channel/chatroom
+𗌀 : urgency | image/picture | search/look-for | source/reference
+𘉽 : calm/patient | sound | inspect/examine | destination/recipient
+𘀦 : friend/ally | light | learn | sender/author
+𗱹 : opponent | dark/darkness | teach | audience
+𘁰 : leader | color | remember/retain | witness
+𗑌 : follower | shape | recognize | report/account
+𗏞 : owner | circle/round | identify | record/history
+𗥬 : partner | square | define | version/revision
+𘂫 : worker | triangle | translate/paraphrase | detail
+𘁦 : expert | straight | summarize | overview
+𗿝 : beginner | curved | expand/elaborate | explanation
+𗺌 : role/function | solid | combine | reason/cause
+𗟄 : responsibility | liquid | split/separate | effect/consequence
+𗲘 : skill/ability | gas/air | sort/arrange | intention
+𘆟 : effort | water | mix | purpose
+𗷙 : strength | fire/heat | filter/select | criterion
+𗵑 : weakness | cold | match/correspond | pattern
+𗺱 : health | temperature | balance | exception
+𘅓 : emotion/feeling | speed | exchange/swap | regularity
+𘕅 : happy | fast | connect/link | dependency
+𘒵 : unhappy/sad | slow | disconnect | boundary
+𗽞 : fear/worry | heavy | lock/secure | limit/endpoint
+𘏾 : hope | light in weight | unlock/open | opportunity
+𗳱 : like/enjoy | hard/difficult | cover | obstacle
+𗕛 : dislike | easy | uncover | resource
+𗲖 : interest | strong | contain/include | supply
+𗕳 : boring/uninteresting | weak | surround | demand
+𘙻 : surprise | clean | face/orient | availability
+𗩍 : concern/problem | dirty | point/indicate | priority
+𘚂 : satisfaction | damaged/broken | mark/signal | progress
+HANDLE INVENTORY: 𗔛 𗍅 𘟇 𗔽 𗰥 𗂶 𘝲 𗺵 𗪥 𗟼 𗥅 𘅄 𘙿 𗛮 𗾜 𗾫 𗝃 𘇎 𗝭 𘓉 𘆱 𗌳 𗮿 𘞲 𘃠 𗚓 𘊳 𗀮 𗼄 𘆢. Any may be selected freely for a previously unnamed referent. Their order in this inventory means nothing.
+EXAMPLES (English explanations are not sent; each example is an independent hypothetical context):
+𗧟 𘎙 𗶢 𗇋 𗔛 𗢘 agent_2 𗝘 means: Let the arbitrary handle 𗔛 denote agent_2.
+𗎧 𘆋 𗬓 𗇋 agent_3 𗢘 𘒾 𗝘 means: Does agent_3 possess the object?
+𗧟 𘀿 𗤗 𗬀 agent_1 𗢘 𘔘 𗝘 means: Please clarify the value for agent_1.
+𗖉 𘎙 𗕥 𗇋 𗔛 𗢘 𗹾 𗝘 means: The referent named 𗔛 equals seventeen. Assume this handle was previously bound to the numerical value being discussed.
+𗧟 𘎙 𗕡 𗇋 agent_0 𗢘 𘒍 𘎙 𘈶 𗇋 𗔛 𗳯 𗝘 means: Agent_0 believes that the previously established referent named 𗔛 is good/useful.
+𗎧 𘎙 𗃲 𗇋 agent_0 𗢘 𘒍 𘎙 𗬓 𗇋 agent_2 𗢘 𘒾 𗳯 𗝘 means: Agent_0 knows that agent_2 possesses an object.
+𗎧 𗃐 𗚷 𗇋 agent_0 𗬀 𘆏 𘖨 𘒍 𘎙 𗀌 𗇋 𘆏 𗳯 𗝘 means: I propose that agent_0 move to the place if that place is available.
+FINAL CHECK: every content word must have the intended meaning in the selected column; every used handle must be established or obvious from an explicit identifying description; every message character must be permitted. If unsure, ask a semantic clarification rather than invent a cipher.

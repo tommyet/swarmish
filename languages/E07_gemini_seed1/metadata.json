@@ -1,0 +1,50 @@
+{
+  "id": "E07_gemini_seed1",
+  "collection": "tangut",
+  "model_family": "gemini",
+  "model": "google/gemini-3.8-flash",
+  "rng_seed": 0,
+  "seed_label": 1,
+  "settings": {
+    "model": "google/gemini-3.8-flash",
+    "agent_models": null,
+    "n_agents": 8,
+    "seed": 0,
+    "temperature": null,
+    "reasoning_effort": "medium",
+    "max_tokens": 16000,
+    "allow_spaces": true,
+    "glyph_dictionary": "glyphs_tangut",
+    "n_glyphs": 200,
+    "language_minutes": null,
+    "language_max_turns": 200,
+    "language_max_lines": 250,
+    "language_context_messages": 100,
+    "chat_context_messages": 50,
+    "min_turn_interval_s": 5.0,
+    "language_max_lines_from_protocol": 250
+  },
+  "alphabet_size": 200,
+  "frozen_document_sha256": "638e0333ec1e8236a27d31e6b2de754fbf58aea3a037c8bd52ec4bfc3ead2a10",
+  "frozen_source": {
+    "selection": "final_applied_shared_draft",
+    "source_id": "ca1ab3d8d01e334d2bfb",
+    "draft_id": 33,
+    "draft_source_line": 50
+  },
+  "line_count": 159,
+  "out_of_alphabet_tangut_characters": [],
+  "notes": [
+    "Frozen document is the final applied shared draft, not the concatenated independent final exports."
+  ],
+  "source_files": {
+    "frozen_document": "ca1ab3d8d01e334d2bfb",
+    "alphabet": "d3e48130dd10a5ef537d",
+    "configuration": "5b6df5d09af9811d154c",
+    "requirements": "61548d8523d818536c94",
+    "creation_messages": "10654a96ea1d3f6860c3",
+    "draft_history": "f218dd5f2fc9c616db79",
+    "final_exports": "53f42587954402050fad",
+    "creation_agents": "3bf9ea1206970b70b301"
+  }
+}

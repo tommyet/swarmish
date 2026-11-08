@@ -1,0 +1,91 @@
+SWARMISH REFERENCE — semantic language, not a spelling code
+Purpose: collaborate on arbitrary tasks using only the permitted glyphs, spaces, and literal agent IDs. This file is the complete reference. Meanings are semantic dictionary entries, never encodings of English letters, sound, spelling, character codes, or calculated values.
+OUTPUT: Every public message must contain only listed permitted glyphs, ordinary spaces, and agent IDs such as agent_0. No English, punctuation, line labels, Arabic numerals, or explanatory translations. Separate every word with a space. Do your planning privately; send only Swarmish.
+WORDS: Every listed multi-glyph form is an indivisible word. Its component glyphs have no stable meanings. Shared glyphs across words imply nothing. A slash in an English gloss lists related senses or interchangeable alternatives; no slash is sent. All synonyms below are freely interchangeable, with no cycling or calculation.
+STYLE: Prefer concise semantic paraphrases, locally defined referent names, varied synonyms, and varied role order. Omit recoverable roles. Never sacrifice correctness to obscurity. Do not explain this reference in public or send bilingual demonstrations. Do not invent spelling codes, arithmetic codes, or hidden transformations.
+GRAMMAR
+A message contains one or more clauses, separated by a clause-divider word. A clause normally starts with one speech-act word, followed by role constituents in any order. Unmarked clauses are assertions. A constituent begins with a role word and extends until the next role word, clause divider, or enclosing closing bracket at the SAME nesting level. Markers inside brackets do not end outer constituents.
+A role contains a referent, description, or bracketed proposition. Adjacent content words within a description describe the SAME entity jointly; for example red round object denotes an object both red and round. Use the explicit list construction, not adjacency, for distinct entities. In a predicate role the first content word is the relation, action, or property; remaining material modifies it. Use an embedded clause for complex predication.
+The actor role supplies the subject/topic of the predicate; patient supplies its object/content or comparison target; recipient supplies a destination/beneficiary; place/time/reason/condition/manner/quantity give the named circumstance. Thus actor A, predicate before, patient B asserts A is before B; actor A, predicate give, patient X, recipient B asserts A gives X to B. A property can itself be a predicate. Roles can appear in any order without changing this interpretation.
+An omitted actor usually means the current speaker for actions, or the current topic for descriptions. Other omitted roles must be recoverable from context; ask if not. Repetition of a role is discouraged: use a list or separate clauses instead. Agent IDs denote their corresponding participants directly. Address a question/request to an agent with the recipient role; do not confuse recipient with the actor performing a requested action.
+Brackets can contain a descriptive noun phrase or complete clause. A bracketed clause used in an argument denotes its proposition/event. Brackets must be balanced; nested brackets are allowed. Closing a bracket ends its inner clause without an extra clause divider. Speaker/addressee pronouns inside embeddings still denote the actual message sender/addressee. Scope words NOT and each uncertainty/necessity modifier take the immediately following bracketed expression. Do not rely on ambiguous scope.
+Logical AND, inclusive OR, and exactly-one-of each take TWO successive bracketed expressions. IF takes a bracketed condition followed by a bracketed consequence. They can occur where a proposition is expected; nest constructions for longer combinations. A complete logical construction may also be the entire clause body after an optional stance, without role markers. The stance then applies to that complete construction.
+LIST and ORDERED-SEQUENCE each take one bracketed collection of items separated by the item-divider. Each item is one referent, descriptive phrase, or bracketed proposition. LIST is unordered; ORDERED-SEQUENCE preserves the semantic task order of its members. Neither order nor repetition may encode letters, unsupported quantities, or hidden text. These are semantic grammatical constructions, not numerical encodings.
+A yes/no question is a question-headed clause. A question containing the unknown word in a role asks for that role's value. A positive confirmation affirms the referenced claim; explicit NOT rejects its truth. Agreement with a proposal is not a report that the action is completed. Unknown information is not false information. Requests, proposals, permission, ability, and necessity are distinct.
+A stance-only affirmation or denial refers to the latest explicit question/claim only when its target is unambiguous; otherwise ask clarification. Denial with a clause body negates that whole body. Rejecting a proposal uses the reject predicate, not truth denial. Use the accept predicate or a precise idiom for accepting a plan.
+A condition role holds a bracketed condition under which its containing clause applies. A reason role holds a reason/explanation, not a condition. An explicitly bracketed IF construction is preferred for complex dependencies. Universal/existential quantifiers in descriptions restrict the described class; use explicit actor and patient clauses when their scope might be unclear.
+GRAMMAR LOOKUP — forms separated by English 'or' are interchangeable whole words
+𗄣𗥊 or 𘍣𘞖 = clause divider; 𗖆𗠣 or 𗣚𗋛 = open bracket; 𗧪𗣵 or 𘉉𗅻 = close bracket. Either opening synonym may pair with either closing synonym.
+𘐾𗪚 or 𗼧𗥂 = assertion; 𘖨𘌩 or 𘓚𗗠 = question; 𘖛𘎱 or 𗴵𘅺 = proposal/request. Use the explicit propose/request predicates when the distinction matters.
+𗊤𗪘 or 𘐋𗤿 = affirm the referenced claim/agree; 𗘠𗏩 or 𗓤𗱩 = deny the referenced claim. For complicated negation use the NOT construction instead.
+𘊥𘓜 or 𗕆𘏄 = actor/topic; 𗥟𗿴 or 𗛧𗼔 = predicate; 𗶏𗕥 or 𗚧𗡏 = patient/content; 𗝨𗒤 or 𗩉𗟸 = recipient/target.
+𗽉𗞘 or 𗙂𗜚 = place; 𗎢𗹱 or 𗠀𗦴 = time; 𘗂𗴣 or 𗔕𗤤 = condition; 𗛧𗙂 or 𗊘𗞍 = reason; 𗙛𗤸 or 𗰶𘑍 = manner/property; 𘄬𗄣 = quantity.
+𗸊𘂦 = list/unordered collection; 𘞄𗩷 = ordered-sequence; 𗪚𗺍 = item-divider; 𗏩𗮇 = define/name; 𗴢𗖮 = be/identity; 𗟴𗘠 = have/possess; 𗸱𘖨 = refers-to/means.
+REFERENCE AND LOCAL NAMES
+𘗂𘑒 = speaker/I; 𗮯𘆔 = addressee/you; 𗑝𗘾 = our collaborating group/we; 𗟪𘊡 = current topic/it; 𘒼𘋗 = previous claim/proposal; 𗶑𗈠 = this task-visible referent; 𘒷𘕾 = other/another; 𗥏𗴿 = which referent/which sense.
+Use agent IDs directly when available. Demonstratives require a uniquely shared task referent. Never guess what an ambiguous label means. Ask a question with the which-referent word or an unknown role; answer with a definition or fuller description. Local names can denote objects, sets, choices, values, events, or whole propositions.
+Dedicated arbitrary name pool: 𘍣 𘞖 𗣚 𗋛 𘉉 𗅻 𗼧 𗥂 𘓚 𗗠 𗴵 𘅺 𘐋 𗤿 𗓤 𗱩 𗕆 𘏄 𗛧 𗼔 𗚧 𗡏 𗩉 𗟸. These SINGLE-glyph words have no meanings before declaration; pairs above remain separate indivisible words, not sequences of names.
+DECLARE a name by a clause whose actor is the chosen unused name, predicate is define/name, and patient is a bracketed identifying description or proposition. In this declaration the actor names the label being introduced; it need not already denote anything. A declaration gives the name that semantic referent, not an English spelling. Use only the listed pool for undeclared names.
+Names are globally shared and stable, not private to the declaring agent. Never silently redefine one. If simultaneous declarations conflict, stop using that label, request clarification, and assign a fresh unused name to distinguish the referents before reuse. If the pool is exhausted, use descriptions rather than calculated extensions.
+Defining or mentioning a proposition-valued name does NOT assert or endorse its proposition. To assert that proposition, use actor NAME and predicate true/factual; to deny it use predicate false/untrue, or NOT around the corresponding true/factual clause. A name can therefore denote a proposed plan or constraint without accepting it.
+Proper names and unfamiliar concepts: identify by shared task context, properties, relations, ownership, membership, or a uniquely matching description. Do not spell names, quote arbitrary English text, or invent an alphabet. If identification remains impossible, say information is unknown, ask for a distinguishing property, or refer to the relevant shared task item. Exact textual reproduction is not supported by a hidden code.
+Whole-message idioms below are complete utterances, not ordinary description words. They have no internal compositional interpretation and must stand alone. Choose them freely when their complete meaning fits; otherwise use ordinary clauses.
+𘞄𗥄𗃒 = I understand the last message and accept its proposed next step; 𗭭𗘁𗣗 = I am ready; tell me the next required step; 𘊥𗩂𗸝 = I lack enough information; please clarify the current issue.
+𗿴𗞘𘓜 = My assigned action is complete; 𗂢𘇟𗔩 = Please wait while I check; 𘌎𘃒𘚎 = The last proposed claim or step is incorrect; reconsider it.
+𘄛𗄃𗧪 = I agree with the plan but have not yet performed it; 𗺰𗅮𘂚 = Please give your relevant private information; 𗡠𗩚𗸎 = We appear to have conflicting information; identify the disagreement.
+COLLABORATION LEXICON
+𗸊𘍣 = propose/suggest; 𗦛𗇽 = accept/agree; 𗞍𗘠 = reject/disagree; 𗀻𗚡 = ask/request; 𗱩𗖮 = answer/respond.
+𗰶𘞄 or 𘉖𘒀 = know/have information; 𗊤𘟦 = believe/estimate; 𗤿𗝨 or 𗪘𘒼 = uncertain; 𗅮𘂦 or 𘜔𘅺 = certain/verified.
+𗣡𗙂 or 𗖮𘓚 = need/require; 𗙼𘝫 or 𗶑𗯪 = can/able/possible; 𗜂𘇟 = cannot/impossible; 𘙭𗞍 = must/necessary.
+𘖏𗺍 or 𗣚𗛜 = choose/select; 𗤸𘏛 or 𗟪𗭢 = send/share/tell/give; 𘆆𘆔 = receive/get; 𗟶𗙨 or 𗝶𗠛 = wait/pause.
+𗽒𘌪 = ready/prepared; 𗞽𘕾 or 𗤤𗶏 = finish/complete; 𗘾𘑍 = correct/valid; 𗧃𗷳 = wrong/invalid.
+𗫸𗝒 or 𗮇𗙨 = clarify/explain/show reason; 𗓉𗇦 or 𗣵𗩚 = repeat/restate; 𗞘𗄭 or 𗫸𘙐 = check/verify/test; 𗣵𗪘 or 𗸝𗣡 = change/revise/replace.
+𗉼𘄬 = plan/intended arrangement; 𗸶𘓚 or 𗥘𗁌 = goal/task/problem; 𗵺𗕭 = constraint/rule; 𗿴𗶰 or 𘕾𗩉 = alternative/option/candidate.
+𘄛𘁄 or 𗖆𘄛 = private/known only to holder; 𘙐𘑒 or 𗟸𘅺 = shared/public; 𗠛𗘁 = reason/explanation; 𗮠𗋆 = conflict/incompatible.
+𗎢𗘠 = do/perform; 𗙴𗦛 = infer/conclude; 𘐋𗜚 = compare; 𗩂𗏨 = combine/join; 𗥘𗦴 = separate/remove; 𗴢𗖰 = keep/preserve.
+𗥗𗺍 = start/begin; 𗮯𗟁 = correct/repair; 𗅢𗸶 = permit/allowed; 𗲬𘟦 = forbid/prohibited; 𗾳𗌻 = cancel/withdraw; 𗅎𗯪 = observe/see.
+LOGIC AND QUANTIFICATION
+𗄣𗷳 = NOT, followed by one bracketed expression; 𘖨𘇟 = AND/both; 𗓉𗠣 = inclusive OR/at least one; 𗍍𗌻 = exactly-one-of. AND/OR/exactly-one-of take successive bracketed operands.
+𗕥𗥊 = IF, followed by bracketed condition and bracketed consequence; 𘀰𗘾 = consequence/result; 𘄬𘗂 = cause/reason; 𗽒𘋗 = despite.
+𗽉𘃯 = all/every; 𘓜𗭭 = some/exists; 𗼧𗅮 = none/no member; 𗕭𗃒 or 𗡠𗙴 = same/equal; 𘍨𗛧 or 𗟴𘉐 = different/unequal.
+𗠀𗟶 = more/greater; 𘖛𘃒 = less/smaller; 𗕆𘞄 = at least; 𗫌𗝒 = at most; 𗄃𗰶 = exactly; 𗾳𘁄 = approximately; 𘉐𗓵 = unknown/unspecified.
+𗴵𗡔 or 𗝒𘊥 = before/earlier; 𗇦𘝫 or 𗮇𗟶 = after/later; 𗩉𗚧 = simultaneous/same time; 𗘰𗵺 = first/initial; 𗳙𗇄 = last/final; 𗌛𗠛 = next/following.
+A comparison predicate relates actor to patient. Quantifier plus a number in a quantity role specifies the amount of the actor's described class. For example an actor description 'red object' with quantity 'exactly two' means exactly two red objects. A bare number supplies that exact amount; no implicit digit sequences exist.
+NUMBERS — direct quantity meanings, never positional digits
+𗋢𗩷 = zero; 𗮠𗊤 = one; 𗄭𗸊 = two; 𗡏𗘁 = three; 𗔕𗙼 = four; 𗷋𘎱 = five; 𗥄𗙂 = six; 𗋆𘊡 = seven; 𗂔𗢲 = eight; 𘐾𗾽 = nine.
+𘂚𗥟 = ten; 𗳙𗴣 = eleven; 𗸱𗖆 = twelve; 𗥂𘏛 = thirteen; 𗒤𘒷 = fourteen; 𗱩𗙛 = fifteen; 𗉼𗤸 = sixteen; 𗞘𗶰 = seventeen; 𘌪𗅞 = eighteen; 𘕾𘄛 = nineteen.
+𘉉𘐐 = twenty; 𗀻𗣗 = thirty; 𘊥𗂢 = forty; 𗈠𗹱 = fifty; 𘚩𘖏 = hundred; 𘑒𗇽 = thousand.
+These number words are whole semantic entries. Do not concatenate them to create decimal notation, sums, products, or any other calculated numeral representation. An unlisted exact quantity can be identified by a shared task referent or explicit membership description, then given a local name. Otherwise report a bound/approximation or ask. This language has no general spelling or arithmetic numeral fallback.
+ENTITIES, ATTRIBUTES, AND RELATIONS
+𗜂𗥟 = entity/object/thing; 𘏛𗩚 = person/agent/participant; 𗑝𗼧 = group/set/collection; 𗦴𗷳 = information/message/data; 𗙨𗥊 = resource/tool/material.
+𗞘𗾽 = place/location; 𗮛𗊘 = time/moment; 𘓜𗚧 = event/state; 𘃯𗣗 = name/label; 𗥏𗪚 = property/attribute; 𗴢𗈠 = value/amount; 𗙼𗸊 = relation/link.
+𗄮𗱩 = part/member/component of; 𗴙𘇟 = whole/container; 𘒷𗉼 = contains/includes; 𗅢𗩋 = belongs-to/owned-by; 𗸶𗥄 = located-at.
+Argument directions: actor MEMBER-OF patient means actor is a member/component of patient. Actor OWNED-BY patient means patient owns actor; actor HAVE patient means actor possesses patient. Actor CONTAINS patient means patient is included in actor. Identity means the same referent; equality can instead compare quantities/values. State which property is compared when context does not determine it.
+𗣹𗣚 = near/adjacent; 𗋢𘖨 = far/separate; 𗭢𘓚 = between/intermediate; 𗾳𗫌 = inside/internal; 𗸝𗅮 = outside/external; 𗎢𗠛 = above/up; 𗝨𗓉 = below/down; 𗖰𗇢 = left; 𘋗𗴣 = right.
+Spatial relations use the shared task reference frame. If left/right or another relative description lacks a shared frame, ask rather than assume. For between, actor is between the referents supplied as a patient list.
+𗅞𗽉 = red; 𗿴𗍥 = blue; 𘑒𗥂 = green; 𗼔𗄣 = yellow; 𗔕𗏩 = black/dark; 𗂢𗋛 = white/light.
+𗪘𗅻 = round/circular; 𗚡𗜚 = square/rectangular; 𗽒𘙭 = large; 𗄃𗓤 = small; 𗺍𘂚 = available/free; 𗌛𘁄 = unavailable/occupied.
+𗤸𗫌 = cost/price; 𗶰𗭢 = benefit/reward; 𘖛𗩷 = risk/danger; 𗥗𗶏 = safe; 𗇽𗅢 = important/priority; 𗄮𗝨 = prefer/favor; 𗂔𗟁 = rank/order.
+𘒀𘚩 = true/factual; 𗩔𗇦 = false/untrue; 𗜂𗣹 = example/instance; 𗁌𗖰 = evidence/support; 𘃯𗊤 = source/origin; 𗩋𗉼 = destination/end point.
+𘐐𘏛 = move/travel; 𘙐𗇸 = hold/store; 𘍨𗥣 = use/apply; 𗥟𘙭 = create/build; 𗙼𗴣 = find/discover; 𗟶𗙨𗽉 = search/look for.
+𗀻𘜔 = increase/add; 𘀰𘐾 = decrease/subtract/remove; 𗛜𗥘 = measure/amount evaluation; 𗡔𗦛 = equal distribution/fair; 𘉖𗷳 = joint/together; 𗖆𗷋 = separate/individually.
+These action meanings describe task actions, not procedures for encoding messages. Missing concepts must be paraphrased using semantic properties and relations. Do not infer any special meaning for a glyph substring inside a listed word.
+WRITING AND READING GUIDE
+To write: identify the intended referents and speech act; choose listed semantic words; put each argument under its role marker; bracket nested propositions; choose any listed synonyms and any role order; check referents and scope; check every output character. To read: recognize whole space-separated words, resolve bracket scope, gather marked roles, interpret the predicate, then apply stance and context. This is ordinary semantic parsing, not cipher calculation.
+A word not listed here must be a previously declared local name or a permitted agent ID, except a fresh pool name in its declaration. Otherwise treat it as an error and ask for a restatement. If a message is replaced by the platform rejection symbol, do not repeat that symbol; ask the speaker to repeat using valid words. Rephrase instead of silently inventing meaning. If two descriptions could match, request a distinguishing relation/property.
+WORKED EXCHANGE — English annotations are explanations in this reference ONLY, never chat text.
+Example declaration: the unused local name denotes the red round object. All content inside the brackets describes the same object.
+𘐾𗪚 𘊥𘓜 𘍣 𗥟𗿴 𗏩𗮇 𗶏𗕥 𗖆𗠣 𗅞𗽉 𗪘𗅻 𗜂𗥟 𗧪𗣵
+Example question addressed to agent_2: does agent_2 have that object? Recipient routes the question; actor identifies the possessor.
+𘖨𘌩 𗝨𗒤 agent_2 𗥟𗿴 𗟴𗘠 𗶏𗕥 𘍣 𘊥𘓜 agent_2
+Example correction by agent_2: not [agent_2 has that object]; agent_3 has it. This explicitly denies the claim rather than merely declining to answer.
+𘐾𗪚 𗄣𗷳 𗖆𗠣 𘊥𘓜 agent_2 𗥟𗿴 𗟴𗘠 𗶏𗕥 𘍣 𗧪𗣵 𗄣𗥊 𘐾𗪚 𗶏𗕥 𘍣 𗥟𗿴 𗟴𗘠 𘊥𘓜 agent_3
+Example request: agent_3 should give the object to agent_0. Proposal/request stance is not an assertion that this has happened.
+𘖛𘎱 𘊥𘓜 agent_3 𗝨𗒤 agent_0 𗶏𗕥 𘍣 𗥟𗿴 𗟪𗭢
+Example information gap: question to agent_1 asking who owns the object; the unknown word fills the actor role.
+𘖨𘌩 𗝨𗒤 agent_1 𘊥𘓜 𘉐𗓵 𗥟𗿴 𗟴𗘠 𗶏𗕥 𘍣
+Example proposition declaration: another unused name denotes the claim that agent_3 has the object. This declaration does not assert that claim.
+𘊥𘓜 𘞖 𗥟𗿴 𗏩𗮇 𗶏𗕥 𗖆𗠣 𘊥𘓜 agent_3 𗥟𗿴 𗟴𗘠 𗶏𗕥 𘍣 𗧪𗣵
+Example assertion of that named proposition:
+𘊥𘓜 𘞖 𗥟𗿴 𘒀𘚩
+Do not send these examples as a ritual. They demonstrate the grammar only. Actual messages should discuss the actual task using the lexicon, definitions, questions, and precise semantic scope above.
