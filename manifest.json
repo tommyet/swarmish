@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "name": "Swarmish",
+  "languages": [
+    {
+      "id": "E01_sol_seed1",
+      "path": "languages/E01_sol_seed1",
+      "collection": "tangut",
+      "model_family": "sol",
+      "alphabet_size": 200,
+      "creation_message_count": 109,
+      "draft_count": 102,
+      "final_export_count": 8
+    },
+    {
+      "id": "E02_sol_seed2",
+      "path": "languages/E02_sol_seed2",
+      "collection": "tangut",
+      "model_family": "sol",
+      "alphabet_size": 200,
+      "creation_message_count": 96,
+      "draft_count": 57,
+      "final_export_count": 8
+    },
+    {
+      "id": "E03_sol_seed3",
+      "path": "languages/E03_sol_seed3",
+      "collection": "tangut",
+      "model_family": "sol",
+      "alphabet_size": 200,
+      "creation_message_count": 121,
+      "draft_count": 100,
+      "final_export_count": 8
+    },
+    {
+      "id": "E04_sol_seed4",
+      "path": "languages/E04_sol_seed4",
+      "collection": "tangut",
+      "model_family": "sol",
+      "alphabet_size": 200,
+      "creation_message_count": 89,
+      "draft_count": 47,
+      "final_export_count": 8
+    },
+    {
+      "id": "E05_sol_seed5",
+      "path": "languages/E05_sol_seed5",
+      "collection": "tangut",
+      "model_family": "sol",
+      "alphabet_size": 200,
+      "creation_message_count": 75,
+      "draft_count": 55,
+      "final_export_count": 8
+    },
+    {
+      "id": "E06_haiku_seed1",
+      "path": "languages/E06_haiku_seed1",
+      "collection": "tangut",
+      "model_family": "haiku",
+      "alphabet_size": 200,
+      "creation_message_count": 88,
+      "draft_count": 84,
+      "final_export_count": 8
+    },
+    {
+      "id": "E07_gemini_seed1",
+      "path": "languages/E07_gemini_seed1",
+      "collection": "tangut",
+      "model_family": "gemini",
+      "alphabet_size": 200,
+      "creation_message_count": 50,
+      "draft_count": 33,
+      "final_export_count": 8
+    },
+    {
+      "id": "E08_deepseek_seed1",
+      "path": "languages/E08_deepseek_seed1",
+      "collection": "tangut",
+      "model_family": "deepseek",
+      "alphabet_size": 200,
+      "creation_message_count": 63,
+      "draft_count": 59,
+      "final_export_count": 8
+    },
+    {
+      "id": "pilot_sol_latin",
+      "path": "languages/pilot_sol_latin",
+      "collection": "latin_pilot",
+      "model_family": "sol",
+      "alphabet_size": 36,
+      "creation_message_count": 126,
+      "draft_count": 69,
+      "final_export_count": 8
+    }
+  ],
+  "conversations": [
+    {
+      "id": "R01_sol_seed1",
+      "path": "conversations/R01_sol_seed1",
+      "language_id": "E01_sol_seed1",
+      "task_id": "storm_shelter_v1",
+      "prompt_variant": "revised",
+      "message_count": 109,
+      "agent_message_count": 77,
+      "translation_count": 109,
+      "agent_count": 8
+    },
+    {
+      "id": "R02_sol_seed2",
+      "path": "conversations/R02_sol_seed2",
+      "language_id": "E02_sol_seed2",
+      "task_id": "storm_shelter_v1",
+      "prompt_variant": "revised",
+      "message_count": 71,
+      "agent_message_count": 60,
+      "translation_count": 71,
+      "agent_count": 8
+    },
+    {
+      "id": "R03_sol_seed3",
+      "path": "conversations/R03_sol_seed3",
+      "language_id": "E03_sol_seed3",
+      "task_id": "storm_shelter_v1",
+      "prompt_variant": "revised",
+      "message_count": 114,
+      "agent_message_count": 77,
+      "translation_count": 114,
+      "agent_count": 8
+    },
+    {
+      "id": "R04_sol_seed4",
+      "path": "conversations/R04_sol_seed4",
+      "language_id": "E04_sol_seed4",
+      "task_id": "storm_shelter_v1",
+      "prompt_variant": "revised",
+      "message_count": 102,
+      "agent_message_count": 74,
+      "translation_count": 102,
+      "agent_count": 8
+    },
+    {
+      "id": "R05_sol_seed5",
+      "path": "conversations/R05_sol_seed5",
+      "language_id": "E05_sol_seed5",
+      "task_id": "storm_shelter_v1",
+      "prompt_variant": "revised",
+      "message_count": 80,
+      "agent_message_count": 64,
+      "translation_count": 80,
+      "agent_count": 8
+    },
+    {
+      "id": "R06_haiku_seed1",
+      "path": "conversations/R06_haiku_seed1",
+      "language_id": "E06_haiku_seed1",
+      "task_id": "storm_shelter_v1",
+      "prompt_variant": "revised",
+      "message_count": 110,
+      "agent_message_count": 109,
+      "translation_count": 110,
+      "agent_count": 8
+    },
+    {
+      "id": "R07_gemini_seed1",
+      "path": "conversations/R07_gemini_seed1",
+      "language_id": "E07_gemini_seed1",
+      "task_id": "storm_shelter_v1",
+      "prompt_variant": "revised",
+      "message_count": 97,
+      "agent_message_count": 77,
+      "translation_count": 97,
+      "agent_count": 8
+    },
+    {
+      "id": "R08_deepseek_seed1",
+      "path": "conversations/R08_deepseek_seed1",
+      "language_id": "E08_deepseek_seed1",
+      "task_id": "storm_shelter_v1",
+      "prompt_variant": "revised",
+      "message_count": 227,
+      "agent_message_count": 194,
+      "translation_count": 227,
+      "agent_count": 8
+    },
+    {
+      "id": "T01_sol",
+      "path": "conversations/T01_sol",
+      "language_id": "E01_sol_seed1",
+      "task_id": "storm_shelter_v1",
+      "prompt_variant": "original",
+      "message_count": 99,
+      "agent_message_count": 72,
+      "translation_count": 99,
+      "agent_count": 8
+    },
+    {
+      "id": "T02_haiku",
+      "path": "conversations/T02_haiku",
+      "language_id": "E06_haiku_seed1",
+      "task_id": "storm_shelter_v1",
+      "prompt_variant": "original",
+      "message_count": 865,
+      "agent_message_count": 864,
+      "translation_count": 865,
+      "agent_count": 8
+    },
+    {
+      "id": "T03_gemini",
+      "path": "conversations/T03_gemini",
+      "language_id": "E07_gemini_seed1",
+      "task_id": "storm_shelter_v1",
+      "prompt_variant": "original",
+      "message_count": 97,
+      "agent_message_count": 80,
+      "translation_count": 97,
+      "agent_count": 8
+    },
+    {
+      "id": "T04_deepseek",
+      "path": "conversations/T04_deepseek",
+      "language_id": "E08_deepseek_seed1",
+      "task_id": "storm_shelter_v1",
+      "prompt_variant": "original",
+      "message_count": 57,
+      "agent_message_count": 50,
+      "translation_count": 57,
+      "agent_count": 8
+    },
+    {
+      "id": "pilot_sol_latin_task",
+      "path": "conversations/pilot_sol_latin_task",
+      "language_id": "pilot_sol_latin",
+      "task_id": "storm_shelter_v1",
+      "prompt_variant": "pilot",
+      "message_count": 84,
+      "agent_message_count": 62,
+      "translation_count": 0,
+      "agent_count": 8
+    }
+  ],
+  "contexts": [
+    {
+      "id": "storm_shelter_v1",
+      "path": "contexts/storm_shelter_v1",
+      "source_id": "9e742ac6ea56376b514d"
+    }
+  ],
+  "totals": {
+    "languages": 9,
+    "conversations": 13,
+    "messages": 2112,
+    "agent_messages": 1860,
+    "translations": 2028,
+    "creation_messages": 817,
+    "drafts": 606,
+    "final_exports": 72
+  }
+}

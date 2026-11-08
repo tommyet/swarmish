@@ -1,0 +1,50 @@
+{
+  "id": "E03_sol_seed3",
+  "collection": "tangut",
+  "model_family": "sol",
+  "model": "openai/gpt-6.1-sol",
+  "rng_seed": 2,
+  "seed_label": 3,
+  "settings": {
+    "model": "openai/gpt-6.1-sol",
+    "agent_models": null,
+    "n_agents": 8,
+    "seed": 2,
+    "temperature": null,
+    "reasoning_effort": "medium",
+    "max_tokens": 16000,
+    "allow_spaces": true,
+    "glyph_dictionary": "glyphs_tangut",
+    "n_glyphs": 200,
+    "language_minutes": null,
+    "language_max_turns": 200,
+    "language_max_lines": 250,
+    "language_context_messages": 100,
+    "chat_context_messages": 50,
+    "min_turn_interval_s": 5.0,
+    "language_max_lines_from_protocol": 250
+  },
+  "alphabet_size": 200,
+  "frozen_document_sha256": "324a4403e25f035f13f481212388b45ac6984435da51e59629c08eee1827ee3d",
+  "frozen_source": {
+    "selection": "final_applied_shared_draft",
+    "source_id": "c258e5dc36c87dbbf243",
+    "draft_id": 100,
+    "draft_source_line": 167
+  },
+  "line_count": 122,
+  "out_of_alphabet_tangut_characters": [],
+  "notes": [
+    "Frozen document is the final applied shared draft, not the concatenated independent final exports."
+  ],
+  "source_files": {
+    "frozen_document": "c258e5dc36c87dbbf243",
+    "alphabet": "f558880147c812e568fa",
+    "configuration": "cef24da83e503e3b5a52",
+    "requirements": "eac2a54f256290828041",
+    "creation_messages": "e95135da164e2b8381fc",
+    "draft_history": "a84495b844ea1b726c0a",
+    "final_exports": "9052e98e5a59b7936267",
+    "creation_agents": "b8c685abed03156f3124"
+  }
+}

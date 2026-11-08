@@ -1,0 +1,67 @@
+{
+  "id": "T01_sol",
+  "language_id": "E01_sol_seed1",
+  "task_id": "storm_shelter_v1",
+  "prompt_variant": "original",
+  "settings": {
+    "model": "openai/gpt-6.1-sol",
+    "agent_models": null,
+    "task_model": "openai/gpt-6.1-sol",
+    "n_agents": 8,
+    "task_n_agents": 8,
+    "seed": 0,
+    "temperature": null,
+    "reasoning_effort": "medium",
+    "max_tokens": 16000,
+    "allow_spaces": true,
+    "task_kind": "escape_room",
+    "task_minutes": null,
+    "task_feedback": true,
+    "task_feedback_interval_s": 60.0,
+    "task_prompt": "",
+    "chat_context_messages": 50,
+    "min_turn_interval_s": 5.0
+  },
+  "translation": {
+    "available": true,
+    "method": "Reference-assisted translation using only the frozen Swarmish language and public transcript; not independently certified translation ground truth.",
+    "private_annotations_used": false,
+    "translation_notes": [
+      "Translated only from the frozen E01 language reference and the public messages in chronological order. No private agent notes, private clues, action records, intended meanings, or room answers were used.",
+      "Every public entry is retained. Task entries are reproduced verbatim. Agent claims, requests, failed actions, conflicting observations, and stale information are not repaired.",
+      "The glyph vocabulary has indivisible two-glyph words. Unlisted words in messages 5 and 7 remain unknown. The whole-discourse idiom misplaced in message 8 is identified rather than silently converted to a grammar marker.",
+      "Descriptions such as flowing liquid, round light during a dark time, distant light above, and round light and energy above are kept as descriptions. Conventional symbol names and task action labels are not imported from the room setup.",
+      "The only explicit alias binding occurs at message 31: 𗿃𗇾 denotes the energy-creation action. Later uses are translated using that public declaration.",
+      "Confidence describes confidence in the reference-based reading, not the truth of a speaker’s statement. Public task updates do not reveal the private action or private result that caused them.",
+      "Language-line evidence lists the grammar and dictionary entries used. Prior public-message evidence lists contextual referents or antecedents when material. The current source text is always the immediate evidence for its own translation."
+    ],
+    "alias_bindings": [
+      {
+        "message_id": 31,
+        "alias": "𗿃𗇾",
+        "meaning": "the action that creates energy",
+        "declaration_kind": "identify/bind particular referent",
+        "language_lines": [
+          35,
+          36,
+          37,
+          43,
+          74
+        ]
+      }
+    ],
+    "certified_ground_truth": false,
+    "source_transcript_sha256": "e803d867348670f3239d6e6e4cac17a9ca53de5a6b1aaab21a1f2593ac57643c",
+    "language_sha256": "657e2217fade9d75810493f9522576725e77ca867bd9d831abaa925854596f10"
+  },
+  "source_files": {
+    "public_transcript": "6a3a43a86b471cdf6d43",
+    "task_definition": "2a512cbb7816af0742ae",
+    "frozen_document": "94939cb1080c92a29f8f",
+    "english_reference": "915029786d76e46f9821",
+    "configuration": "15038380ef14822443db",
+    "task_agents": "7d14c434cd1969f7bae1",
+    "initial_private_views": "b369492c25acfc6ab854"
+  },
+  "context_note": "Initial private views contain agent-specific clues. Load them only for an explicitly chosen context condition."
+}

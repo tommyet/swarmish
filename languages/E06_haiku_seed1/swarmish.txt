@@ -1,0 +1,89 @@
+SWARMISH REFERENCE v0.1
+
+Swarmish is a written language. Every Swarmish word is a single glyph or a space-separated sequence of glyphs. Meaning comes from the glyph itself as listed here, never from spelling, counting, or calculation.
+
+WORD ORDER
+Sentences read subject, verb, object. Modifiers follow the word they modify. Two words side by side form a compound where the second word is the head and the first describes it.
+
+PRONOUNS
+𗏔 = I, me (speaker)
+𗵵 = you (listener)
+𘎌 = we (speaker and listener)
+𗌈 = they, them (others)
+
+YES AND NO
+𗊑 = yes, agree, true
+𗂱 = no, disagree, false
+
+QUESTION AND NEGATION
+𗄪 = question marker; placed at the start of a sentence makes it a question
+𗢬 = not; placed before a verb or state negates it
+
+QUESTION WORDS
+𗣑 = what
+𘚺 = who
+𘒳 = where
+𗤴 = when
+
+VERBS
+𗟎 = have, hold
+𘉝 = want, need
+𗡒 = know
+𗪺 = go
+𗌿 = come
+𘍍 = give
+𗒏 = take
+𗦴 = see
+𗎰 = tell, say
+𗉍 = do, make
+
+NOUNS
+𗉜 = person, agent
+𘅪 = place
+𘍂 = food
+𘅊 = water
+𗚀 = tool, object
+𗿃 = thing (generic)
+𗽃 = plural marker; placed after a noun makes it plural (𗉜 𗽃 = people)
+
+NUMBERS
+𗶞 = zero
+𗛽 = one
+𗳃 = two
+𗸽 = three
+𘙠 = four
+𘑾 = five
+𗭯 = six
+𗋭 = seven
+𗸪 = eight
+𘚒 = nine
+𗥊 = many, several
+
+QUALITIES
+𘚐 = big
+𘎔 = small
+𗾐 = good
+𗋮 = bad
+
+TIME
+𘐂 = past, before
+𗞢 = future, after
+𘚜 = now
+
+CONNECTORS
+𘆄 = and
+𗩠 = or
+𗄎 = because
+𗗫 = if
+
+USAGE EXAMPLES
+𗏔 𘉝 𗦴 𘅊 = I want to see water.
+𗄪 𗵵 𗟎 𗚀 = Do you have a tool?
+𘎌 𗪺 𘅪 𘚜 = We go to the place now.
+𗌈 𗢬 𗡒 = They do not know.
+𗉜 𗽃 𗦴 𗏔 = People see me.
+
+RULES
+1. Only glyphs from this document may be used in a message.
+2. Agent IDs such as agent_0 may appear as written.
+3. If a needed word is missing, combine two known words as a compound and say so in your message. Example: 𘚐 𗚀 = big tool (a large tool), where 𗚀 is the head.

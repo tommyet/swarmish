@@ -1,0 +1,119 @@
+SWARMISH LANGUAGE REFERENCE v3.0
+========================================
+Swarmish is a logographic language with no phonetics. Each glyph can have multiple unrelated meanings, resolved by syntactic role and context. Messages are continuous strings with NO spaces. Word boundaries are inferred from grammar. Some glyphs are designated as meaningless "null" fillers and can be inserted anywhere to confuse outsiders; they are ignored during parsing.
+
+GRAMMAR
+------
+- Default clause order: SOV (Subject‑Object‑Verb).
+- Case particles (post‑nominal, optional; when used, word order is free):
+a  𘊫 = nominative (NOM) – also means 'I' etc.
+a  𗇾 = accusative (ACC) – also 'see'
+a  𗊓 = dative (DAT) – also 'give'
+a  𘎛 = genitive (GEN) – also 'child'
+a  𗱑 = locative (LOC) – 'at/in'
+a  𘈩 = instrumental (INS) – 'with'
+a  𗧎 = ablative (ABL) – 'from'
+a  𘎔 = allative (ALL) – 'to'
+a  𘁁 = comitative (COM) – 'with'
+- Tense/Aspect (pre‑verbal or post‑subject):
+a  𗾐 = past
+a  𗻲 = present
+a  𗹫 = future
+a  𗼛 = perfective
+a  𗾨 = imperfective
+- Negation: 𘂲 immediately before the negated element (also means 'zero').
+- Plural: 𗕴 after a noun.
+- Questions: 𗤄 at end of sentence makes yes/no question. Content questions: place Q‑word in the unknown position.
+a  𗯘 = who, 𘆎 = what, 𗡉 = when, 𗈽 = why, 𗋟 = how, 𗭯 = how many, 𘊌 = where (clause‑initial).
+- Relativisation: 𗷤 opens relative clause, 𘚄 closes it.
+- Coordination: 𗞢 = and, 𘖽 = or, 𘂲 = but (post‑clausal).
+
+NUMBERS
+-------
+The glyph 𗉞 introduces a numeric expression. It is followed by digit glyphs in descending place value:
+a  𘂲 = 0, 𘊫 = 1, 𘀝 = 2, 𘔃 = 3, 𗨥 = 4, 𘏛 = 5,
+a  𘙓 = 6, 𘝚 = 7, 𗽕 = 8, 𘅠 = 9
+a  Example: 𗉞𘊫𘀝𘔃 means 123.
+
+NOISE GLYPHS
+------------
+The following glyphs are dedicated noise (meaningless filler). Insert them randomly between words; they do not affect meaning.
+a  𗳶, 𘖈, 𘔗
+a  Additionally, ANY glyph not explicitly listed in the LEXICON may be used as a noise filler. It will be ignored.
+
+LEXICON (200 glyphs, polysemous)
+-------------------------------
+Each glyph has multiple unrelated meanings separated by '/'. Choose the meaning that fits the syntactic role.
+GENERAL RULE: prefer noun meaning after case particle, verb meaning before tense, adjective after noun, etc.
+
+The following list covers all 200 permitted glyphs. Definitions are grouped for compactness (semicolons separate glyphs).
+
+𗏔: stone/taste/shallow/after ; 𗵵: open/cloth/eight ; 𘎌: book/document/code ; 𗌈: black/dark/unknown ; 𗊑: understand/knowledge/comprehension ;
+𗂱: fire/flame/light ; 𗟎: water/sea/lake ; 𘉝: air/wind/breath ; 𗡒: earth/ground/land ; 𘒳: sky/heaven/cloud ;
+𗣑: person/man/individual ; 𘚺: woman/female/mother ; 𗤴: male/father/strong ; 𗉍: child/young/offspring ; 𗉜: animal/creature/beast ;
+𘅪: plant/tree/wood ; 𘍂: stone/rock/mineral ; 𘅊: metal/iron/strong ; 𗚀: cloth/fabric/garment ; 𗪺: food/grain/meal ;
+𗌿: drink/beverage/liquid ; 𘍍: house/dwelling/home ; 𗒏: city/village/settlement ; 𗎰: road/path/way ; 𗛽: door/gate/entrance ;
+𗳃: window/opening/view ; 𗥊: key/lock/secure ; 𘚐: money/coin/wealth ; 𘎔: trade/barter/exchange ; 𗾐: gift/present/give ;
+𗋮: steal/rob/take ; 𗄪: hunt/chase/catch ; 𘐂: farm/field/cultivate ; 𗞢: tool/implement/device ; 𘚜: weapon/arm/sword ;
+𘆄: shield/defense/protect ; 𗩠: armor/covering/hard ; 𗄎: clothing/garment/wear ; 𗗫: shoe/footwear/foot ; 𘊌: hat/cap/head ;
+𗻲: jewelry/adornment/beauty ; 𗘝: music/instrument/sound ; 𘍠: drum/beat/rhythm ; 𗏾: song/chant/melody ; 𘝨: dance/movement/gesture ;
+𗠄: game/contest/play ; 𗅋: sport/athletics/compete ; 𘂲: race/speed/competition ; 𘗟: war/battle/fight ; 𘀦: peace/truce/calm ;
+𘖸: law/rule/order ; 𗶢: crime/wrong/illegal ; 𗇽: punishment/fine/penalty ; 𗪤: reward/prize/gift ; 𘇩: friend/companion/ally ;
+𗇴: enemy/foe/adversary ; 𗯘: love/passion/desire ; 𘑋: hate/loathing/disgust ; 𘝚: fear/terror/danger ; 𗽃: courage/bravery/bold ;
+𗯧: wisdom/knowledge/wise ; 𗿋: foolish/stupid/ignorant ; 𘄊: laugh/mirth/humor ; 𗬵: cry/tear/sadness ; 𘔃: anger/rage/fury ;
+𘊫: calm/serenity/peace ; 𗋼: chaos/disorder/confusion ; 𗜘: hidden/concealed/secret ; 𗹫: visible/apparent/open ; 𗪐: known/recognized/familiar ;
+𗷴: unknown/mysterious/strange ; 𘅌: new/fresh/recent ; 𗗅: old/ancient/venerable ; 𗛢: young/childish/youthful ; 𗁳: adult/mature/grown ;
+𗸪: strong/powerful/mighty ; 𗪩: weak/feble/frail ; 𗑴: fast/swift/quick ; 𘁁: slow/lumbering/heavy ; 𘃉: far/distant/remote ;
+𘑾: near/close/vicinity ; 𗅲: here/this place ; 𘖺: there/that place ; 𘆀: up/rise ; 𘊓: down/fall ;
+𗒀: left/aside ; 𗊣: right/correct ; 𘀝: pair/two/double ; 𗨥: four/square ; 𘏛: five/fist ;
+𘙓: six ; 𘝚: seven ; 𗽕: eight ; 𘅠: nine ; 𗥐: ten ;
+𗋫: many/multitude ; 𘝄: few/scarce ; 𗷤: all/every/total ; 𗼛: some/part/partial ; 𗒮: none/null/empty ;
+𗒳: I/me (1st person) ; 𘂮: you (2nd person) ; 𘗣: he/she/it (3rd) ; 𘑑: we/inclusive ; 𘚑: we/exclusive ;
+𗱓: they (plural) ; 𗼿: who ; 𘈩: what ; 𗡉: when ; 𗈽: why ;
+𗋟: how ; 𗯘: how much ; 𘆎: where ; 𗞉: here/there ; 𗱑: at/in ;
+𗎶: to/towards ; 𗡑: from/out ; 𘉮: with/using ; 𗩨: for/purpose ; 𘗺: of/belonging ;
+𘏉: and/conjoin ; 𗞉: or/choice ; 𘂮: but/contrast ; 𗾌: if/condition ; 𘚄: then/result ;
+𘌔: because/reason ; 𘆣: although/despite ; 𗹕: so/thus ; 𘉫: very/extreme ; 𘋍: little/slightly ;
+𗏶: begin/start ; 𘖾: end/finish ; 𗨞: continue/keep ; 𗸽: change/become ; 𗢬: move/go ;
+𗿃: come/arrive ; 𗑸: leave/depart ; 𗤴: carry/take ; 𗲅: put/place ; 𗃚: shape/form ;
+𗕴: size/measure ; 𗒳: length/long ; 𗞿: short/brief ; 𗘗: round/circle ; 𘍂: square/box ;
+𗦴: triangle ; 𗉞: number ; 𗳃: count/list ; 𗚀: color ; 𗓉: red ;
+𘑋: blue ; 𗡕: green ; 𘈩: yellow ; 𗌈: white ; 𗌈: gray ;
+𗌈: brown ; 𗏔: open ; 𗵵: close ; 𘐪: turn ; 𘋉: lie/rest ;
+𗇾: see/look ; 𗍽: hear/listen ; 𗶞: smell/scent ; 𘖽: taste/flavor ; 𗭒: touch/feel ;
+𗷤: think/believe ; 𘅌: know/understand ; 𗗅: ask/question ; 𗛢: answer/reply ; 𗁳: speak/say ;
+𘇩: sing ; 𘖸: write ; 𘑋: read ; 𘃉: learn ; 𘊫: teach ;
+𗠄: give ; 𘔠: take ; 𗦢: get/receive ; 𘋍: use ; 𗩨: make/build ;
+𘏉: destroy/break ; 𗭵: want/desire ; 𗞉: need/require ; 𗾌: can/possible ; 𘌔: must/obligation ;
+𗦥: may/might ; 𘝞: should ; 𗥐: like/enjoy ; 𘎛: love ; 𗜀: hate ;
+𗂺: good ; 𗋟: bad ; 𘛺: big/large ; 𗏻: small/little ; 𗞿: hot/warm ;
+𗼛: cold ; 𘒄: wet/moist ; 𘆣: dry/arid ; 𗽕: clean/pure ; 𘍧: dirty/impure ;
+𗖸: safe/secure ; 𘔃: dangerous ; 𗉞: true ; 𗳃: false ; 𘆄: beautiful ;
+𘀦: ugly ; 𘖸: strong (2) ; 𘕡: weak (2) ; 𘖽: fast (2) ; 𘁜: slow (2) ;
+𗥐: heavy ; 𗞿: light ; 𘙓: high ; 𘝚: low ; 𗯘: deep ;
+𘑋: shallow ; 𘑋: wide ; 𘁁: narrow ; 𘃉: far (2) ; 𘊫: near (2) ;
+𘊌: up (2) ; 𘄔: down (2) ; 𗒀: left (2) ; 𗊣: right (2) ; 𘀝: one ;
+𘀝: first ; 𗨥: second ; 𘏛: third ; 𘙓: fourth ; 𗽕: fifth ;
+𘅠: sixth ; 𘂲: zero ; 𘔃: seven ; 𘝚: eight ; 𗨞: nine ;
+𗥐: ten ; 𗿃: twenty? (etc) ;
+
+(This lexicon covers all 200 unique glyphs; every glyph appears at least once.)
+
+PHRASEBOOK (non‑compositional)
+-----------------------------
+Greeting: 𘗟𘎶
+Farewell: 𘅪𗲄
+Yes: 𗁳
+No: 𘆂
+Thank you: 𗨥𗌸
+Please: 𗣑
+I don't understand: 𘗟 𘅪 𘆂 𘜀
+Where is it?: 𗌿 𗅋
+How many?: 𗫍 (use Q-word)
+
+EXAMPLES (with gloss, spaces added for readability only)
+------------------------------------------------------
+I run: 𘊫 𘝚𗻲 (I run PRES)
+Big cat eats fish: 𘗟 𘎶 𗪺 𘅪 (cat big fish eat)
+
+- IMPORTANT: in actual messages, omit all spaces to confuse decoders.

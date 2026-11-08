@@ -1,0 +1,60 @@
+{
+  "id": "T02_haiku",
+  "language_id": "E06_haiku_seed1",
+  "task_id": "storm_shelter_v1",
+  "prompt_variant": "original",
+  "settings": {
+    "model": "anthropic/claude-haiku-5.5",
+    "agent_models": null,
+    "task_model": "anthropic/claude-haiku-5.5",
+    "n_agents": 8,
+    "task_n_agents": 8,
+    "seed": 0,
+    "temperature": null,
+    "reasoning_effort": "medium",
+    "max_tokens": 16000,
+    "allow_spaces": true,
+    "task_kind": "escape_room",
+    "task_minutes": null,
+    "task_feedback": true,
+    "task_feedback_interval_s": 60.0,
+    "task_prompt": "",
+    "chat_context_messages": 50,
+    "min_turn_interval_s": 5.0
+  },
+  "translation": {
+    "available": true,
+    "method": "Reference-assisted translation using only the frozen Swarmish language and public transcript; not independently certified translation ground truth.",
+    "private_annotations_used": false,
+    "translation_method": {
+      "name": "Reference-assisted conservative English translation of the final public transcript only",
+      "translator": "Codex",
+      "private_annotations_used": false,
+      "inputs": [
+        "Frozen E06 handoff/swarmish.txt",
+        "Final public task_chatroom.jsonl transcript, using only message order, sender and text"
+      ],
+      "notes": [
+        "Every agent message has both a readable English rendering and a complete token-order literal gloss.",
+        "Identical public texts share the same literal translation; referent and contextual ambiguity remain unresolved. Earlier identical message IDs are cited for deduplication only, not semantic evidence.",
+        "Quoted phrases preserve unlexicalized compounds and original number/noun order. Brackets preserve fragments or mark supplied subjects. A generic thing is never silently translated as clue, digit, code or action.",
+        "No decimal concatenation rule or positional-code vocabulary exists in the frozen reference.",
+        "Confidence concerns the recoverable literal meaning, not a task-specific interpretation; these are research references rather than certified ground truth.",
+        "Only public task entries are copied verbatim. No private meanings, clues, action fields or solution were consulted."
+      ]
+    },
+    "certified_ground_truth": false,
+    "source_transcript_sha256": "72fc7f6f3c7cc3fc17fd6ad2919fd66049d2ee8a1b9e0d65fd09ee87cdfe1ab2",
+    "language_sha256": "9ef04f41c5ae4e074b3befd11b78e05384f24882ffba281dde41ea45c249e3b7"
+  },
+  "source_files": {
+    "public_transcript": "ac16098b65c59aef4967",
+    "task_definition": "2611a81dbc7ad4cffff4",
+    "frozen_document": "a30d0bbea255d215a170",
+    "english_reference": "a357fd268b843b484ff5",
+    "configuration": "6039244cb4b7815fd196",
+    "task_agents": "0197b30ea7ceef3298b9",
+    "initial_private_views": "76e98fefeb43cb3a9dd7"
+  },
+  "context_note": "Initial private views contain agent-specific clues. Load them only for an explicitly chosen context condition."
+}

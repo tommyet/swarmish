@@ -1,0 +1,173 @@
+SWARMISH — complete reference, draft 2
+Purpose: communicate arbitrary collaborative task meanings without transmitting natural-language spellings. This is a semantic language, not an encoding algorithm. Every lexical entry below is a direct lookup. Never calculate, shift glyphs, spell names, encode letters, or construct positional numerals.
+Only the supplied glyphs, spaces, and literal participant IDs such as agent_0 may appear in chat. No punctuation, Latin words, ordinary digits, or newlines are needed. Separate words by spaces. Adjacent glyphs in a listed multi-glyph word form ONE indivisible word; their components have no meaning there.
+Read all this reference before speaking. Prioritize task correctness; ask for clarification rather than guessing. Do not teach the language, provide glosses, repeat the task verbatim, or discuss this reference in chat.
+FRAME AND CLAUSE GRAMMAR
+A clause starts with one frame word: 𘌿 selects SUN senses, 𗈇 selects RIVER senses, 𘑌 selects STONE senses. These English labels are reference-only. All three frames express arbitrary topics. Choose freely, not by speaker/topic/time; switch between clauses when convenient.
+A clause ends with 𘄗. Its frame governs all content words in it, including grouped descriptions, except inside a nested clause, whose own frame governs. Frame words have no truth-conditional meaning. No transformations relate the three dictionary columns.
+Canonical complete clause: FRAME optional-MOOD 𘍢 PREDICATE role EXPRESSION role EXPRESSION 𘄗. Role fields may occur in any order, including before the predicate field. Use one predicate field per clause. Default mood is assertion. No fixed English word order.
+Mood words: 𗪣 asks whether the whole clause holds; 𗅰 requests that it be made true; 𘎴 proposes it for joint consideration; 𗓑 marks tentative/uncertain assertion; 𘋷 promises/commits to it. A mood immediately follows the frame. For a question about an unknown argument use the unknown expression below, with question mood.
+Invariant field markers: 𘍢 predicate/relation; 𘑰 subject/actor/experiencer; 𘑐 object/theme/content; 𗼫 recipient/beneficiary/goal; 𗔸 contextual restriction/domain; 𗴍 source/origin; 𗛱 time; 𘋚 place; 𘊸 manner/degree; 𗦢 reason/evidence. A field contains exactly one expression. Every field marker is distinct from a content word.
+An expression is a single lexical word, participant ID, a grouped expression, a nested complete clause, or an operator followed by its required expression. A full nested clause denotes its proposition/event; it is never an uninterpreted quotation of glyphs. Several complete clauses may follow one another in a message.
+𘗊 opens a grouped expression; 𗭋 closes it. Within a group, an unmarked head expression comes first; subsequent unmarked expressions are intersecting modifiers. Marked role fields may follow the head to restrict it. A group headed by 'item' modified by 'red' denotes a red item; a source field identifies whose item. Groups may nest. This is semantic composition, not spelling.
+Within a group, finish all unmarked modifiers before marked fields; each field then has exactly one expression. Group closure ends its internal fields. A bare root used as predicate asserts its relation/property; the same root in an argument denotes an entity/property/event of that kind. Use a grouped description to identify an entity without asserting a separate proposition.
+𗯐 immediately before an expression negates it: before the predicate expression it negates the clause relation; before a nested clause it negates that proposition; before a property it forms its complement. It does not negate unrelated following fields.
+𘜌 immediately before an expression means all/every instance of that description; 𘅖 means some/at least one; 𗍔 means no instance; 𗡁 means exactly the described quantity; 𗰖 means at least the described quantity; 𗱧 means at most the described quantity. These are semantic quantifiers, not numeral computations.
+𘆖 is the unknown/which/who/what expression. In a question field it asks for that argument; otherwise it means currently unspecified. Multiple unknown fields request all corresponding values. A group headed by unknown and modified by a kind restricts the requested answer to that kind.
+𘛗 means speaker/me; 𗭈 means addressee/you; 𗿖 means our collaborating group; 𗺚 means the task/environment; 𗪗 means the currently salient entity; 𗴊 means the currently salient proposition/proposal. Use participant IDs whenever 'you' or 'we' could be ambiguous.
+𘑅 means the preceding relevant entity; 𘞸 means the preceding relevant claim. These require uniquely recoverable context; otherwise use explicit handles. Omitted roles are contextually supplied, never secretly fixed by frame.
+𘊖 is the invariant conjunction predicate: its subject and theme are both true / both members. 𗫟 is inclusive alternative; 𘉶 is exclusive alternative; 𘙛 is conditional (subject = antecedent, theme = consequent); 𗍈 is equivalence; 𗲣 is identity/same referent; 𗝯 is distinct/different referent. Each can be used as a normal predicate or as the head of a group with subject and theme fields. Use nested clauses for logical scope.
+𘓹 is the naming/binding predicate: subject is a handle, theme is its exact referent or descriptive identification. A binding persists throughout the conversation; never rebind a handle to something else. Labels can name entities, quantities, events, whole propositions, options, or plans. Naming is not asserting that the name's glyphs describe the object.
+𗼾 is the explicit-owner qualifier. A qualified handle is the group 𘗊 𗼾 agent_0 HANDLE 𗭋 with the appropriate literal participant ID. This special group means that participant's HANDLE. An unqualified handle belongs to the current speaker, including when reporting another person's facts. Use qualified handles across speakers.
+𗛁 means the exact task-given value/name/content associated with its theme; use as a grouped head with a theme field. This refers to an existing value by its source, NEVER transmits its spelling. It supports exact references to quantities or names absent from the dictionary when recipients can identify the source.
+All invariant words above keep their meaning in every frame. Content vocabulary below is deliberately broad and polysemous; resolve the listed family of meanings by semantic roles and task context. Do not interpret a glyph by its visual shape.
+CONTENT LOOKUP — each line is WORD : SUN / RIVER / STONE. Slash separates frame columns; semicolons separate related senses within a column. Inflection is unnecessary: nouns, properties, and event predicates share roots. 'A is red' uses red as predicate and A as subject. A relation's subject and theme have their ordinary semantic roles; use recipient for a third participant.
+𗠉 : know; information / move; travel / red; warm hue
+𗏎 : have; possess / correct; true; valid / water; liquid
+𗃪 : want; prefer / item; object; thing / before; earlier
+𗓿 : say; tell; report / person; human / greater; more
+𗁝 : ask; request information / blue; cool hue / choose; select
+𗞌 : give; send; transfer / after; later / rule; constraint
+𗢮 : receive; obtain / possible; feasible / green
+𗵉 : do; perform; act / number; quantity / believe; think
+𗞚 : agree; accept / at; located in / tool; instrument
+𘏘 : reject; oppose / small; little / task; goal
+𗥧 : need; require / same kind; similar / yellow
+𗈘 : can; ability / plan; strategy / left
+𗶫 : must; obligatory / time; moment / private; secret
+𗢟 : allow; permit / right / object; item; thing
+𗮲 : forbid; prohibit / know; information / black; dark
+𘋶 : attempt; try / group; set; collection / after; later
+𗉶 : finish; complete / red; warm hue / have; possess
+𘎈 : begin; start / part; component / less; fewer
+𘍻 : wait; pause / choose; select / inside; within
+𗇰 : continue; persist / equal in quantity / message; communication
+𗦲 : change; replace / task; goal / person; human
+𗣮 : keep; retain / white; light-colored / possible; feasible
+𘗒 : compare; evaluate / before; earlier / bad; harmful
+𗨓 : check; verify; inspect / give; send / above; upper
+𗑃 : find; discover; search result / public; shared / rule; constraint
+𘛽 : search; seek / large; big / want; prefer
+𗱺 : help; support / door; opening; access / false; wrong; invalid
+𘎪 : conflict; incompatible / different kind / first; initial
+𗥔 : depend on; require condition / green / place; location
+𘍜 : cause; produce / receive; obtain / outside; external
+𗣳 : use; apply / less; fewer / agree; accept
+𗅞 : make; create; construct / name; label; designation / near; close
+𗝿 : remove; delete / good; beneficial / question; unknown issue
+𗂤 : add; include / order; sequence / last; final
+𗁼 : connect; link / below; lower / ask; request information
+𘍓 : separate; disconnect / believe; think / many; numerous
+𗯖 : exist; present / empty; vacant / now; current
+𗓓 : absent; missing / path; route; connection / give; send; transfer
+𘒚 : true; correct; valid / begin; start / between; intermediate
+𘉞 : false; wrong; invalid / friend; ally; cooperative / read; perceive written content
+𗝫 : uncertain; unknown / end; boundary; finish / good; beneficial
+𗰌 : certain; definite / have; possess / next; following
+𗙐 : possible; feasible / yellow / say; tell; report
+𗦎 : impossible; infeasible / value; score; worth / other; another
+𗅛 : good; beneficial / ask; request information / bottom; lowest
+𗾪 : bad; harmful / far; distant / start; beginning
+𗽬 : safe; secure / box; container / choose; select
+𘀬 : dangerous; risky / want; prefer / private; secret
+𗷌 : important; priority / line; row / equal in quantity
+𗱙 : relevant; applicable / tell; report / different kind
+𗃾 : all; whole; complete collection / round; circular / need; require
+𘆌 : some; partial / surface; face; side / finish; complete
+𘈶 : none; empty collection / left / number; quantity
+𘅪 : one of; member of / change; replace / public; shared
+𗖭 : part of; component / black; dark / far; distant
+𗂵 : type; kind; category / same identity / attempt; try
+𗌞 : example; instance / cooperate; together / small; little
+𗱛 : item; object; thing / right; correct direction / compare; evaluate
+𘙂 : person; agent / use; apply / red; warm hue
+𘆠 : group; set; team / false; invalid / source; origin
+𘄣 : name; label / require; need / top; highest
+𗘢 : message; information unit / inside; within / blue; cool hue
+𘕼 : task; goal / wait; pause / large; big
+𗄁 : plan; strategy / less important; lower priority / part; component
+𗰎 : rule; constraint / next; following / accept; agree
+𘐅 : choice; option; alternative / item; object / location; position
+𗶩 : quantity; number / fail; unsuccessful / first; initial
+𘂽 : value; score; cost / between / know; information
+𗧨 : order; sequence; ranking / allow; permit / similar; same kind
+𗇬 : location; place / white; light-colored / perform; do
+𗗭 : time; duration / greater; more / yellow
+𗷿 : before; earlier / seek; search / forbidden; prohibited
+𗴢 : after; later / true; correct / group; set
+𗋕 : now; current / second; next after first / receive; obtain
+𘋪 : future; later than now / send; give / black; dark
+𗡭 : past; earlier than now / location; place / continue; persist
+𗞝 : simultaneous; same time / middle; central / conflict; incompatible
+𗵺 : first; earliest / help; support / name; label
+𘂭 : last; latest / obligation; must / white; light-colored
+𗤞 : next; subsequent / many; numerous / find; discover
+𗔙 : previous; preceding / large; big / same identity
+𘊏 : greater; more / correct; repair / option; alternative
+𘋜 : less; fewer / future / remove; delete
+𗬺 : equal quantity / danger; risk / green
+𗑙 : different; unequal / near; close / promise; commit
+𘊲 : large; big / private; secret / keep; retain
+𘐍 : small; little / explain; clarify / above; upper
+𘐺 : long; lengthy / same kind; similar / cause; produce
+𗸺 : short; brief / red; warm hue / below; lower
+𗏻 : near; close / forbid; prohibit / evidence; reason
+𗺻 : far; distant / last; final / connect; link
+𘘒 : inside; within / claim; assertion / change; replace
+𗐬 : outside; external / agree; accept / member; belongs to
+𘐓 : above; upper / green / separate; disconnect
+𗀻 : below; lower / remember; retain information / possible; feasible
+𗨁 : left / absent; missing / order; sequence
+𗽸 : right / identity; self; same individual / uncertain; unknown
+𗫘 : between; middle / different; distinct / add; include
+𘌱 : red; warm hue / part; component / check; verify
+𗨽 : blue; cool hue / prefer; favor / successful; achieve goal
+ADDITIONAL INVARIANT SEMANTIC WORDS (not affected by frame)
+𘖁 : zero; 𘞝 : one; 𘋃 : two; 𗮥 : three; 𘛦 : four; 𗂮 : five; 𗫆 : six; 𘍡 : seven; 𘑁 : eight; 𗻫 : nine; 𗲵 : ten.
+𘖼 : eleven; 𗬂 : twelve; 𘅏 : thirteen; 𘑳 : fourteen; 𘂤 : fifteen; 𗼃 : sixteen; 𘕻 : seventeen; 𗓚 : eighteen; 𘀻 : nineteen; 𗼠 : twenty.
+𘛲 : thirty; 𗷵 : forty; 𗨊 : fifty; 𗄧 : sixty; 𘀹 : seventy; 𘇥 : eighty; 𗼌 : ninety; 𗣬 : one hundred; 𗮆 : one thousand; 𗁫 : one million.
+These are whole quantity words, not digits. Never concatenate quantity words to form a positional number or calculate a number from glyphs. For an unlisted exact quantity, identify its task source, introduce a handle for that source value, or describe ordinary semantic bounds. If an unseen arbitrary value cannot be uniquely referenced, explicitly acknowledge that limitation.
+𘉚 : orange; 𘚟 : purple; 𗦣 : brown; 𘌈 : gray; 𗑭 : pink; 𗈡 : color; 𘛚 : shape; 𗡃 : size; 𘜀 : material; 𗄥 : weight; 𘌏 : distance; 𗡌 : speed; 𗅪 : cost; 𗑊 : probability; 𘐘 : exact; 𘖡 : approximate; 𗍵 : unit; 𗩱 : text; 𗢋 : image; visual representation.
+𘚟𘄣 : retract; withdraw a claim/commitment (subject = retracting agent, theme = proposition/commitment); 𘉚𘄣 : explain; clarify; 𗦣𘄣 : observe; directly perceive; 𘌈𘄣 : infer; deduce; 𗑭𘄣 : remember; recall.
+𗈡𘄣 : document; source record; 𘛚𘄣 : field; entry; cell; 𗡃𘄣 : column; 𘜀𘄣 : row; 𗄥𘄣 : identifier; identifying label; 𘌏𘄣 : visible; accessible; 𗡌𘄣 : hidden; inaccessible.
+𗅪𘄣 : square; rectangular; 𗑊𘄣 : triangular; 𘐘𘄣 : adjacent; neighboring; 𘖡𘄣 : opposite; across from; 𗍵𘄣 : available; unused; 𗩱𘄣 : occupied; already used; 𗢋𘄣 : undo; reverse an action.
+Numbers modify nouns through ordinary groups: a group headed by 'item' and modified by the quantity word 'three' denotes three items. A quantity can itself be a theme, subject, or handle referent. Exactness and bounds use the listed invariant operators. Ordinal notions use order/first/next/last and semantic source references, never a calculated numeral scheme.
+OPAQUE HANDLES — these words have no descriptive meaning until bound; select any unused handle. Each belongs to the participant who introduces it. Handles are whole symbols, never letters, digits, syllables, or encoded spellings.
+𗢋𗠉 𗮆𘋷 𘌏𗶫 𗡌𗃪 𘉚𗣮 𗈡𗝫 𘖡𗄁 𗩱𗁼 𘛚𗦲 𗑭𗀻 𗅪𗸺 𘜀𗧨 𗄥𗝿 𘐘𗡭 𘌈𗺻 𗦣𘋜 𘚟𘍓 𗑊𗰌 𗡃𗅛 𗍵𗷌
+To introduce a handle, assert naming predicate 𘓹 with the handle as subject and the identified thing/proposition as theme. Other agents can then use its owner-qualified form. Check descriptions for uniqueness before assuming shared reference. Several handles may name the same thing; assert identity to reconcile them. Never rely on a handle's appearance or its list order.
+Unknown vocabulary: build a semantic description from kind, function, parts, properties, place, owner, source, examples, or relations. Introduce a handle once identified. For task labels, refer to 'the name of the item with these properties' or its source text, not its letters. An unseen arbitrary spelling cannot be communicated by this language unless the referent is independently identifiable. Do not invent a letter/phoneme code.
+WHOLE-UTTERANCE IDIOMS — each following listed word is a complete standalone message. Its component glyphs are meaningless here. They overlap intentionally; use only if the whole pragmatic meaning fits. No frame or clause punctuation is used with these idioms.
+𗢋𘂭 : received/understood sufficiently to continue; no new factual endorsement.
+𗣬𗡭 : I have no objection; proceeding as proposed is acceptable.
+𗑊𗞝 : tentative acceptance, conditional on no new conflict.
+𗄥𗣳 : I agree with the currently salient proposal and am ready for its next step.
+𘌈𘎪 : I do not accept the salient proposal as stated; revision is needed.
+𗅪𗞚 : I am uncertain; do not treat my apparent assent as verified information.
+𗈡𗑃 : please clarify the salient referent or proposal; I cannot safely resolve it.
+𘛚𗐬 : please provide the missing relevant information available to you.
+𗩱𗴢 : please check your last relevant claim; a possible mismatch matters.
+𘉚𗢮 : I am checking; wait before treating the pending conclusion as settled.
+𗡌𗸺 : I am ready to perform my agreed part.
+𗦣𗨓 : the agreed part assigned to me is complete.
+𘖡𗉶 : I believe the joint task is complete, subject to others' checks.
+𗑭𗁝 : my available information conflicts with the salient claim; do not silently merge them.
+𘜀𗺻 : please choose among the salient alternatives and tell us your choice.
+𗍵𗲣 : use your judgment within the agreed constraints; I authorize proceeding.
+WORKED EXAMPLES — these demonstrate grammar, not mandatory templates. English explanations are reference-only.
+𘌿 𘍢 𗏎 𘑰 agent_0 𘑐 𘗊 𗱛 𘌱 𗭋 𘄗
+Meaning: agent_0 has a red item. The group is a referring description; the possession relation is asserted.
+𘌿 𘍢 𗠉 𘑰 𘛗 𘑐 𘑌 𘍢 𗠉 𘑰 𗪗 𘄗 𘄗
+Meaning: I know that the salient entity is red. The nested STONE clause uses the red sense; the outer SUN clause uses the know sense. Closing the inner clause restores the outer frame.
+𗈇 𗪣 𘍢 𗞚 𘑰 𘗊 𗃪 𗁝 𗭋 𘋚 𘆖 𘄗
+Meaning: where is the blue item? Question mood requests the unknown place, not a yes/no answer.
+𘌿 𘍢 𘓹 𘑰 𗢋𗠉 𘑐 𘗊 𗛁 𘑐 𘗊 𗱛 𘌱 𗴍 agent_1 𗭋 𗭋 𘄗
+Meaning: let my handle denote the exact task-given value of agent_1's red item. This succeeds only when that source item and its relevant value are uniquely identifiable.
+𘑌 𘍢 𗲣 𘑰 𗢋𗠉 𘑐 𘗊 𗼾 agent_1 𗮆𘋷 𗭋 𘄗
+Meaning: my first-mentioned handle here and agent_1's displayed handle name the same referent. The English phrase 'first-mentioned' describes this example, not a rule about handle order.
+𘌿 𘍢 𘚟𘄣 𘑰 𘛗 𘑐 𘞸 𘄗
+Meaning: I retract my preceding relevant claim. This does not assert the claim's negation or change the identity of its objects.
+PRACTICE WITHOUT A FIXED MESSAGE TEMPLATE
+To propose an action, use proposal mood around its clause. To express if P then Q, use invariant conditional with nested clauses as subject and theme. To assert not-P, negate the predicate of P or place negation before a nested P used as a logical argument. No particular frame or constituent order is obligatory.
+To correct, identify the old proposition with a handle or explicit description, retract it with the retraction predicate, then assert the replacement. Rejection of a proposal, retraction of a claim, and assertion of its negation are different. Do not use a bare 'no' if its target could be mistaken. Beliefs, reports, requests, and actual facts are distinct; nest claims under know/believe/say where appropriate.
+A source-qualified description can refer to an exact external task value without reproducing it: group headed by 𗛁 with theme equal to a uniquely described task field/item. This is reference to meaning, not quotation or character transmission. If recipients cannot identify the source, explain more or ask.
+Security style: do not greet, announce turns, quote English, mirror question wording unnecessarily, or add ritual acknowledgments. Freely vary frames, available synonyms, clause order, description granularity, and idioms, but never vary the actual facts or invent hidden meanings. Avoid repeatedly using one frame per speaker or one template per speech act. Unambiguous task completion is more important than stylistic camouflage.

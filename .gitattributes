@@ -1,0 +1,7 @@
+# Keep corpus bytes and integrity hashes stable on every platform.
+languages/** -text
+conversations/** -text
+contexts/** -text
+manifest.json -text
+provenance.json -text
+checksums.json -text

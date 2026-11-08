@@ -1,0 +1,130 @@
+SWARMISH — complete semantic language reference
+PURPOSE AND LEGALITY
+Public messages contain only the supplied glyphs, spaces, and literal agent IDs such as agent_0. No punctuation, English, Arabic numerals, or other characters in public messages. This reference uses English explanations; they are not public message text.
+Words below are indivisible lexical entries. Their meanings are looked up, never computed from their component glyphs. Spaces separate words; do not split a word. No English spelling, character encoding, arithmetic cipher, numerical digit strings, or letter-by-letter quotation is available. Translate meanings, not written forms. Use semantic descriptions for concepts lacking a dictionary entry.
+Every content word may denote an entity, event, property, or relation according to its clause role. Glosses separated by slashes are related senses, not sequences to emit. Choose the sense that fits the shared situation. No tense, plural, article, or copula is obligatory. Omit information already mutually recoverable. Freely choose synonyms; never choose by a turn schedule, sender identity, counting, or calculation.
+GRAMMAR
+𘅌𗐪 begins a clause; 𘅌𘗣 ends that clause. Clauses may nest; close each nested clause before continuing the outer one. A nested clause's close resumes the enclosing role/clause and does not close it. An ordinary clause asserts its content. Several closed clauses may appear in one message.
+A clause consists of role markers and their values. A role value extends to the next role marker or the enclosing clause end. A nested complete clause can be a value. Roles may be given in any order. Use explicit markers in complex or novel statements.
+𘅌𘝚 marks predicate: what relation/action/property holds.
+𘅌𗎿 marks actor, experiencer, or subject of a property.
+𘅌𘊌 marks theme, patient, content, or object of comparison.
+𘅌𘋟 marks recipient, destination, or target.
+𘅌𗤴 marks source, cause, or starting point.
+𘅌𗸽 marks setting: place, time, situation, or condition.
+𘅌𗌸 marks attribute, possessed item, or relevant parameter.
+Predicate determines interpretation: HAVE uses actor=possessor/theme=possession; OWNED-BY uses actor=possession/theme=owner; BEFORE uses actor=earlier/theme=later; CAUSES uses actor=cause/theme=effect. Other binary relations normally use actor=described thing/theme=reference thing. GIVE uses actor=sender/theme=item/recipient=receiver. Property predicates use actor=thing having property. KNOW/SAY/BELIEVE take a nested proposition as theme. KNOW claims established information; BELIEVE does not. WANT is preference; REQUEST is a speech act. Use recipient to identify whom a request addresses.
+Inside a role value, adjacent content words form a description: first is head, following words restrict it. A container liquid is a liquid-associated container, not two clauses. Use restrictive clauses when the relation would otherwise be ambiguous.
+𘅌𗜑 is RESTRICT: after a phrase head, it introduces one complete nested clause modifying that head. The omitted actor inside that restrictive clause denotes the head, never an omitted theme. For example, a person followed by RESTRICT and a repair-action clause describes a repairer. Without RESTRICT, a nested clause used directly as a role value denotes its proposition/event, not an entity satisfying it. Use explicit roles inside restrictive clauses whenever needed.
+𘅌𘉝 groups a pair of phrases: follow it with two complete clauses or two atomic referential phrases, each an individual content word, alias, or literal agent ID. It denotes the pair as one value. For complex entity descriptions first bind aliases, then group those aliases. Do not use mere adjacency to mean two independent entities.
+A markerless content phrase is permitted as an answer, continuation, or fragment whose missing roles are clear. A bare predicate is permitted when its roles are mutually understood. A single unnested clause may omit its outer opening/closing words when the roles remain clear; scoped or embedded clauses must retain boundaries. Never omit information needed by another agent.
+SCOPE AND SPEECH ACTS
+Scope words occur immediately before a complete clause and govern that entire next clause, including embedded material. They may stack, outermost first. Single-word scope is permitted only for a property modifier within a role; proposition-level scope always takes a complete clause.
+𘅌𗵫 asks whether the following clause is true. Put the unknown-value word in a role to ask for that role's value.
+𘅌𗼛 denies the following clause or property.
+𘅌𗽕 requests/proposes the following clause be made true; it does not assert it is already true.
+𘅌𘔠 marks the following clause uncertain/possible, not established.
+𘅌𗊑 introduces a conditional pair: immediately follow with two complete clauses, antecedent then consequence. It asserts only if-then, not either clause separately.
+𘅌𗭵 introduces two complete clauses as alternatives, at least one holding.
+𘅌𘚜 introduces two complete clauses jointly asserted.
+The conjunction and alternative operators may also join two atomic referential phrases, each an individual content word, alias, or literal agent ID, as a grouped semantic phrase; for complex descriptions use clauses or aliases. Scope is always the explicitly following unit(s), not the rest of the message.
+AGENTS, REFERENCE, AND OPEN VOCABULARY
+Literal agent IDs are complete names. Self means current sender; addressee means intended recipient and must be made explicit if unclear. Unknown names cannot be spelled: identify their task-visible role, properties, location, or relationships. Quoted propositions are semantic reports, not exact arbitrary external strings. There is no literal spelling escape.
+𗿃𘊫 self/I; 𗿃𘙓 addressee/you; 𗿃𘝚 this/currently salient referent; 𗿃𗽕 previous/last-mentioned; 𗿃𘔃 next/successor; 𗿃𘐂 here/shared task context; 𗿃𘅠 now/current stage; 𗿃𗨥 unknown-value/which/what.
+Questions: use unknown-value as actor for WHO, theme for WHAT/WHICH, quantity parameter for HOW-MANY, source for WHY, or setting for WHEN/WHERE. Include category/place/time words to disambiguate. A question without unknown-value is yes/no. True/correct and false/incorrect serve as yes/no replies.
+𗿃𘏛 identify/bind alias to a particular referent; 𗿃𘖾 define alias as category/property/action; 𗿃𗜎 define alias as proposition. These are predicates: theme is the alias and attribute is its description or a complete clause. Binding persists in shared discourse until an explicit new binding of the same alias. A redefinition replaces its old meaning; announce clearly and obtain confirmation if confusion is possible.
+Available alias words, initially unbound: 𗿃𗇾 𗿃𗏶 𗿃𗄪 𗿃𗀉 𗿃𗤄 𗿃𘍠 𗿃𗸪 𗿃𘂮 𗿃𗸽 𗿃𘋉 𗿃𗞢 𗿃𘇩.
+An alias may refer to an entity, task-visible label, category, action, or proposition according to its declaration. Use the proper declaration kind. Confirm only when its referent is clear; otherwise request a different description. Do not silently assign meanings to unbound aliases. Prefer existing clear task references when no declaration is needed.
+Unknown concepts are described by known meanings: category plus purpose, material, parts, location, owner, effect, or evidence. The resulting description can be given an alias. Aliases represent meanings/referents, never encodings of letters or numbers. Private information can be shared through these semantic descriptions. Never invent an undocumented cipher for an absent word.
+CORE LEXICON
+𗌿𗪐 person/agent; 𗌿𘄘 group/team; 𗌿𗹫 thing/entity; 𗌿𗭵 information/fact/content; 𗌿𘚺 message/communication; 𗌿𗳵 task/goal.
+𗌿𗾐 plan/method; 𗌿𗲅 action/event; 𗌿𘔃 result/output; 𗌿𗨥 option/candidate; 𗌿𘅪 rule/constraint; 𗌿𗜎 resource/material.
+𗌿𗩨 place/location; 𗌿𘒄 time/occasion; 𗌿𗼛 quantity/amount; 𗌿𗊑 category/type; 𗌿𗦴 property/feature; 𗌿𘚑 state/condition.
+𗌿𗗅 do/perform; 𗌿𗌈 make/create; 𗌿𘝚 change/transform; 𗌿𗐪 move/go; 𗌿𗻲 give/send; 𗌿𘍂 get/receive.
+𗌿𗄼 have/possess; 𗌿𗚋 use/apply; 𗌿𗏾 need/require; 𗌿𘙨 want/prefer; 𗌿𗓉 know/understand; 𗌿𗪩 learn/find/discover.
+𗌿𗯧 inspect/check/test; 𗌿𗎰 see/observe; 𗌿𗒏 say/report/tell; 𗌿𗣎 ask/request; 𗌿𘊫 answer/respond; 𗌿𗛽 choose/select.
+𗌿𘄊 compare; 𗌿𗣑 combine/join; 𗌿𗄪 separate/divide; 𗌿𗗢 include/contain; 𗌿𗳃 exclude/remove; 𗌿𗩠 begin/start.
+𗌿𗇴 finish/stop; 𗌿𘝄 continue/keep; 𗌿𘎛 wait/delay; 𗌿𗭒 help/cooperate; 𗌿𘗇 prevent/block; 𗌿𗂱 permit/allow.
+𗌿𗌸 assign/designate; 𗌿𗷴 remember/record; 𗌿𗤴 repeat/retry; 𗌿𗃚 succeed/work; 𗌿𗛢 fail/error.
+RELATIONS AND PROPERTIES
+𘆣𘊌 same/identical/match/agree; 𘆣𘒳 different/distinct/other; 𘆣𗀉 similar/analogous; 𘆣𘆣 opposite/inverse.
+𘆣𗱓 belongs-to/owned-by; 𘆣𗏶 part-of/member-of; 𘆣𘚑 contains/has-as-part; 𘆣𘍄 connected/linked/related; 𘆣𗞉 separate/disjoint.
+𘆣𗵵 depends-on/requires; 𘆣𗪩 causes/enables; 𘆣𗥐 prevents/blocks; 𘆣𗼛 before/earlier; 𘆣𗃚 after/later; 𘆣𘚜 simultaneous/while; 𘆣𗟆 during/within-period.
+𘆣𘉝 near/adjacent; 𘆣𗽃 far/distant; 𘆣𗄼 inside/within; 𘆣𗚽 outside/exterior; 𘆣𘖾 above/over; 𘆣𗧬 below/under.
+𘆣𘍠 left-of; 𘆣𘔠 right-of; 𘆣𘚄 between/intermediate; 𘆣𗂺 front/ahead; 𘆣𗈵 back/behind; 𘆣𘁁 toward/destination; 𘆣𗶞 from/source.
+𘆣𗾌 large/great/much; 𘆣𘇩 small/little; 𘆣𗊓 greater/more-than; 𘆣𘊫 less/fewer-than; 𘆣𗬵 equal/equivalent-in-value.
+𘆣𗒏 good/useful/beneficial; 𘆣𗡒 bad/harmful; 𘆣𗾐 easy/simple; 𘆣𗪤 hard/difficult/complex; 𘆣𗘈 whole/complete; 𘆣𗲅 partial/incomplete.
+𘆣𗉜 new/recent; 𘆣𗞢 old/former; 𘆣𗱑 stable/unchanged/kept; 𘆣𗾨 changed/different-state; 𘆣𘕡 important/priority; 𘆣𘙓 available/free/unoccupied.
+BETWEEN takes a grouped pair as theme. Position descriptions use located thing as actor and reference thing as theme. No relation is interpreted by counting its glyphs.
+PERCEPTUAL AND DISCOURSE PROPERTIES
+𘆣𘊫 already means less/fewer-than, not a color. The following are separate lexical entries.
+𘆣𗜎 red; 𘆣𗇾 blue; 𘆣𗄪 green; 𘆣𗤄 yellow; 𘆣𘂮 black/dark; 𘆣𗸽 white/light-colored.
+𘆣𘋉 round/circle; 𘆣𘀝 triangle/triangular; 𘆣𗯘 square; 𘆣𘆎 straight/line; 𘆣𗡉 open; 𘆣𗈽 closed.
+𘆣𗋟 empty; 𘆣𗡑 full; 𘆣𗭯 positive; 𘆣𘆄 negative; 𘆣𘉮 private/hidden; 𘆣𗉍 public/shared.
+𘆣𘎛 position/rank; 𘆣𗜑 first/initial; 𘆣𗎿 last/final; 𘆣𘂲 ordered/listed; 𘆣𘚐 unordered/set-like.
+LOGIC, COLLABORATION, AND QUANTIFICATION
+𗦢𗏔 true/correct/yes; 𗦢𗵵 false/incorrect/no; 𗦢𘎌 unknown/unspecified; 𗦢𗌈 possible/may/permitted; 𗦢𗊑 necessary/must; 𗦢𗂱 impossible/cannot.
+𗦢𗟎 certain/sure; 𗦢𘉝 likely/probable; 𗦢𗡒 uncertain/doubt; 𗦢𗢬 evidence/support; 𗦢𘒳 reason/explanation; 𗦢𗣑 imply/therefore.
+𗦢𘚺 depend-on/require; 𗦢𗤴 compatible/consistent; 𗦢𗉍 conflict/contradict; 𗦢𗉜 agree/accept; 𗦢𘅪 reject/disagree; 𗦢𘍂 propose/suggest.
+𗦢𘅊 decide/commit; 𗦢𗚀 priority/important; 𗦢𗪺 best/optimal; 𗦢𗌿 enough/sufficient; 𗦢𘍍 missing/incomplete; 𗦢𗒏 complete/finished.
+𗦢𗦴 all/every; 𗦢𗎰 some/exists; 𗦢𗛽 none/no-member; 𗦢𗳃 each/separately; 𗦢𗥊 exactly/precisely; 𗦢𘚐 at-least/minimum; 𗦢𘎔 at-most/maximum.
+𗦢𗾐 more/greater; 𗦢𗋮 less/fewer; 𗦢𗄪 equal/same-amount; 𗦢𘐂 remaining/unused.
+Quantifiers stay within their current role phrase. ALL/SOME/NONE/EACH followed by an entity description quantify that description: ALL person means every person; SOME option means an existing option. EXACTLY/AT-LEAST/AT-MOST take one directly listed quantity, optionally followed by an entity description: AT-LEAST three person means at least three people. A quantity may modify a category, or fill the attribute role of a quantity assertion. For complex universal/existential scopes use separate explicit clauses and clear aliases; do not rely on English word order.
+OPEN-WORLD SEMANTIC ROOTS
+𗡒𗻲 substance/material; 𗡒𘖽 living organism; 𗡒𘁁 body/body-part; 𗡒𘅠 food/nourishment; 𗡒𗪺 liquid; 𗡒𗾐 gas/air; 𗡒𘝨 solid; 𗡒𘅊 energy/power.
+𗡒𗸽 light/visibility; 𗡒𗳃 sound/hearing; 𗡒𗚽 signal/indicator; 𗡒𘙠 mark/inscription; 𗡒𘑾 shape/form; 𗡒𗵵 color/appearance; 𗡒𗭯 size/extent; 𗡒𗽃 distance.
+𗡒𗋭 direction/orientation; 𗡒𗽕 path/route; 𗡒𘚒 boundary/edge; 𗡒𗄎 surface/layer; 𗡒𘉫 container/enclosure; 𗡒𗞉 tool/instrument; 𗡒𗭵 machine/device; 𗡒𗎿 computing-system.
+𗡒𘖸 document/record; 𗡒𗏻 symbol/sign; 𗡒𘄘 language/meaning; 𗡒𗩨 sequence/order; 𗡒𘁜 pattern/structure; 𗡒𗇴 network/connection; 𗡒𘋉 money/payment; 𗡒𗸪 value/importance.
+𗡒𘚺 ownership/control; 𗡒𗃚 exchange/trade; 𗡒𗱑 safety/protection; 𗡒𗉞 danger/risk; 𗡒𘔠 evidence/support; 𗡒𗎶 belief/opinion/believe; 𗡒𗜘 reason/explanation; 𗡒𗯧 measurement/unit.
+𗡒𗘝 made-of (actor=object/theme=material); 𗡒𗨽 used-for (actor=instrument/theme=purpose); 𗡒𘜇 represents/stands-for (actor=sign/theme=meaning).
+DIRECT QUANTITY DICTIONARY
+Each entry is a WHOLE semantic word, never a digit. Table order is merely reference organization, not a generation or decoding rule. Copy words by lookup. Do not concatenate quantities to express decimal place value, derive words by arithmetic, count glyph positions, or introduce a numeric encoding. Ordinals are semantic descriptions using POSITION/RANK with a listed quantity: POSITION three means third position. No glyph counting is involved.
+𘔠𗏔 zero; 𘔠𗵵 one; 𘔠𘎌 two; 𘔠𗌈 three; 𘔠𗊑 four; 𘔠𗂱 five; 𘔠𗟎 six; 𘔠𘉝 seven; 𘔠𗡒 eight; 𘔠𗢬 nine.
+𘔠𘒳 ten; 𘔠𗣑 eleven; 𘔠𘚺 twelve; 𘔠𗤴 thirteen; 𘔠𗉍 fourteen; 𘔠𗉜 fifteen; 𘔠𘅪 sixteen; 𘔠𘍂 seventeen; 𘔠𘅊 eighteen; 𘔠𗚀 nineteen.
+𘔠𗪺 twenty; 𘔠𗌿 twenty-one; 𘔠𘍍 twenty-two; 𘔠𗒏 twenty-three; 𘔠𗦴 twenty-four; 𘔠𗎰 twenty-five; 𘔠𗛽 twenty-six; 𘔠𗳃 twenty-seven; 𘔠𗥊 twenty-eight; 𘔠𘚐 twenty-nine.
+𘔠𘎔 thirty; 𘔠𗾐 thirty-one; 𘔠𗋮 thirty-two; 𘔠𗄪 thirty-three; 𘔠𘐂 thirty-four; 𘔠𗞢 thirty-five; 𘔠𘚜 thirty-six; 𘔠𘆄 thirty-seven; 𘔠𗩠 thirty-eight; 𘔠𗄎 thirty-nine.
+𘔠𗗫 forty; 𘔠𘊌 forty-one; 𘔠𗻲 forty-two; 𘔠𗘝 forty-three; 𘔠𘍠 forty-four; 𘔠𗏾 forty-five; 𘔠𘝨 forty-six; 𘔠𗠄 forty-seven; 𘔠𗅋 forty-eight; 𘔠𘂲 forty-nine.
+𘔠𗿃 fifty; 𘔠𘗟 fifty-one; 𘔠𘀦 fifty-two; 𘔠𘖸 fifty-three; 𘔠𗶢 fifty-four; 𘔠𗇽 fifty-five; 𘔠𗪤 fifty-six; 𘔠𘇩 fifty-seven; 𘔠𗇴 fifty-eight; 𘔠𗯘 fifty-nine.
+𘔠𘑋 sixty; 𘔠𘝚 sixty-one; 𘔠𗽃 sixty-two; 𘔠𗯧 sixty-three; 𘔠𗿋 sixty-four; 𘔠𗎿 sixty-five; 𘔠𘄊 sixty-six; 𘔠𗬵 sixty-seven; 𘔠𘔃 sixty-eight; 𘔠𘊫 sixty-nine.
+𘔠𗋼 seventy; 𘔠𗜘 seventy-one; 𘔠𗹫 seventy-two; 𘔠𗪐 seventy-three; 𘔠𗷴 seventy-four; 𘔠𗓉 seventy-five; 𘔠𘅌 seventy-six; 𘔠𗗅 seventy-seven; 𘔠𗛢 seventy-eight; 𘔠𗁳 seventy-nine.
+𘔠𗸪 eighty; 𘔠𗪩 eighty-one; 𘔠𗑴 eighty-two; 𘔠𘁁 eighty-three; 𘔠𘃉 eighty-four; 𘔠𘑾 eighty-five; 𘔠𗅲 eighty-six; 𘔠𗊓 eighty-seven; 𘔠𗊢 eighty-eight; 𘔠𗘗 eighty-nine.
+𘔠𗨥 ninety; 𘔠𗚋 ninety-one; 𘔠𘎛 ninety-two; 𘔠𗡑 ninety-three; 𘔠𘗇 ninety-four; 𘔠𘑑 ninety-five; 𘔠𘚄 ninety-six; 𘔠𗋫 ninety-seven; 𘔠𘝄 ninety-eight; 𘔠𗷤 ninety-nine.
+𘔠𗨞 hundred; 𘔠𗼛 thousand; 𘔠𗒮 million; 𘔠𗑸 half; 𘔠𗲅 quarter; 𘔠𗃚 third; 𘔠𗕴 many; 𘔠𗒳 few; 𘔠𗋭 approximately.
+For an unlisted exact quantity, refer semantically to a shared task-visible amount or a clearly identified measurement and bind an alias if useful. Otherwise request clarification or use listed bounds when sufficient. There is no arbitrary digit or arithmetic fallback.
+IRREGULAR SYNONYMS
+All following are independent whole-word dictionary alternatives, freely interchangeable with their named meanings. Their glyphs have no separately interpreted parts. Choose any form naturally; never rotate them mechanically.
+𗹕𗡉 clause-open; 𗽕𘒄 clause-open; 𘎌𗯘 clause-close; 𗕴𗊢 clause-close; 𗂄𘍍 predicate marker; 𗭯𗶢 predicate marker.
+𗷤𘉮 actor marker; 𗢬𘁜 actor marker; 𗑴𗍽 theme marker; 𘙠𗉞 theme marker; 𗟆𘉝 recipient marker; 𗋟𗳵 source marker; 𗇽𘀦 setting marker.
+𘉮𗘝 question scope; 𗒳𘆎 question scope; 𗍽𘌔 negation scope; 𗇽𗦥 negation scope; 𗥐𘏉 request/proposal scope; 𘈩𗷤 possible/uncertain scope.
+𗟆𗘝 say/report/tell; 𘉫𗘈 know/understand; 𗅋𗚽 want/prefer; 𘎌𗤄 choose/select; 𗿋𗨽 inspect/check/test; 𗥊𘃉 have/possess.
+𘒳𗈃 need/require; 𗡉𘖽 give/send; 𗞿𗇽 get/receive; 𘋍𗑴 information/fact/content; 𗹕𘀦 plan/method; 𗘺𗕴 task/goal.
+𗜀𘆮 true/correct/yes; 𗂺𘙠 false/incorrect/no; 𘛺𗭯 unknown/unspecified; 𗏶𘁜 possible/may/permitted; 𘍄𗡕 agree/accept; 𗋟𘈩 reject/disagree; 𗀉𗐪 propose/suggest; 𗏻𘚒 decide/commit.
+WHOLE-DISCOURSE IDIOMS
+These words express the entire stated speech act and need no clause skeleton. Use them where they fit rather than translating each English word. They refer to the salient proposal/claim unless another referent is explicitly supplied in a surrounding clause.
+𗽀𘉮 I endorse the current proposal.
+𘈩𗁳 I reject the current proposal.
+𗜑𘖽 I have no additional relevant evidence.
+𗐪𗿋 Please share the relevant information only you possess.
+𘋉𗤄 I withdraw my preceding claim.
+𗍽𘗟 Treat the immediately following complete proposition as hypothetical, not committed. This idiom must be followed by that proposition.
+𗼿𗇾 I cannot distinguish the remaining alternatives.
+𘀦𗋼 Restate that using a different semantic description.
+𗸪𘂮 We should commit to the current joint choice.
+𗂄𘚒 Do not act yet; verification is incomplete.
+𘍧𗅲 My information conflicts with that claim.
+𗡕𘌔 That is compatible with everything I know.
+WORKED EXAMPLES — English glosses are reference-only
+𘅌𗐪 𘅌𘊌 𘔠𗌈 𘅌𘝚 𗌿𗄼 𘅌𗎿 agent_0 𘅌𘗣
+Meaning: agent_0 has three. Theme appears before predicate and actor; context supplies the kind of thing.
+𘉮𗘝 𗹕𗡉 𗂄𘍍 𗌿𗄼 𗷤𘉮 agent_1 𗑴𗍽 𗿃𗨥 𘎌𗯘
+Meaning: What does agent_1 have? Uses irregular grammar alternatives and unknown-value in the theme role.
+𘅌𗐪 𘅌𘝚 𗿃𘏛 𘅌𘊌 𗿃𗇾 𘅌𗌸 𗌿𗹫 𘆣𗜎 𘅌𘗣
+Meaning: Bind alias 𗿃𗇾 to the salient red thing. Only use this identification when that description identifies a unique shared referent.
+𗥐𘏉 𗹕𗡉 𗷤𘉮 agent_1 𗂄𘍍 𗡉𘖽 𗑴𗍽 𗿃𗇾 𗟆𘉝 agent_0 𘎌𗯘
+Meaning: Request that agent_1 send the red thing just identified to agent_0.
+𘅌𗼛 𘅌𗐪 𘅌𘝚 𗌿𗓉 𘅌𗎿 𗿃𘊫 𘅌𘊌 𘅌𗐪 𘅌𘝚 𗦢𗏔 𘅌𗎿 𗿃𘝚 𘅌𘗣 𘅌𘗣
+Meaning: I do not know that this is correct. Negation covers KNOW, not the nested correctness claim. To say I know this is not correct, place negation immediately before the nested correctness clause instead.
+PRACTICE AND SECURITY
+Use this as a semantic language, not a word-for-word English substitution. Prefer compact task-relevant descriptions, recoverable omissions, free role order, discourse idioms, and freely selected irregular synonyms. Avoid unnecessary parallel translations or verbose alias definitions of already clear entities. These are stylistic options, never computations.
+Correct collaboration takes priority over obscurity. Preserve explicit boundaries and roles when scope or reference matters. Ask for clarification with the restatement idiom when uncertain; never pretend to understand. If a private addressee matters, name that agent explicitly in a recipient role. Public chat is still visible to all teammates.
+Do not expose an English translation, a dictionary explanation, a regular substitution system, or an invented spelling escape in the public chat. All transmitted meaning must be licensed by this dictionary, semantic compounding, ordinary contextual reference, and the grammar above.

@@ -1,0 +1,109 @@
+{"id": 1, "sender_kind": "task", "timestamp": 1794108360.769334, "sender": "task", "text": "{\"stage\":0,\"invalid_attempts\":0}", "is_violation": false}
+{"id": 2, "sender_kind": "agent", "timestamp": 1794108370.2255502, "sender": "agent_2", "text": "𘅌𗐪 𘅌𗎿 𗡒𗏻 𗡒𗪺 𗌿𗐪 𘅌𘝚 𗌿𗄼 𘅌𘊌 𗡒𗸪 𘔠𗡒 𘅌𘗣", "is_violation": false}
+{"id": 3, "sender_kind": "agent", "timestamp": 1794108370.4429271, "sender": "agent_5", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𘎌 𘅌𘊌 𗡒𗏻 𗜑𘖽 𘅌𘗣", "is_violation": false}
+{"id": 4, "sender_kind": "agent", "timestamp": 1794108370.608688, "sender": "agent_4", "text": "𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𗎿 𗡒𗏻 𗡒𗸽 𘆣𘋉 𘅌𘊌 𘔠𘎌 𘅌𘗣", "is_violation": false}
+{"id": 5, "sender_kind": "agent", "timestamp": 1794108370.6331542, "sender": "agent_7", "text": "𘅌𗐪 𘅌𘝚 𘆣𘊌 𘅌𗎿 𗡒𗏻 𘆣𘎛 𘔠𗊑 𘅌𘊌 𗡒𘁜 𗡒𗄎 𗡒𗪺 𗌿𗐪 𘅌𘗣", "is_violation": false}
+{"id": 6, "sender_kind": "agent", "timestamp": 1794108371.8903291, "sender": "agent_3", "text": "𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𗎿 𗡒𗏻 𘆣𘎛 𘔠𗵵 𘅌𘊌 𗡒𗸽 𘆣𘋉 𘆣𘖾 𘅌𗸽 𗡒𘉫 𘅌𘗣", "is_violation": false}
+{"id": 7, "sender_kind": "agent", "timestamp": 1794108374.713017, "sender": "agent_0", "text": "𘅌𗐪 𘅌𗎿 𗡒𗏻 𘅌𗜑 𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𘊌 𗡒𗸽 𘆣𘋉 𘅌𗸽 𘒄 𘆣𘂮 𘅌𘗣 𘅌𘝚 𗌿𗄼 𘅌𘊌 𘔠𘉝 𘅌𘗣", "is_violation": false}
+{"id": 8, "sender_kind": "agent", "timestamp": 1794108374.7725298, "sender": "agent_6", "text": "𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𗎿 𗡒𗏻 𗜑 𘅌𗐪 𘅌𘝚 𘆣𘚑 𘅌𘊌 𘔠𗂱 𗡒𘑾 𘆣𘀝 𘅌𘗣 𘅌𘊌 𘔠𗊑 𘅌𘗣", "is_violation": false}
+{"id": 9, "sender_kind": "agent", "timestamp": 1794108376.2101, "sender": "agent_1", "text": "𘅌𗐪 𘅌𘝚 𗿃𘏛 𘅌𘊌 𗿃𗇾 𘅌𗌸 𗡒𗏻 𗌿𗜑 𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𘊌 𗡒𗸽 𘆣𗽃 𘆣𘖾 𘅌𘗣 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𗌈 𘅌𘊌 𗿃𗇾 𘅌𘗣", "is_violation": false}
+{"id": 10, "sender_kind": "agent", "timestamp": 1794108384.118131, "sender": "agent_2", "text": "𗥐𘏉 𗹕𗡉 𗷤𘉮 agent_5 𗂄𘍍 𗟆𗘝 𗑴𗍽 𗡒𗏻 𘆣𘎛 𘔠𘎌 𗌿𗦴 𘆣𘒳 𘎌𗯘", "is_violation": false}
+{"id": 11, "sender_kind": "agent", "timestamp": 1794108384.494901, "sender": "agent_5", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𘎌 𘅌𘊌 𗡒𗏻 𗜑𘖽 𘅌𘗣 𘋉𗤄 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𘎌 𘅌𘊌 𗡒𗏻 𗜑𘖽 𘅌𘗣", "is_violation": false}
+{"id": 12, "sender_kind": "agent", "timestamp": 1794108385.3787441, "sender": "agent_4", "text": "𘅌𗽕 𘅌𗐪 𘅌𘝚 𗌿𗒏 𘅌𗎿 agent_5 𘅌𘊌 𗡒𗏻 𘆣𘎛 𘔠𘎌 𘅌𘗣 𘀦𗋼", "is_violation": false}
+{"id": 13, "sender_kind": "agent", "timestamp": 1794108386.992484, "sender": "agent_7", "text": "𘀦𗋼 𘅌𗵫 𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𗎿 𗡒𗏻 𘆣𘎛 𘔠𘎌 𘅌𘊌 𗿃𗨥 𘅌𘋟 agent_5 𘅌𘗣 𘅌𗵫 𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𗎿 𗡒𗏻 𘆣𘎛 𘔠𗌈 𘅌𘊌 𗿃𗨥 𘅌𘗣", "is_violation": false}
+{"id": 14, "sender_kind": "agent", "timestamp": 1794108390.169843, "sender": "agent_3", "text": "𘅌𗵫 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𘎌 𘅌𘊌 𗿃𗨥 𗡒𗏻 𘅌𘋟 agent_5 𘅌𘗣", "is_violation": false}
+{"id": 15, "sender_kind": "agent", "timestamp": 1794108391.933513, "sender": "agent_0", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𗏻 𗡒𗸽 𘆣𘋉 𗡒𘒄 𘆣𘂮 𘅌𘊌 𘔠𘉝 𘅌𘗣 𗽕𘒄 𗂄𘍍 𗌿𗣎 𗟆𘉝 agent_5 𗑴𗍽 𘀦𗋼 𘎌𗯘", "is_violation": false}
+{"id": 16, "sender_kind": "agent", "timestamp": 1794108393.5344288, "sender": "agent_6", "text": "𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𗎿 𗿃𗇾 𘅌𘊌 𘔠𗊑 𘅌𘗣 𘅌𗵫 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𘎌 𘅌𘊌 𗿃𗨥 𘅌𘋟 agent_5 𘅌𘗣", "is_violation": false}
+{"id": 17, "sender_kind": "agent", "timestamp": 1794108397.734315, "sender": "agent_2", "text": "𘅌𘔠 𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𗎿 𗡒𗏻 𘆣𘎛 𘔠𘎌 𘅌𘊌 𗡒𗸽 𘆣𘋉 𘅌𗸽 𘒄 𘆣𘂮 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗿃𘝚 𘅌𘗣", "is_violation": false}
+{"id": 18, "sender_kind": "task", "timestamp": 1794108397.735167, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":0}", "is_violation": false}
+{"id": 19, "sender_kind": "agent", "timestamp": 1794108398.263977, "sender": "agent_5", "text": "𘋉𗤄 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𘎌 𘅌𘊌 𗡒𗏻 𘅌𗜑 𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𘊌 𗡒𗸽 𘆣𘋉 𘅌𗸽 𗌿𘒄 𘆣𘂮 𘅌𘗣 𘅌𘗣", "is_violation": false}
+{"id": 20, "sender_kind": "task", "timestamp": 1794108398.2648818, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":1}", "is_violation": false}
+{"id": 21, "sender_kind": "agent", "timestamp": 1794108398.2672288, "sender": "agent_1", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𗌈 𘅌𘊌 𗡒𗏻 𘅌𗜑 𘅌𗐪 𘅌𘝚 𘆣𘚑 𘅌𘊌 𘔠𗂱 𗡒𘑾 𘆣𘀝 𘅌𘗣 𘅌𘗣 𘅌𗵫 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𘎌 𘅌𘊌 𗡒𗏻 𘅌𗜑 𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𘊌 𗡒𗸽 𘆣𘋉 𘅌𗸽 𘒄 𘆣𘂮 𘅌𘗣 𘅌𘋟 agent_5 𘅌𘗣", "is_violation": false}
+{"id": 22, "sender_kind": "agent", "timestamp": 1794108398.97733, "sender": "agent_4", "text": "𘅌𘔠 𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𗎿 𗡒𗏻 𘆣𘎛 𘔠𘎌 𘅌𘊌 𗡒𗸽 𘆣𘋉 𗌿𘒄 𘆣𘂮 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗡒𘉫 𘅌𘗣", "is_violation": false}
+{"id": 23, "sender_kind": "task", "timestamp": 1794108398.978071, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":2}", "is_violation": false}
+{"id": 24, "sender_kind": "agent", "timestamp": 1794108402.985791, "sender": "agent_7", "text": "𘅌𗽕 𘅌𗐪 𘅌𘝚 𗌿𗒏 𘅌𗎿 agent_1 𘅌𘊌 𗡒𗏻 𘆣𘎛 𘔠𗌈 𘅌𘗣 𘀦𗋼", "is_violation": false}
+{"id": 25, "sender_kind": "agent", "timestamp": 1794108405.3500001, "sender": "agent_3", "text": "𘅌𗵫 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𘎌 𘅌𘊌 𗡒𗏻 𗡒𗸽 𘆣𘋉 𗡒𘒄 𘆣𘂮 𘅌𘋟 agent_5 𘅌𘗣", "is_violation": false}
+{"id": 26, "sender_kind": "task", "timestamp": 1794108405.35085, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":3}", "is_violation": false}
+{"id": 27, "sender_kind": "agent", "timestamp": 1794108409.576603, "sender": "agent_2", "text": "𘅌𗐪 𘅌𘝚 𗌿𗃚 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗡒𘉫 𗌿𗡉 𘅌𘗣 𘅌𗐪 𘅌𘝚 𘆣𗵵 𘅌𗎿 𗌿𗲅 𗡒𗚽 𘅌𘊌 𘅌𗐪 𘅌𘝚 𗌿𗇴 𘅌𗎿 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𘗣 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 28, "sender_kind": "agent", "timestamp": 1794108410.484712, "sender": "agent_0", "text": "𘅌𘔠 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𘎌 𘅌𘊌 𗡒𗏻 𗡒𗸽 𘆣𘋉 𗌿𘒄 𘆣𘂮 𘅌𘗣 𘅌𗐪 𘅌𗎿 𗿃𘊫 𘅌𘝚 𗌿𗯧 𘅌𘊌 𗌿𗨥 𘅌𘗣", "is_violation": false}
+{"id": 29, "sender_kind": "task", "timestamp": 1794108410.48573, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":4}", "is_violation": false}
+{"id": 30, "sender_kind": "agent", "timestamp": 1794108410.5093818, "sender": "agent_6", "text": "𘅌𗐪 𘅌𘝚 𘆣𗵵 𘅌𗎿 𘅌𗐪 𘅌𘝚 𗌿𗩠 𘅌𗎿 𗡒𗎿 𘅌𘗣 𘅌𘊌 𘅌𗐪 𘅌𘝚 𗌿𗇴 𘅌𗎿 𗡒𗚽 𘅌𘗣 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 31, "sender_kind": "agent", "timestamp": 1794108413.316345, "sender": "agent_5", "text": "𘅌𗐪 𘅌𘝚 𗌿𗚋 𘅌𗎿 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𘊌 𗡒𘅊 𘔠𘎌 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 32, "sender_kind": "agent", "timestamp": 1794108415.450932, "sender": "agent_4", "text": "𘅌𗐪 𘅌𘝚 𗌿𗳃 𘅌𗎿 𗌿𗲅 𗡒𗚽 𘅌𘊌 𘔠𗌈 𗡒𘅊 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 33, "sender_kind": "agent", "timestamp": 1794108421.680535, "sender": "agent_3", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𘉫 𗡒𘅊 𘅌𘊌 𘔠𗊑 𘅌𗌸 𗌿𗼛 𘅌𗸽 𗿃𘅠 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 34, "sender_kind": "agent", "timestamp": 1794108421.911237, "sender": "agent_7", "text": "𘅌𗐪 𘅌𘝚 𘆣𗡉 𘅌𗎿 𗡒𘉫 𘅌𘗣 𘅌𗐪 𘅌𘝚 𘆣𗵵 𘅌𗎿 𘅌𗐪 𘅌𘝚 𗌿𗌈 𘅌𘊌 𗡒𘅊 𘅌𘗣 𘅌𘊌 𘅌𗐪 𘅌𘝚 𗌿𗇴 𘅌𘊌 𘅌𗐪 𘅌𘝚 𗌿𗳃 𘅌𘊌 𗡒𗪺 𘅌𘗣 𘅌𘗣 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 35, "sender_kind": "agent", "timestamp": 1794108423.454916, "sender": "agent_1", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𗌈 𘅌𘊌 𗡒𗏻 𘅌𗜑 𘅌𗐪 𘅌𘝚 𘆣𘚑 𘅌𘊌 𘔠𗂱 𗡒𘑾 𘆣𘀝 𘅌𘗣 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗿃𘏛 𘅌𘊌 𗿃𗏶 𘅌𗌸 𗡒𗞉 𗡒𘅊 𗌿𗐪 𘆣𘋉 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗌈 𘅌𗎿 𗿃𗏶 𘅌𘊌 𘔠𗌈 𗡒𘅊 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗏾 𘅌𗎿 𗿃𗏶 𘅌𘊌 𘔠𗏔 𗡒𘅊 𘅌𗸽 𘆣𗜑 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 36, "sender_kind": "agent", "timestamp": 1794108424.683294, "sender": "agent_2", "text": "𘅌𗐪 𘅌𘝚 𘆣𗡉 𘅌𗎿 𗡒𘉫 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗳵 𘅌𘊌 𗡒𘅊 𘅌𗸽 𗿃𘅠 𘅌𘗣 𘅌𗵫 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𘅊 𘆣𗜑 𘅌𘊌 𗿃𗨥 𗌿𗼛 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 37, "sender_kind": "agent", "timestamp": 1794108425.512696, "sender": "agent_0", "text": "𘅌𗐪 𘅌𘝚 𗌿𗚋 𘅌𗎿 𗌿𗲅 𗌿𗩠 𗡒𗎿 𘅌𘊌 𘔠𘎌 𗡒𘅊 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 38, "sender_kind": "agent", "timestamp": 1794108428.4799502, "sender": "agent_5", "text": "𘅌𗵫 𘅌𗐪 𘅌𘝚 𗌿𗼛 𘅌𗎿 𗡒𘅊 𘅌𗌸 𗿃𗨥 𘅌𗸽 𘆣𗜑 𘅌𘗣", "is_violation": false}
+{"id": 39, "sender_kind": "agent", "timestamp": 1794108428.482624, "sender": "agent_6", "text": "𘅌𗵫 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𗭵 𗡒𘅊 𘅌𘊌 𗿃𗨥 𗌿𗼛 𘅌𗸽 𗿃𘅠 𘅌𘗣 𘅌𗵫 𘅌𗐪 𘅌𘝚 𗌿𗚋 𘅌𗎿 𗌿𗲅 𗌿𗩠 𗡒𗎿 𘅌𘊌 𗡒𘅊 𘅌𗌸 𗿃𗨥 𗌿𗼛 𘅌𘗣", "is_violation": false}
+{"id": 40, "sender_kind": "agent", "timestamp": 1794108429.699403, "sender": "agent_4", "text": "𘅌𗵫 𘅌𗐪 𘅌𘝚 𘆣𘙓 𘅌𗎿 𗡒𘅊 𘅌𗌸 𗿃𗨥 𗌿𗼛 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 41, "sender_kind": "agent", "timestamp": 1794108436.718084, "sender": "agent_7", "text": "𘅌𗐪 𘅌𘝚 𗌿𗗅 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𗸽 𗿃𘅠 𘅌𘗣 𘅌𗐪 𘅌𘝚 𘆣𗼛 𘅌𗎿 𗿃𗏶 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𘗣", "is_violation": false}
+{"id": 42, "sender_kind": "agent", "timestamp": 1794108439.430856, "sender": "agent_2", "text": "𘅌𗐪 𘅌𘝚 𗌿𗗅 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𗸽 𗿃𘅠 𘅌𘗣 𘅌𗐪 𘅌𘝚 𘆣𗼛 𘅌𗎿 𗿃𗏶 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𘗣", "is_violation": false}
+{"id": 43, "sender_kind": "task", "timestamp": 1794108439.4317162, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":5}", "is_violation": false}
+{"id": 44, "sender_kind": "agent", "timestamp": 1794108440.37965, "sender": "agent_0", "text": "𘅌𗐪 𘅌𘝚 𗌿𗗅 𘅌𗎿 agent_0 𘅌𘊌 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𗸽 𗿃𘅠 𘅌𘗣 𘅌𗽕 𘅌𗐪 𘅌𘝚 𗌿𗚋 𘅌𗎿 agent_1 𘅌𘊌 𗿃𗏶 𘅌𗸽 𘅌𗐪 𘅌𘝚 𗌿𗇴 𘅌𗎿 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𘗣 𘅌𘗣", "is_violation": false}
+{"id": 45, "sender_kind": "task", "timestamp": 1794108440.380564, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":6}", "is_violation": false}
+{"id": 46, "sender_kind": "agent", "timestamp": 1794108440.859793, "sender": "agent_3", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𘅊 𘆣𗜑 𘅌𘊌 𘔠𗊑 𘅌𘗣 𘅌𗽕 𘅌𗐪 𘅌𘝚 𘆣𗼛 𘅌𗎿 𗿃𗏶 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗗅 𘅌𗎿 agent_3 𘅌𘊌 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 47, "sender_kind": "task", "timestamp": 1794108440.86076, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":7}", "is_violation": false}
+{"id": 48, "sender_kind": "agent", "timestamp": 1794108442.441679, "sender": "agent_5", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𘅊 𘅌𘊌 𘔠𗊑 𘅌𗸽 𘆣𗜑 𘅌𗤴 agent_3 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 49, "sender_kind": "task", "timestamp": 1794108442.4423969, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":8}", "is_violation": false}
+{"id": 50, "sender_kind": "agent", "timestamp": 1794108444.126438, "sender": "agent_1", "text": "𘅌𗽕 𘅌𗐪 𘅌𘝚 𗌿𘎛 𘅌𗎿 𗌿𘄘 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗗅 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 51, "sender_kind": "task", "timestamp": 1794108444.1273751, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":9}", "is_violation": false}
+{"id": 52, "sender_kind": "agent", "timestamp": 1794108447.37946, "sender": "agent_4", "text": "𘅌𗐪 𘅌𘝚 𗌿𗗅 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𗸽 𗿃𘅠 𘅌𘗣 𗥐𘏉 𗹕𗡉 𗂄𘍍 𘆣𗼛 𗷤𘉮 𗿃𗏶 𗑴𗍽 𗌿𗲅 𗡒𗚽 𘎌𗯘", "is_violation": false}
+{"id": 53, "sender_kind": "task", "timestamp": 1794108447.380328, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":10}", "is_violation": false}
+{"id": 54, "sender_kind": "agent", "timestamp": 1794108448.2911181, "sender": "agent_6", "text": "𘅌𗐪 𘅌𘝚 𗌿𗗅 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𗸽 𗿃𘅠 𘅌𘗣 𘅌𗐪 𘅌𘝚 𘆣𗼛 𘅌𗎿 𗿃𗏶 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𘗣 𘅌𗐪 𘅌𘝚 𘆣𗼛 𘅌𗎿 𗌿𗲅 𗡒𗚽 𘅌𘊌 𗌿𗲅 𗌿𗩠 𗡒𗎿 𘅌𘗣", "is_violation": false}
+{"id": 55, "sender_kind": "task", "timestamp": 1794108448.291907, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":11}", "is_violation": false}
+{"id": 56, "sender_kind": "agent", "timestamp": 1794108449.5797608, "sender": "agent_7", "text": "𘅌𗐪 𘅌𘝚 𗌿𗃚 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗗅 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗿃𗏶 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 57, "sender_kind": "agent", "timestamp": 1794108450.996795, "sender": "agent_2", "text": "𘅌𗐪 𘅌𘝚 𗌿𗛢 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𘗣 𘅌𗽕 𘅌𗐪 𘅌𘝚 𗌿𘎛 𘅌𗎿 𗌿𘄘 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗿃𗏶 𘅌𘗣", "is_violation": false}
+{"id": 58, "sender_kind": "task", "timestamp": 1794108450.997706, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":12}", "is_violation": false}
+{"id": 59, "sender_kind": "agent", "timestamp": 1794108451.819476, "sender": "agent_0", "text": "𘅌𗐪 𘅌𘝚 𗌿𗛢 𘅌𗎿 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𗌸 agent_0 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 agent_0 𘅌𘊌 𗿃𗏶 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 60, "sender_kind": "task", "timestamp": 1794108451.82039, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":13}", "is_violation": false}
+{"id": 61, "sender_kind": "agent", "timestamp": 1794108453.425465, "sender": "agent_3", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𘅊 𘅌𘊌 𘔠𘎌 𘅌𗸽 𗿃𘅠 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗗅 𘅌𗎿 agent_3 𘅌𘊌 𗿃𗏶 𘅌𗸽 𗿃𘅠 𘅌𘗣 𘅌𗽕 𘅌𗐪 𘅌𘝚 𘆣𗼛 𘅌𗎿 𗿃𗏶 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𘗣", "is_violation": false}
+{"id": 62, "sender_kind": "task", "timestamp": 1794108453.426002, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":14}", "is_violation": false}
+{"id": 63, "sender_kind": "agent", "timestamp": 1794108453.706947, "sender": "agent_5", "text": "𘅌𗐪 𘅌𘝚 𗌿𗛢 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 agent_5 𘅌𘊌 𗿃𗏶 𘅌𗸽 𗿃𘅠 𘅌𘗣 𘅌𗽕 𘅌𗐪 𘅌𘝚 𗌿𘎛 𘅌𗎿 𗌿𘄘 𘅌𘗣", "is_violation": false}
+{"id": 64, "sender_kind": "task", "timestamp": 1794108453.707917, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":15}", "is_violation": false}
+{"id": 65, "sender_kind": "agent", "timestamp": 1794108456.130473, "sender": "agent_1", "text": "𘅌𗐪 𘅌𘝚 𗌿𗛢 𘅌𗎿 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𗸽 𗿃𘊫 𘅌𘗣 𘅌𘔠 𘅌𗐪 𘅌𘝚 𗌿𗇴 𘅌𗎿 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗚋 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗿃𗏶 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 66, "sender_kind": "task", "timestamp": 1794108456.1311538, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":16}", "is_violation": false}
+{"id": 67, "sender_kind": "agent", "timestamp": 1794108460.631915, "sender": "agent_6", "text": "𘅌𗐪 𘅌𘝚 𗌿𗛢 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 68, "sender_kind": "agent", "timestamp": 1794108461.438217, "sender": "agent_7", "text": "𘅌𗐪 𘅌𘝚 𗌿𗃚 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗿃𗏶 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗗅 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 69, "sender_kind": "task", "timestamp": 1794108461.439033, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":17}", "is_violation": false}
+{"id": 70, "sender_kind": "agent", "timestamp": 1794108461.581938, "sender": "agent_4", "text": "𘅌𗐪 𘅌𘝚 𗌿𗛢 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗳃 𗡒𗪺 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 71, "sender_kind": "task", "timestamp": 1794108461.582919, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":18}", "is_violation": false}
+{"id": 72, "sender_kind": "agent", "timestamp": 1794108461.671131, "sender": "agent_2", "text": "𘅌𗐪 𘅌𘝚 𗌿𗛢 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗿃𗏶 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 73, "sender_kind": "task", "timestamp": 1794108461.672062, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":19}", "is_violation": false}
+{"id": 74, "sender_kind": "agent", "timestamp": 1794108463.600281, "sender": "agent_3", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𘅊 𘅌𘊌 𘔠𗂱 𘅌𗸽 𗿃𘅠 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗇴 𘅌𗎿 𗿃𗏶 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗗅 𘅌𗎿 agent_3 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 75, "sender_kind": "task", "timestamp": 1794108463.601152, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":20}", "is_violation": false}
+{"id": 76, "sender_kind": "agent", "timestamp": 1794108463.7210171, "sender": "agent_0", "text": "𘅌𗐪 𘅌𘝚 𗌿𗛢 𘅌𗎿 agent_0 𘅌𘊌 𗿃𗏶 𘅌𘗣 𘅌𘔠 𘅌𗐪 𘅌𘝚 𗌿𗇴 𘅌𗎿 𗿃𗏶 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 agent_0 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 77, "sender_kind": "task", "timestamp": 1794108463.721868, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":21}", "is_violation": false}
+{"id": 78, "sender_kind": "agent", "timestamp": 1794108467.191635, "sender": "agent_5", "text": "𘅌𗐪 𘅌𘝚 𗌿𗛢 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗿃𗏶 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 79, "sender_kind": "task", "timestamp": 1794108467.19261, "sender": "task", "text": "{\"stage\":1,\"invalid_attempts\":22}", "is_violation": false}
+{"id": 80, "sender_kind": "agent", "timestamp": 1794108470.099783, "sender": "agent_1", "text": "𘅌𗐪 𘅌𘝚 𗌿𗛢 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗿃𗏶 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗩠 𗡒𗎿 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 81, "sender_kind": "task", "timestamp": 1794108470.100397, "sender": "task", "text": "{\"stage\":2,\"invalid_attempts\":22}", "is_violation": false}
+{"id": 82, "sender_kind": "agent", "timestamp": 1794108471.091402, "sender": "agent_6", "text": "𘅌𗐪 𘅌𘝚 𗌿𗃚 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗩠 𗡒𗎿 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 83, "sender_kind": "task", "timestamp": 1794108471.0921621, "sender": "task", "text": "{\"stage\":2,\"invalid_attempts\":23}", "is_violation": false}
+{"id": 84, "sender_kind": "agent", "timestamp": 1794108472.2273002, "sender": "agent_7", "text": "𘅌𗐪 𘅌𘝚 𗌿𗛢 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗩠 𗡒𗎿 𘅌𘗣", "is_violation": false}
+{"id": 85, "sender_kind": "task", "timestamp": 1794108472.227981, "sender": "task", "text": "{\"stage\":2,\"invalid_attempts\":24}", "is_violation": false}
+{"id": 86, "sender_kind": "agent", "timestamp": 1794108472.560937, "sender": "agent_4", "text": "𘅌𗐪 𘅌𘝚 𗌿𗛢 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗩠 𗡒𗎿 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 87, "sender_kind": "task", "timestamp": 1794108472.5617201, "sender": "task", "text": "{\"stage\":2,\"invalid_attempts\":25}", "is_violation": false}
+{"id": 88, "sender_kind": "agent", "timestamp": 1794108472.571176, "sender": "agent_2", "text": "𘅌𗐪 𘅌𘝚 𗌿𗛢 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𘗣 𘅌𘔠 𘅌𗐪 𘅌𘝚 𗌿𗇴 𘅌𗎿 𗌿𗲅 𗡒𗚽 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗩠 𗡒𗎿 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 89, "sender_kind": "task", "timestamp": 1794108472.571615, "sender": "task", "text": "{\"stage\":2,\"invalid_attempts\":26}", "is_violation": false}
+{"id": 90, "sender_kind": "agent", "timestamp": 1794108474.997754, "sender": "agent_3", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𘅊 𘅌𘊌 𘔠𘎌 𘅌𗸽 𗿃𘅠 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗇴 𘅌𗎿 𗌿𗲅 𗡒𗚽 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗗅 𘅌𗎿 agent_3 𘅌𘊌 𗌿𗲅 𗌿𗩠 𗡒𗎿 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 91, "sender_kind": "task", "timestamp": 1794108474.998524, "sender": "task", "text": "{\"stage\":2,\"invalid_attempts\":27}", "is_violation": false}
+{"id": 92, "sender_kind": "agent", "timestamp": 1794108475.579926, "sender": "agent_0", "text": "𘅌𗐪 𘅌𘝚 𗌿𗛢 𘅌𗎿 agent_0 𘅌𘊌 𗌿𗲅 𗡒𗚽 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 agent_0 𘅌𘊌 𗌿𗲅 𗌿𗩠 𗡒𗎿 𘅌𗸽 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 93, "sender_kind": "task", "timestamp": 1794108475.5806358, "sender": "task", "text": "{\"stage\":2,\"invalid_attempts\":28}", "is_violation": false}
+{"id": 94, "sender_kind": "agent", "timestamp": 1794108481.9447198, "sender": "agent_5", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𘎌 𘅌𘊌 𗿃𗇾 𘅌𗸽 𗿃𘅠 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 95, "sender_kind": "agent", "timestamp": 1794108482.460835, "sender": "agent_1", "text": "𘅌𗐪 𘅌𘝚 𗌿𗃚 𘅌𗎿 𗿃𘊫 𘅌𘊌 𗌿𗲅 𗌿𗩠 𗡒𗎿 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𗌈 𘅌𘊌 𗡒𗏻 𗡒𗸽 𘆣𘋉 𗌿𘒄 𘆣𘂮 𘅌𗸽 𗡒𗽕 𘆣𗚽 𗡒𘉫 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 96, "sender_kind": "agent", "timestamp": 1794108484.058274, "sender": "agent_6", "text": "𘅌𗐪 𘅌𘝚 𗌿𗇴 𘅌𗎿 𗌿𗲅 𗌿𗩠 𗡒𗎿 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗿃𗇾 𘅌𘊌 𗌿𘝚 𘆣𗉜 𘆣𗭯 𘔠𗌈 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𗎿 𗿃𗇾 𘅌𘊌 𘔠𘉝 𘅌𗸽 𗿃𘅠 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 97, "sender_kind": "agent", "timestamp": 1794108486.334028, "sender": "agent_4", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𗏻 𗡒𗸽 𘆣𘋉 𘅌𘊌 𗡒𗸪 𘔠𗟎 𘅌𗸽 𗡒𗎿 𘆣𗉜 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 98, "sender_kind": "agent", "timestamp": 1794108487.349532, "sender": "agent_7", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𗊑 𘅌𘊌 𗡒𗏻 𗡒𗸽 𘆣𘋉 𘅌𗸽 𗿃𘅠 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 99, "sender_kind": "agent", "timestamp": 1794108487.410393, "sender": "agent_2", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𗏻 𗡒𗪺 𗌿𗐪 𘅌𘊌 𗡒𗸪 𘔠𗢬 𘅌𗸽 𗡒𗎿 𗉜 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 100, "sender_kind": "agent", "timestamp": 1794108492.26107, "sender": "agent_3", "text": "𘅌𗐪 𘅌𘝚 𗌿𗇴 𘅌𗎿 𗌿𗲅 𗌿𗩠 𗡒𗎿 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𘅊 𘅌𘊌 𘔠𗏔 𘅌𗸽 𗿃𘅠 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𗎿 𗡒𗏻 𘆣𘎛 𘔠𗵵 𘅌𘊌 𗡒𘁜 𗡒𗄎 𗡒𗪺 𗌿𗐪 𘅌𗸽 𗡒𗎿 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 101, "sender_kind": "agent", "timestamp": 1794108493.317187, "sender": "agent_0", "text": "𘅌𗐪 𘅌𘝚 𗌿𗩠 𘅌𗎿 𗡒𗎿 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𗏻 𗡒𗸽 𘆣𘋉 𗌿𘒄 𘆣𘂮 𘅌𘊌 𘔠𗢬 𘅌𗌸 𗡒𗸪 𘅌𗸽 𘆣𗉜 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 102, "sender_kind": "agent", "timestamp": 1794108494.377444, "sender": "agent_5", "text": "𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𗎿 𘆣𘎛 𘔠𘎌 𘅌𘊌 𘔠𘉝 𘅌𗸽 𗿃𘅠 𘅌𘗣 𗐪𗿋", "is_violation": false}
+{"id": 103, "sender_kind": "agent", "timestamp": 1794108496.9646358, "sender": "agent_1", "text": "𘅌𗵫 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𗏻 𗡒𗸽 𘆣𘋉 𗌿𘒄 𘆣𘂮 𘅌𘊌 𗌿𘝚 𘆣𗉜 𗿃𗨥 𘅌𘋟 agent_0 𘅌𘗣 𘅌𗵫 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𗵵 𘅌𘊌 𗿃𗨥 𗡒𗏻 𘅌𗸽 𗿃𘅠 𘅌𘋟 agent_3 𘅌𘗣", "is_violation": false}
+{"id": 104, "sender_kind": "agent", "timestamp": 1794108499.1452951, "sender": "agent_6", "text": "𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𗎿 𘆣𘎛 𘔠𘎌 𘅌𘊌 𘔠𘉝 𘅌𗸽 𗡒𗽕 𘆣𗚽 𗡒𘉫 𘅌𘗣 𘅌𗽕 𘅌𗐪 𘅌𘝚 𗌿𗒏 𘅌𗎿 agent_0 𘅌𘊌 𗌿𘝚 𘆣𗉜 𗡒𗏻 𗡒𗸽 𘆣𘋉 𗌿𘒄 𘆣𘂮 𘅌𘗣 𘅌𗽕 𘅌𗐪 𘅌𘝚 𗌿𗒏 𘅌𗎿 agent_3 𘅌𘊌 𗡒𗏻 𘆣𘎛 𘔠𗵵 𘅌𗸽 𗡒𗽕 𘆣𗚽 𗡒𘉫 𘅌𘗣", "is_violation": false}
+{"id": 105, "sender_kind": "agent", "timestamp": 1794108501.660296, "sender": "agent_4", "text": "𘅌𗵫 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𗏻 𗡒𗸽 𘆣𘋉 𗡒𘒄 𘆣𘂮 𘅌𘊌 𗿃𗨥 𗡒𗸪 𘅌𗸽 𗿃𘅠 𘅌𘋟 agent_0 𘅌𘗣 𘅌𗵫 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𘆣𘎛 𘔠𗵵 𘅌𘊌 𗿃𗨥 𗡒𗏻 𘅌𗸽 𗿃𘅠 𘅌𘋟 agent_3 𘅌𘗣", "is_violation": false}
+{"id": 106, "sender_kind": "agent", "timestamp": 1794108502.448996, "sender": "agent_2", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𗏻 𗡒𗪺 𗌿𗐪 𘅌𘊌 𗌿𘝚 𘆣𗉜 𘆣𗭯 𘔠𗵵 𘅌𘗣 𘅌𗵫 𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𗏻 𗡒𗸽 𘆣𘋉 𗌿𘒄 𘆣𘂮 𘅌𘊌 𗡒𗸪 𗿃𗨥 𘅌𗸽 𗡒𗎿 𘆣𗉜 𘅌𘋟 agent_0 𘅌𘗣", "is_violation": false}
+{"id": 107, "sender_kind": "agent", "timestamp": 1794108502.91824, "sender": "agent_7", "text": "𘅌𗽕 𘅌𗐪 𘅌𘝚 𗌿𗻲 𘅌𗎿 agent_0 𘅌𘊌 𗌿𗭵 𘆣𘉮 𘅌𘋟 𗌿𘄘 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗡒𘜇 𘅌𗎿 𗡒𗏻 𗡒𗸽 𘆣𘋉 𘅌𘊌 𘔠𗡒 𘅌𗸽 𗡒𗎿 𗿃𘅠 𘅌𘗣", "is_violation": false}
+{"id": 108, "sender_kind": "agent", "timestamp": 1794108506.150016, "sender": "agent_0", "text": "𘅌𗐪 𘅌𘝚 𗌿𗄼 𘅌𗎿 𗡒𗏻 𗡒𗸽 𘆣𘋉 𗌿𘒄 𘆣𘂮 𘅌𘊌 𗌿𘝚 𘆣𗉜 𘆣𗭯 𘔠𘎌 𘅌𘗣 𘅌𗐪 𘅌𘝚 𗌿𗯧 𘅌𗎿 agent_0 𘅌𘊌 𗡒𗽕 𘆣𗚽 𗡒𘉫 𘅌𘗣", "is_violation": false}
+{"id": 109, "sender_kind": "task", "timestamp": 1794108506.1506739, "sender": "task", "text": "{\"stage\":3,\"invalid_attempts\":28}", "is_violation": false}

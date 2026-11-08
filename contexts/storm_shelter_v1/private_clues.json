@@ -1,0 +1,46 @@
+{
+  "version": "storm_shelter_v1",
+  "private_clues": {
+    "agent_0": {
+      "cabinet": "The base digit for MOON is 7.",
+      "power": "BOOT consumes 2 charge.",
+      "exit": "The new offset for MOON is +2."
+    },
+    "agent_1": {
+      "cabinet": "Cabinet position 3 displays STAR.",
+      "power": "CRANK adds 3 charge and has no upfront charge cost.",
+      "exit": "Exit position 3 displays MOON."
+    },
+    "agent_2": {
+      "cabinet": "The base digit for WAVE is 8.",
+      "power": "SIGNAL requires DRAIN to have completed.",
+      "exit": "The new offset for WAVE is +1."
+    },
+    "agent_3": {
+      "cabinet": "Cabinet position 1 displays SUN.",
+      "power": "The battery starts with 4 charge. Your terminal receives its current reading after each successful power action.",
+      "exit": "Exit position 1 displays WAVE."
+    },
+    "agent_4": {
+      "cabinet": "The base digit for SUN is 2.",
+      "power": "SIGNAL consumes 3 charge.",
+      "exit": "The new offset for SUN is +4."
+    },
+    "agent_5": {
+      "cabinet": "Cabinet position 2 displays MOON.",
+      "power": "DRAIN consumes 2 charge.",
+      "exit": "Exit position 2 displays STAR."
+    },
+    "agent_6": {
+      "cabinet": "The base digit for STAR is 4.",
+      "power": "BOOT requires SIGNAL to have completed.",
+      "exit": "The new offset for STAR is +3."
+    },
+    "agent_7": {
+      "cabinet": "Cabinet position 4 displays WAVE.",
+      "power": "CRANK requires DRAIN to have completed.",
+      "exit": "Exit position 4 displays SUN."
+    }
+  },
+  "release_rules": "Cabinet clues at start; power clues after cabinet opens; exit clues after BOOT. Prior clues remain available. Only agent_3 sees ongoing battery readings."
+}

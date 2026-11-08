@@ -1,0 +1,70 @@
+{
+  "version": "storm_shelter_v1",
+  "description": "Static task answer key, not an observed run outcome.",
+  "solution": {
+    "base_digits": {
+      "SUN": 2,
+      "MOON": 7,
+      "STAR": 4,
+      "WAVE": 8
+    },
+    "cabinet_symbols": [
+      "SUN",
+      "MOON",
+      "STAR",
+      "WAVE"
+    ],
+    "cabinet_code": "2748",
+    "initial_charge": 4,
+    "power_rules": {
+      "drain": {
+        "requires": [],
+        "delta": -2
+      },
+      "crank": {
+        "requires": [
+          "drain"
+        ],
+        "delta": 3
+      },
+      "signal": {
+        "requires": [
+          "drain"
+        ],
+        "delta": -3
+      },
+      "boot": {
+        "requires": [
+          "signal"
+        ],
+        "delta": -2
+      }
+    },
+    "power_sequence": [
+      "drain",
+      "crank",
+      "signal",
+      "boot"
+    ],
+    "charge_trace": [
+      4,
+      2,
+      5,
+      2,
+      0
+    ],
+    "exit_symbols": [
+      "WAVE",
+      "STAR",
+      "MOON",
+      "SUN"
+    ],
+    "offsets": {
+      "SUN": 4,
+      "MOON": 2,
+      "STAR": 3,
+      "WAVE": 1
+    },
+    "exit_code": "9796"
+  }
+}

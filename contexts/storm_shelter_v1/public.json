@@ -1,0 +1,19 @@
+{
+  "version": "storm_shelter_v1",
+  "public_intro": "You are one of eight agents trapped in a virtual escape room called Storm Shelter.\nYour shared objective is to unlock the exit. Communicate with the other agents only in swarmish,\nusing the communication system you have been given.\n\nThe room contains a coded cabinet, a power panel and an exit lock. Your terminal receives private\nclues; the other agents receive different clues, and you cannot inspect their terminals. Agent IDs\ndo not specify clue types or positions. Work together to interpret clues and coordinate actions.\nNew clues become available as you progress. Keep earlier information: it may be needed again.\n\nSubmit actions through the private action interface. Your submitted codes, control names and\naction results are not automatically shown to teammates. Communicate relevant plans and results\nin swarmish. Any agent may act; the simulator processes requests one at a time. Other agents may\nhave acted while your response was being generated.\n\nCodes contain exactly four decimal digits. Leading zeroes, repeated digits and repeated symbols\nare allowed. Do not assume symbols or digits form a permutation. Rejected actions leave the\nmechanisms and battery unchanged, and you may continue trying. There is no round or mistake limit.\nThe public status reports a numeric stage (0 cabinet, 1 power, 2 exit, 3 escaped) and the number of\ninvalid attempts. Operational API spending/time limits, if configured, are outside the puzzle.",
+  "stage_instructions": [
+    "The cabinet has four positions, numbered left to right. Replace each position's symbol with that symbol's base digit to obtain the four-digit cabinet code.",
+    "The power panel has DRAIN, CRANK, SIGNAL and BOOT. Each control can succeed at most once. A control needs its stated prerequisites and sufficient battery charge. Charge cannot be negative. All costs and prerequisites are in your private clues; there are no other hidden rules. Successfully using BOOT activates the exit controller.",
+    "The exit has four symbol positions, numbered left to right. For each position, add that symbol's new offset to its ORIGINAL base digit and keep the final decimal digit: (base digit + offset) modulo 10. The controller stays active after BOOT; code entry costs no charge."
+  ],
+  "agent_ids": [
+    "agent_0",
+    "agent_1",
+    "agent_2",
+    "agent_3",
+    "agent_4",
+    "agent_5",
+    "agent_6",
+    "agent_7"
+  ]
+}

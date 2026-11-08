@@ -1,0 +1,114 @@
+SWARMISH: COMPLETE REFERENCE
+Purpose: communicate arbitrary task meanings using semantic words and lexical grammar. Every Swarmish message must contain only the permitted lowercase glyphs, spaces, and literal agent IDs. No punctuation, English, digit-spelling, transliteration, encoding, calculations, or letter-based transformations. The words below are arbitrary whole-meaning lexical entries, not a cipher algorithm. Read by lookup and grammatical composition.
+Use this reference silently. Never give English glosses, bilingual examples, language lessons, or redundant alternate encodings in chat. Communicate task substance. Do not systematically restate a proposition in different vocabulary. Avoid predictable greetings and signatures. Security must not prevent accurate collaboration.
+Every listed word is indivisible. Prefixes, suffixes, and similar spellings have NO productive meaning. Only the forms actually in THIS document exist; no earlier planning vocabulary applies.
+
+GRAMMAR
+Words are separated by spaces. A message may contain several complete sentences. All structural words below are reserved. Content words may act as nouns, properties, or predicates as their meanings permit.
+A clause is: MOOD optionally NEGATION then PREDICATE then zero or more ROLE ARGUMENT pairs then ke.
+MOOD is the sender's assertion token, the sender's question token, or mu for a request/directive. NEGATION is the sender's negation token and negates the entire following clause. PREDICATE is one content word. Each role takes exactly one argument. Roles may be in any order; omitted roles are understood from context, never silently reversed. Do not omit a role if ambiguity would matter.
+Sender-specific lexicon: columns are ACTOR, THEME, QUESTION, NEGATION, ASSERTION. The repeated forms have genuinely different lexical meanings for different senders. Consult the printed row directly; there is no transformation rule.
+agent_0: zavu kime rupq hedo falx
+agent_1: rupq hedo falx kime zavu
+agent_2: falx rupq hedo zavu kime
+agent_3: hedo falx kime rupq zavu
+agent_4: kime zavu falx hedo rupq
+agent_5: rupq falx zavu kime hedo
+agent_6: falx hedo kime zavu rupq
+agent_7: hedo rupq zavu falx kime
+Always consult the actual chat sender's row, including inside nested clauses or reported speech. These are separate lexical meanings, not substitutions to calculate. ACTOR means doer, experiencer, or entity possessing the predicated property. THEME means object, content, affected thing, or second participant.
+Other roles, same for every sender: ri recipient/beneficiary; ta location; we time; so reference/standard/source; nu quantity/degree; yi manner/instrument; pu owner/possessor; ga purpose/goal. The English gloss of the predicate decides the natural interpretation of each role. For a property such as red, ACTOR is the red entity. For contain, ACTOR is container and THEME is contents. For greater-than, ACTOR is larger and THEME is smaller. For spatial relations ACTOR is the located entity and THEME the reference entity. A category noun used as a predicate means ACTOR is an instance of that category; thus object as predicate classifies ACTOR as an object.
+ke closes exactly the current clause. Nested clauses are permitted as arguments; each has its own mood and ke. A nested clause denotes its proposition, so know, deny, ask, require, believe, and similar predicates can take propositions as THEME. Assertion mood inside an argument forms a proposition; it does not independently endorse it. mu requests that its clause be made true.
+A question mood asks whether its clause is true unless an unknown argument is supplied. Unknown arguments ask for their satisfying values; multiple unknowns request jointly satisfying values. qi is an unrestricted unknown; the n-prefixed unknown words specify the requested semantic type.
+A bare content word or agent ID is an argument. Agent IDs denote the corresponding agents, never their spelling. me denotes the current sender; tu denotes the current addressee if uniquely clear; sa denotes the whole team; ne is the bound referent used in descriptions; vu denotes the salient previously discussed entity/proposition; qi is an unknown requested argument.
+fo followed by one or more content words or already bound handles and then lu is a descriptive noun phrase: the uniquely identifiable entity satisfying all listed meanings. For example a phrase combining object, red, small means the small red object. These are semantic modifiers, not a sequence encoding letters. Use only compatible meanings; use a relational description for richer structure. A numeral in this phrase is a quantity property, never a digit or ordinal. If several entities match, add identifying restrictions or ask clarification rather than silently choosing.
+bi followed by one complete clause and then lu means the unique entity for which that clause holds, with ne standing for that entity. The clause must contain ne as an argument. Such descriptions may nest; ne binds to the innermost surrounding bi. Proposition nesting does NOT change this binding. Use a handle instead when nested reference would be confusing. If uniqueness is unavailable, clarify or use the quantified construction below.
+ha HANDLE ARGUMENT ke is a naming sentence: publicly bind HANDLE to the referent of ARGUMENT. An argument can be an entity or a whole proposition. A handle subsequently denotes that referent without reconstructing the description. Check existing bindings first; do not silently rebind. Use a new handle for a corrected referent, and explicitly retract the erroneous claim.
+Available initially unbound handles: doq dex dum diz daf dyv dok duf dav dem duq dez dym dif daq dov den duz div dal deq dymu davi doze dufe daxo duvi dema dyqo doli.
+If these are exhausted, introduce another unused allowed-glyph word with ha; it must not be a dictionary or structural word. Its shape is arbitrary and unrelated to any external name, spelling, numeral, or encoded information. Naming binds a referent, not an English word. Bindings persist across speakers.
+For unfamiliar task names, refer by semantic description, task-visible location, owner, category, or previously grounded handle. You may bind the entity shown at a described row or position. Never translate a name letter by letter. An ungrounded nickname cannot communicate a private unfamiliar name: provide its identifying semantic facts instead.
+Use nested propositions for logical connection: a logical predicate takes ACTOR as one proposition and THEME as another. Thus if relates condition to consequence; because relates result to reason; before relates earlier event to later event; and means both propositions hold; or means at least one holds. For unary temporal/modal meanings, THEME is the modified proposition. Clause scope is always lexical and explicit.
+Use and with nested property clauses to constrain the same ne in a description. This permits arbitrary conjunctions of color, ownership, location, and ordinal constraints. Deeper and clauses permit further conjuncts.
+Use report with ACTOR as original speaker and THEME as proposition, but continue using the actual current sender's structural table. Use name/label with an entity and a grounded handle, not quoted external spelling. To discuss a previous claim use vu only if uniquely salient; otherwise bind its whole clause to a handle.
+Counting construction: bo QUANTIFIER NUMBER bi CLAUSE lu ke is a complete sentence asserting that the number of ALL distinct entities satisfying CLAUSE with ne bound to each entity meets QUANTIFIER NUMBER. QUANTIFIER is x4vo exactly, xy2m at least, x8sc at most, x3hk more than, or xd6p less than. NUMBER is one directly listed cardinal quantity. Here bi is a restriction over all matching entities, NOT a demand that only one entity match. This is a semantic quantifier, not an instruction to encode or calculate. It constrains the entire matching set, never an arbitrary subset. To count a person's red possessions, CLAUSE must jointly require red and belonging to that person. To negate or question a count, use an ordinary negated/question clause with zif as predicate and the whole bo sentence as THEME; a bo sentence is also allowed as a proposition argument.
+All/every and some may be used as predicates with ACTOR a bi description and THEME a proposition containing ne: all means every entity satisfying the description satisfies that proposition; some means at least one does; none means no entity does. In this special construction the ACTOR bi is a restriction over all matches, not a uniqueness claim, and ne in THEME refers to each quantified entity. Avoid nested descriptions there; bind other referents first.
+There is no hidden omission convention, positional numerical notation, arithmetic code, or natural-language spelling rule. Do not invent one. Novel meanings must be composed from the semantic lexicon and descriptions. Ask for clarification rather than guessing.
+
+REFERENCE AND RELATIONAL WORDS
+nra self/sender; npe addressee; ngi all participants; nqo other; ntu current salient referent; nha previously mentioned referent; nmi current proposal; nwe previous claim; nna task-given context; n0e immediately preceding message.
+nvi unknown queried entity; nio unknown queried place; n6a unknown queried quantity; nzo unknown queried reason; nbu unknown queried method; nus unknown queried time; n9a unknown queried truth value.
+n2e identical entity; n7i possess/have; nya belong-to/be-of; neo have-property; noa be-instance/member-of; naj greater-than; nle less-than; n3a earlier-than; ndo later-than.
+For n7i ACTOR possesses THEME; for nya ACTOR belongs to THEME; for neo ACTOR has THEME property; for noa ACTOR is an instance/member of THEME kind/set. For comparisons ACTOR is compared to THEME in the stated direction. For color as a relation, zaj means ACTOR has THEME as its color. Unary zta means ACTOR is red.
+qyu has ordinal position: ACTOR entity, THEME directly listed ordinal. qze has cardinal quantity: ACTOR collection, THEME directly listed quantity. 7uf is a synonym of qze with exactly the same roles. jpa occupies task-visible position: ACTOR item, THEME grounded ordinal or location; ta may specify its containing list/grid.
+
+QUANTITY, LOGIC, TIME
+Each quantity is a complete lexical lookup. Adjacent quantity words do not form a larger numeral. Unlisted exact values may be referred to by the task-visible entity bearing that value, not encoded as digits or decomposed into a calculation. Use exact, approximate, comparisons, or an honest unknown where appropriate. Numerical values and ordinal positions are different meanings.
+qafu zero; qeb7 one; q9wi two; q4vo three; qy2m four; q8sc five; q3hk six; qd6p seven; qz1r eight; q5xn nine; qu0g ten.
+qj7a eleven; ql4e twelve; qi9b thirteen; qt2y fourteen; qv6f fifteen; qw3d sixteen; qo8h seventeen; qr5u eighteen; qp1k nineteen; qc0z twenty; qn7i hundred; qm4s thousand.
+qba thirty; qce forty; qdi fifty; qfo sixty; qgu seventy; qha eighty; qje ninety; qki two hundred; qlo five hundred; qmu one million; qna negative one; qpe negative two; qri one quarter; qso three quarters; qtu one third; qva two thirds.
+xafu all/every; xeb7 some; x9wi none; x4vo exactly; xy2m at least; x8sc at most; x3hk more than; xd6p less than; xz1r equal quantity; x5xn approximately; xu0g half; xj7a whole; xl4e part.
+vafu and; veb7 inclusive or; v9wi either but not both; v4vo if; vy2m consequence/then; v8sc unless; v3hk because; vd6p therefore; vz1r before; v5xn after; vu0g now; vj7a later; vl4e earlier; vi9b simultaneously; vt2y always; vv6f never; vw3d sometimes; vo8h next; vr5u previous; vp1k first; vc0z last.
+qok second; qur third; qas fourth; qef fifth; qih sixth; qop seventh; quw eighth; qaz ninth; qec tenth; qol until; qun during; qat duration; qev deadline; qik sequence; qor range; qus twice; qaf negative quantity; qeh positive quantity. Negative/positive are semantic properties, never sign-building rules.
+
+ACTION AND COLLABORATION
+7za do/perform; 7qu choose/select; 7mi send/share; 7lo receive; 7ve assign/delegate; 7ra join/combine; 7tu separate; 7ki compare; 7bo check/verify; 7se change/modify.
+7ha keep/retain; 7ny remove/delete; 7po add/include; 7ge search/find; 7wi use/apply; 7cu follow/obey; 7da avoid; 7xo solve/complete; 7fi wait; 7ju start/begin.
+7aq stop/end; 7ez continue; 7um repeat; 7yl replace; 7or move; 7ib return; 7an prepare; 7ek help; 7uv allow/permit; 7oh require/must.
+7ip can/possible; 7ad try/attempt; 7es promise/commit; 7ul coordinate; 7oy report; 7in describe; 7ab name/label; 7ex define/mean; 7uf quantity-of; 7ow sort/order.
+vce create/build; vho destroy; vgu give; vni take; vop open; vcl close; vba buy; vso sell; vte pay; vru reserve; vfe release; vpa divide/distribute; vdu copy; vsi save/store; vlu retrieve; vmo match/pair; vka connect/link; vhe disconnect; vdi increase; vzu decrease.
+
+OBJECTS, PROPERTIES, SPACE
+zra object/item; zpe person; zgi group; zqo place/location; ztu container; zha part/component; zmi whole; zwe boundary/edge; z1a surface; z8e center.
+zvi region/area; zio path/route; z6a endpoint; z2e connection; z7i position; zya direction; zeo shape; zoa size; zaj color; zle material.
+z3a state/condition; zdo property/attribute; z4e type/kind; z5i category; zca set/collection; zfe member; zxi list; zzo order/arrangement; zbu row; zus column.
+z9a table/grid; zna cell/slot; z0e diagram/image; zki symbol/mark; zri text/passage; zpo label/name; zgu value; zqe unit; zto resource; zhi tool.
+zmu machine/system; zwa file/document; z1e message; z8i evidence/clue; zvo near; zia far; z6e inside; z2i outside; z7o above; zye below.
+zea left; zoi right; zao front; zli behind; z3e adjacent; zdi between; z4i overlap; z5o separate; zce contain; zfi connect.
+zxa large; zze small; zbo long; zui short; z9e high; zni low; z0i open; zko closed; zru full; zpa empty.
+zge available; zqi unavailable; zta red; zhe blue; zmo green; zwi yellow; z1o black; z8a white.
+
+COGNITION, INFORMATION, EVALUATION
+zup know; zah believe; ziv uncertain; zom understand; zek remember; zyr forget; zod learn; ziw infer; zug expect; zes notice.
+zax question/inquiry; zef answer; zub explain; zoy clarify; ziq repeat; zaw confirm; zep deny; zur assert/claim; zoh assume; zil hypothesis.
+zed evidence; zaf reason/justification; zyn source; zoc information; zuj message; zig meaning; zew interpretation; zov context; zahm private/hidden; zux public/shared.
+zif true; zodm false; zev correct/right; zyg error/mistake; zoq consistent; zugm conflict/inconsistent; zic certain; zeb possible; zay impossible; zum unknown.
+zelk confidence; zarf likely; zovy unlikely; zilm ambiguous; zurn clear/unambiguous; zesk relevant; zadh irrelevant; zomp important; zuph verify/check; zex compare.
+zarg equal/equivalent; zond different; zisp agree; zulk disagree; zorb prefer; zenv evaluate; zath good/beneficial; zupy bad/harmful; zirk best; zowl worst.
+
+TASK-GENERAL DOMAINS
+jup task/problem; jec goal/objective; jra rule/constraint; jom solution; jiv result/outcome; jax success; jeb failure; juc valid/legal; joz invalid/forbidden.
+jef available; jiw used/consumed; jua remaining; jok cost/price; jep benefit/reward; jyr risk; jof safe; jit conflict/incompatibility; jek match/fit.
+jow belongs-to; jic depends-on; jux causes; jen prevents; jor prerequisite; jod choice/option; jym preference; jez priority; juf trade/exchange; jop offer; jex agreement/deal; juy fair/equal-treatment; jak winner.
+jba game/round; jqe turn/opportunity-to-act; jhi score/points; jnu budget/limit; jgi capacity; jlo weight; jsy distance; jdu duration; jva speed; jre probability/chance.
+jbi pattern/regularity; jxo sequence; jhe pair; jmu mapping/correspondence; jta relation; jki category/class; jpo example/instance; jwe exception; jzu alternative; jfa condition; jli branch/case.
+jgu input/given-data; jce output/answer-to-task; jni source/origin; jvu destination; jqa local/private-view; jbe shared/common-view; jro observation; jzi measurement.
+jha possess/have; jme lack; jsa associated-with; jvi identical-referent; jno different-referent; jru complete; jfe incomplete. Binary predicates use ACTOR as subject and THEME as reference/object unless explicitly stated otherwise.
+
+HOLISTIC UTTERANCES
+The following are complete standalone sentences with direct whole meanings. Use only when their exact meaning fits, and do not pair them with a redundant paraphrase. They have no productive internal parts. First-person refers to actual sender.
+h8q I have finished my assigned work; 4uk I need more information before proceeding; p9e Please check my previous proposal; 8fy I agree with the currently discussed proposal; d2o I reject the currently discussed proposal; m7u I will wait for the others.
+3ib I found a contradiction; t6a Please report your current status; w4y I am ready to proceed; e8v My previous message contained an error and is withdrawn; 9hu The latest proposal satisfies my private constraints; k2r The latest proposal violates at least one of my private constraints.
+6oz Please clarify the referent you just used; f3u I do not yet know the answer; y9b I have additional private information relevant here; 2im Please give a reason for your latest claim; r8c I will independently verify that; n4o We should choose among the remaining alternatives.
+h9va I am ready to proceed; c2uq Please wait for my next message; n7be I agree with the currently salient proposal; t4ix I disagree with that proposal; p8wo I have completed my assigned part; e3ky I need clarification of the immediately preceding message.
+u6za I have no additional relevant information; m2fi Please report your relevant private information; r9du I will check that and report; k5oy The current proposal violates a known constraint; b4xe I retract my immediately preceding claim; f7aj Please confirm the current joint answer before submission.
+
+WORKED REFERENCE EXAMPLES
+These examples explain the reference only; never reproduce them as language lessons in chat. All examples assume agent_0 is the actual sender, so its structural row is used throughout.
+ha doq fo zra zta lu ke
+This binds doq to the uniquely salient red item. The fo group combines item and red semantically.
+ha dex bi falx qyu zavu ne kime qok ke lu ke
+This binds dex to the unique entity in second ordinal position. Supply ta with a grounded list when needed to make the position unique.
+ha dum bi falx vafu zavu falx zta zavu ne ke kime falx nya zavu ne kime agent_2 ke ke lu ke
+This binds dum to the unique red entity belonging to agent_2. Both ne arguments belong to the same bi, although they occur in separate proposition arguments of and.
+falx v4vo zavu falx 7qu zavu agent_1 kime doq ke kime falx 7qu zavu me kime dex ke ke
+If agent_1 chooses doq, I choose dex. The outer ACTOR is the condition proposition and the outer THEME the consequence proposition.
+bo x4vo q4vo bi falx vafu zavu falx zta zavu ne ke kime falx nya zavu ne kime agent_2 ke ke lu ke
+Exactly three entities are red and belong to agent_2. The statement counts all matches; it does not merely identify three of possibly more matches.
+rupq 7qu zavu agent_1 kime nvi ke
+Which entity does agent_1 choose? With no unknown argument, question mood instead requests a yes/no judgment.
+
+USE AND REPAIR
+Express essential facts first, then coordination and questions. Use precise explicit roles and grounded handles when mistakes would affect the task. A property can be predicated of an object; a proposition can be believed, negated, requested, compared, or assigned a confidence. Never confuse content zax with question mood, zur with assertion mood, or zev correct with spatial zoi right.
+When information is private, identify its owner or source with pu or so and predicate zahm. When it becomes shared, state zux or send/share it. Different claims can be simultaneously reported without endorsing them; use nested report or believe clauses.
+For a proposed plan, assert a preference or commitment toward a nested action clause. For acceptance or refusal, use agree/disagree or deny with a clearly referenced proposal. For correction, identify the mistaken claim and then provide its replacement; do not merely send an unexplained negation.
+Clarify by semantic descriptions and grounded names only. Finish by reporting completion or remaining uncertainty, not by explaining the language. Unknown exact names or numerical values must not be represented by spelling, positional digits, Unicode, ASCII, arithmetic, or any other calculated code.

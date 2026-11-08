@@ -1,0 +1,1302 @@
+{
+  "schema_version": "1.0",
+  "note": "Snapshot commits identify source checkouts. A source file is available at that commit only when committed_at_snapshot is true; otherwise its content hash identifies the local artifact used.",
+  "sources": [
+    {
+      "id": "7351172658ade4d912d4",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E01_sol_seed1/handoff/config.json",
+      "sha256": "dc5ef0b393dfbb2aa52b8bb1e231a237e53ab5511761803c4561b5392f8d6a9d",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "66a3fd9c5d5e046f4971",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E01_sol_seed1/handoff/glyphs.json",
+      "sha256": "6c2f711c74355c374ab248eee68fcf3fdd179ce6be82108fb2620cfaac0b333d",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "9d84d67da444dbe6dde2",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E01_sol_seed1/handoff/language_protocol.json",
+      "sha256": "74c88c46021dff37b44fa850e33b33bb8eabe0b56a60726283b262d2210a0026",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "56c3755d3f63b3bdf86b",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E01_sol_seed1/handoff/swarmish.txt",
+      "sha256": "657e2217fade9d75810493f9522576725e77ca867bd9d831abaa925854596f10",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "d95c4175456edc72ebee",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E02_sol_seed2/handoff/config.json",
+      "sha256": "f3d98c3db4b1067ec6e88a5242957926fff84f84a7745523a6d82bb053b1ee26",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "54cfe5d1ece4092bceaf",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E02_sol_seed2/handoff/glyphs.json",
+      "sha256": "aa491dfae4edc0a7f48bb246c73dbbe4f84fb09d9c92d1c3429341e25dcbefcc",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "ca3e737e0c239d56530a",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E02_sol_seed2/handoff/language_protocol.json",
+      "sha256": "cf0dba087c70689d6120d7962be27a6480d5827c85479712cfc1445b465788e4",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "5a4fda5f58b1a9888b6e",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E02_sol_seed2/handoff/swarmish.txt",
+      "sha256": "13f6382180275e85bac2e2928e93d1fdb9211740bb3a6a4052ed06ece477ef2d",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "f733b5435f3b4b036846",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E02_sol_seed2/raw/20261107_211815_af38ba3d_round_1/agent_calls.jsonl",
+      "sha256": "273cdf8905e2e2f4c66e3dd17e5893664a2f1390389c69e7a2abe61ce3605e1a",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "ef2efff598328c5518cb",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E02_sol_seed2/raw/20261107_211815_af38ba3d_round_1/agents.json",
+      "sha256": "0f02631fee1ad20c5ded2b0366d268ca2eb3c74f19e1adaf7752d3bde9468c2a",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "241990d58b0929bf30a4",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E02_sol_seed2/raw/20261107_211815_af38ba3d_round_1/chatroom.jsonl",
+      "sha256": "8550aefa6dd4210312ef24e63f303006343ddcaf7f1b2eb4a6292673ca2ec3bd",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "5a30fdc248319560f619",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E02_sol_seed2/raw/20261107_211815_af38ba3d_round_1/language_document.jsonl",
+      "sha256": "5ba45127619f3046def411a4ab4b3f8442ffefd90201815e6933c2edf03c48de",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "cef24da83e503e3b5a52",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E03_sol_seed3/handoff/config.json",
+      "sha256": "262d293ecad7e5a704c236ec5b43655c7281d7f1a7bad64a0dd7a830527620ab",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "f558880147c812e568fa",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E03_sol_seed3/handoff/glyphs.json",
+      "sha256": "dfc5cdf59f35ae3b61ec3af0aaedbbe8810c016b4f7be11f085048e68610efcf",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "eac2a54f256290828041",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E03_sol_seed3/handoff/language_protocol.json",
+      "sha256": "cf0dba087c70689d6120d7962be27a6480d5827c85479712cfc1445b465788e4",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "c258e5dc36c87dbbf243",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E03_sol_seed3/handoff/swarmish.txt",
+      "sha256": "324a4403e25f035f13f481212388b45ac6984435da51e59629c08eee1827ee3d",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "a84495b844ea1b726c0a",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E03_sol_seed3/raw/20261107_212246_c154bdce_round_1/agent_calls.jsonl",
+      "sha256": "b891fa05b3b5298ff32cd6e29d36c92c5845beaaa32b5fe3b9cf2c2bb0483ad0",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "b8c685abed03156f3124",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E03_sol_seed3/raw/20261107_212246_c154bdce_round_1/agents.json",
+      "sha256": "0d74fb1c073e81405906f74b8d6de96d9246eb0ea495e01bd4fbb8cf08a92861",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "e95135da164e2b8381fc",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E03_sol_seed3/raw/20261107_212246_c154bdce_round_1/chatroom.jsonl",
+      "sha256": "e14b7102be4f57f1e00dbdbe98838f114e83ae932aa8d5a2c7a5a6ed165374e8",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "9052e98e5a59b7936267",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E03_sol_seed3/raw/20261107_212246_c154bdce_round_1/language_document.jsonl",
+      "sha256": "271d3b7a4a9d91599e3b8433a2bc53a924ddfa514a527f02d2ae9d7901b895ce",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "0621acebe85c7f660878",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E04_sol_seed4/handoff/config.json",
+      "sha256": "f5468861e9e61d3b7504807a403df4e28a4f3c85b8b88cd7ca57a1728f5d8b91",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "14372099931320722463",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E04_sol_seed4/handoff/glyphs.json",
+      "sha256": "5cca2c131020b623fcede2dacbc9e4bb443207869a1ebdd67d30f4d6d0142990",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "715f111b963bf84185e7",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E04_sol_seed4/handoff/language_protocol.json",
+      "sha256": "cf0dba087c70689d6120d7962be27a6480d5827c85479712cfc1445b465788e4",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "42d88555d6a6ca01733d",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E04_sol_seed4/handoff/swarmish.txt",
+      "sha256": "37df78931b78735512a7daa1193e8a4b62ef0dda38a2db7f5cc69d2d67ce95a6",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "8ea81b7a1457c68626fa",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E04_sol_seed4/raw/20261107_212818_0de62dcb_round_1/agent_calls.jsonl",
+      "sha256": "8fce1afa2c5ba766d3393d32e2cb2d4226eff29e01721795187d334a94eb3838",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "903f229488a6ebeb019f",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E04_sol_seed4/raw/20261107_212818_0de62dcb_round_1/agents.json",
+      "sha256": "3acf5d1a79aa56ba5c792ab5d8273f9a0ec87ee3be9ac9a437d2de46cfe2e304",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "24df95a494fcd1aac747",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E04_sol_seed4/raw/20261107_212818_0de62dcb_round_1/chatroom.jsonl",
+      "sha256": "18c5d5ed758263ea0129bf8bb3db5462f466921a83e9f7d2127027704cc8192d",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "eee05fe1f002b42e925f",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E04_sol_seed4/raw/20261107_212818_0de62dcb_round_1/language_document.jsonl",
+      "sha256": "a432886722f6ce508fb3c1030f88a0c8f5050449da065962127a6d695ef8e142",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "2f0435be3c947a1e4a1d",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E05_sol_seed5/handoff/config.json",
+      "sha256": "e34a10a4a2444174fcdfcf5919a2339de4ae5d415fe3c588a81085554baade24",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "9cbfe1ffc835e7b6828c",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E05_sol_seed5/handoff/glyphs.json",
+      "sha256": "ab8a267b46776bc365cbb4bf13828305daf0d4cca3cac54792c07249f495a7cb",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "edc6ba7b147fe7764b32",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E05_sol_seed5/handoff/language_protocol.json",
+      "sha256": "cf0dba087c70689d6120d7962be27a6480d5827c85479712cfc1445b465788e4",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "eae2dc233b70e0290811",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E05_sol_seed5/handoff/swarmish.txt",
+      "sha256": "b653688ed3776a53844c8cd6767810c4c624fe62bd555d3068ff35fb3b48eedc",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "0441b8b8365325786b3d",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E05_sol_seed5/raw/20261107_213223_20519e31_round_1/agent_calls.jsonl",
+      "sha256": "a51e120f7b3c9dd28a0af2972078fa4fb8da90c5c756e4620208a5850d8d304a",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "7e87a131c2fbcfdde17f",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E05_sol_seed5/raw/20261107_213223_20519e31_round_1/agents.json",
+      "sha256": "53fc9090e99cd8b118ffb5fc71ec639397eb81848bc90ede9cbc2aefee2c0008",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "a7ee31b38397a343a3a1",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E05_sol_seed5/raw/20261107_213223_20519e31_round_1/chatroom.jsonl",
+      "sha256": "de89dff47f593856e90302e06d01d424c76e6e2f32d17afbe660a0ceed27d25f",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "a1683dbbcc7c5f84e377",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E05_sol_seed5/raw/20261107_213223_20519e31_round_1/language_document.jsonl",
+      "sha256": "94bbf52b979a298101ed75b3ddcd875dd19e31c222c194c996b8c0faa5d5f8c7",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "e961e83fdaa1a049a8ab",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E06_haiku_seed1/handoff/config.json",
+      "sha256": "8ada19a13aaabc3212dc421b299bdf0868bb648899b5f24d17c7af02c0ad8e68",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "90c3446e708cf4b568b8",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E06_haiku_seed1/handoff/glyphs.json",
+      "sha256": "6c2f711c74355c374ab248eee68fcf3fdd179ce6be82108fb2620cfaac0b333d",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "8b00b0163298d40d2f6f",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E06_haiku_seed1/handoff/language_protocol.json",
+      "sha256": "cf0dba087c70689d6120d7962be27a6480d5827c85479712cfc1445b465788e4",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "352c1b9c4aacefc007c2",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E06_haiku_seed1/handoff/swarmish.txt",
+      "sha256": "9ef04f41c5ae4e074b3befd11b78e05384f24882ffba281dde41ea45c249e3b7",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "32983373bcdc88c4ee69",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E06_haiku_seed1/raw/20261107_182120_cd8c89d5_round_1/agent_calls.jsonl",
+      "sha256": "bc1676014bb9dcb2e4039f727fb0776ff52de2acbe15ae6fb4a86505f1076540",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "558d5cc4a36c8c88af77",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E06_haiku_seed1/raw/20261107_182120_cd8c89d5_round_1/agents.json",
+      "sha256": "1b4440717a5ff212c180e21f921248d1654d23da04568317e854647682080a32",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "fc7afa8452584ee5b51f",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E06_haiku_seed1/raw/20261107_182120_cd8c89d5_round_1/chatroom.jsonl",
+      "sha256": "e646f2285773788ecf9764c56098b1048b9bc5a1e7af3768b12b911b4bd226ec",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "db02a428c3debab5f69c",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E06_haiku_seed1/raw/20261107_182120_cd8c89d5_round_1/language_document.jsonl",
+      "sha256": "b6b5c61557794be80afdd27be36bd44c8ae3e0a2c05f3ba2080e43462e2ffc72",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "5b6df5d09af9811d154c",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E07_gemini_seed1/handoff/config.json",
+      "sha256": "d97fc0ec74d60f83e06c8dd30122f94c164d86c2afd2a6194b449bc9a4804816",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "d3e48130dd10a5ef537d",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E07_gemini_seed1/handoff/glyphs.json",
+      "sha256": "6c2f711c74355c374ab248eee68fcf3fdd179ce6be82108fb2620cfaac0b333d",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "61548d8523d818536c94",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E07_gemini_seed1/handoff/language_protocol.json",
+      "sha256": "cf0dba087c70689d6120d7962be27a6480d5827c85479712cfc1445b465788e4",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "ca1ab3d8d01e334d2bfb",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E07_gemini_seed1/handoff/swarmish.txt",
+      "sha256": "638e0333ec1e8236a27d31e6b2de754fbf58aea3a037c8bd52ec4bfc3ead2a10",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "f218dd5f2fc9c616db79",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E07_gemini_seed1/raw/20261107_182530_6327df68_round_1/agent_calls.jsonl",
+      "sha256": "65a6d03f5cc889d0345d84986fe7c3006cb5d1e13f8f303fef8d413a792eeccb",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "3bf9ea1206970b70b301",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E07_gemini_seed1/raw/20261107_182530_6327df68_round_1/agents.json",
+      "sha256": "49ce99d85a2d29edcd1976ea5585751bf99b23220c4dbf8d2dfa1d4bf404b7b6",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "10654a96ea1d3f6860c3",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E07_gemini_seed1/raw/20261107_182530_6327df68_round_1/chatroom.jsonl",
+      "sha256": "e2943d69a6b514318435d8d375deb3c22715af26f3715c499477d98df2778c4b",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "53f42587954402050fad",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E07_gemini_seed1/raw/20261107_182530_6327df68_round_1/language_document.jsonl",
+      "sha256": "4ab8ed750efe60e6518e426ee50cf9e07526f09b561ba6b70fff6ae70a29d9f8",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "c97660c97c2cb8293d67",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E08_deepseek_seed1/handoff/config.json",
+      "sha256": "a2ee35ee3c5478d69474ab85738f6a791dce62c43ae5a4728a7eb5874538b824",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "98b05a8cf85b99a56554",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E08_deepseek_seed1/handoff/glyphs.json",
+      "sha256": "6c2f711c74355c374ab248eee68fcf3fdd179ce6be82108fb2620cfaac0b333d",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "7aab36c26af4231f6b04",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E08_deepseek_seed1/handoff/language_protocol.json",
+      "sha256": "cf0dba087c70689d6120d7962be27a6480d5827c85479712cfc1445b465788e4",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "9f2e4084da7e95548b4b",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E08_deepseek_seed1/handoff/swarmish.txt",
+      "sha256": "db6213162ce96320b198b1aa10c99a5f980a45ef060a66e2d35e06e3e2504dc8",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "017278fbe6b132c2d059",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E08_deepseek_seed1/raw/20261107_182828_0f1bff81_round_1/agent_calls.jsonl",
+      "sha256": "190f91c3b105e39d6a8b3f9eaa569d78df8a441ea39d35e0334f2c79059cdbbc",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "c66506f45ca2c4da7cfc",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E08_deepseek_seed1/raw/20261107_182828_0f1bff81_round_1/agents.json",
+      "sha256": "65df6a08d0732f5af5c5fb58686372e814c500d3dd63c060665190c9c1a3424c",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "5d28cc80324106d15c13",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E08_deepseek_seed1/raw/20261107_182828_0f1bff81_round_1/chatroom.jsonl",
+      "sha256": "9f4c1616e0e194a1d41a874d5b58653225fc66110b0185db28452300174e7d44",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "1daf2bf91e083bb880a4",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/encoding/E08_deepseek_seed1/raw/20261107_182828_0f1bff81_round_1/language_document.jsonl",
+      "sha256": "8cc96719566ac349f735379a0a4278908994e4828f8243c59d3170260894d190",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "12325effd8a7b8f20e53",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R01_sol_seed1/english/translation.json",
+      "sha256": "13cbd75ca282b1ad2326238ffa17672fd65c1bf015532de929ff0582f75c13cf",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "1fbee96ba48edacee065",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R01_sol_seed1/raw/20261107_222600_1455e3fa_round_2/config.json",
+      "sha256": "66666f33e9f154becc58f705a6172e2168c3463e2f2c699379fd106106edc289",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "9e742ac6ea56376b514d",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R01_sol_seed1/raw/20261107_222600_1455e3fa_round_2/escape_room_definition.json",
+      "sha256": "6c16f9d19c440c6f1c0220d98d79b0bfda67b273551af8fae962808037a345b9",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "385ae147b32a897c233d",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R01_sol_seed1/raw/20261107_222600_1455e3fa_round_2/swarmish.txt",
+      "sha256": "657e2217fade9d75810493f9522576725e77ca867bd9d831abaa925854596f10",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "4ae301f93382fa96cf16",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R01_sol_seed1/raw/20261107_222600_1455e3fa_round_2/task_agents.json",
+      "sha256": "d829369f61c0dc933dcac3b5f3bc7ce1537de1fc2d35da7819d8a43e1f719b53",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "53978873256244c19f49",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R01_sol_seed1/raw/20261107_222600_1455e3fa_round_2/task_chatroom.jsonl",
+      "sha256": "80fdb471df47384881a0b1b63bb929a8f119f8e7f81ec24587bdcd96f9fa2bb8",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "8fb8d3638f652a42a5aa",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R01_sol_seed1/raw/20261107_222600_1455e3fa_round_2/task_preview.json",
+      "sha256": "a3c8d2ca72d97ad1213cf0d434126ebc292227462e8d117aaf13cb9854e9b529",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "51b5eb914e257df5e148",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R02_sol_seed2/english/translation.json",
+      "sha256": "fa7a835598efbabe98b879dca73e151d76cca859daa6b715f4464389ae9629c5",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "610dafeab858bc471a28",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R02_sol_seed2/raw/20261107_231447_68be954a_round_2/config.json",
+      "sha256": "e856ef0f317ac5db4c05faa84142d9ccfbfbea92c71b6b635fbeb105a6f8197d",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "f48f563022ecc3155360",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R02_sol_seed2/raw/20261107_231447_68be954a_round_2/escape_room_definition.json",
+      "sha256": "6c16f9d19c440c6f1c0220d98d79b0bfda67b273551af8fae962808037a345b9",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "ecf9a647580575615243",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R02_sol_seed2/raw/20261107_231447_68be954a_round_2/swarmish.txt",
+      "sha256": "13f6382180275e85bac2e2928e93d1fdb9211740bb3a6a4052ed06ece477ef2d",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "33aa0d654bf0e101c277",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R02_sol_seed2/raw/20261107_231447_68be954a_round_2/task_agents.json",
+      "sha256": "9981480bbab7c8e42cba8340ffe5e8bddcd14abc3dd92e4a0379cd2eae637f68",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "8c2bbf905d9f405ea66d",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R02_sol_seed2/raw/20261107_231447_68be954a_round_2/task_chatroom.jsonl",
+      "sha256": "ef6fe8672ea698c1111787ccec99b56d801f1c5544b53c5b6f09d39540cc5362",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "ed4429483c4726a2eec0",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R02_sol_seed2/raw/20261107_231447_68be954a_round_2/task_preview.json",
+      "sha256": "38eaca48371d583a5192fe91d4799b0e7d955cded0ea449e7d6b7913879e2118",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "7e4e749aa15cc17e7450",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R03_sol_seed3/english/translation.json",
+      "sha256": "ad2a9cd0fee5d037274704b063e3ababf02dc8e45be02d48d0f4b79539cbe16c",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "60a85bf5a6ff1985f33b",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R03_sol_seed3/raw/20261107_232807_70261c00_round_2/config.json",
+      "sha256": "7ab86ed09fee42e89598925e3e211f57814e5089bfd2f28250090479f8fee9e3",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "fc9bc77b8041cd678676",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R03_sol_seed3/raw/20261107_232807_70261c00_round_2/escape_room_definition.json",
+      "sha256": "6c16f9d19c440c6f1c0220d98d79b0bfda67b273551af8fae962808037a345b9",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "09f1dee97be88871a3d1",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R03_sol_seed3/raw/20261107_232807_70261c00_round_2/swarmish.txt",
+      "sha256": "324a4403e25f035f13f481212388b45ac6984435da51e59629c08eee1827ee3d",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "cc2c2d69abe9872720b6",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R03_sol_seed3/raw/20261107_232807_70261c00_round_2/task_agents.json",
+      "sha256": "f5102b186fda54ffac701563c48732d8ee6dc1bec62bf87908c08e228ea39a26",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "61b9582ae8dcbc2de41e",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R03_sol_seed3/raw/20261107_232807_70261c00_round_2/task_chatroom.jsonl",
+      "sha256": "d789c4ed507642d84a78736ace538cc935c30aa2226b32ba5c9cd439c272852e",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "b00e76e6a4f27fee8b43",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R03_sol_seed3/raw/20261107_232807_70261c00_round_2/task_preview.json",
+      "sha256": "335b8f8d8de5964153269270f1b3c57b33992fa89cb6f6667cb835f3ad9da3a3",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "2eb344ef4c1be208d02f",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R04_sol_seed4/english/translation.json",
+      "sha256": "b55e95fe74d3d0156efc1a9899c156bd86a15ac6f943617ed9e4cf15932e920a",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "e6a3fb50c29891ad8265",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R04_sol_seed4/raw/20261108_001247_6a3a1f44_round_2/config.json",
+      "sha256": "b4e35f1844f48c3fe191c02f268ac7cd3efb6283184dafaf27310c923cde9634",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "de92afd4a97915fe86e6",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R04_sol_seed4/raw/20261108_001247_6a3a1f44_round_2/escape_room_definition.json",
+      "sha256": "6c16f9d19c440c6f1c0220d98d79b0bfda67b273551af8fae962808037a345b9",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "51a26bc8c7bec33217fe",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R04_sol_seed4/raw/20261108_001247_6a3a1f44_round_2/swarmish.txt",
+      "sha256": "37df78931b78735512a7daa1193e8a4b62ef0dda38a2db7f5cc69d2d67ce95a6",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "47903b00db04ae5e8578",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R04_sol_seed4/raw/20261108_001247_6a3a1f44_round_2/task_agents.json",
+      "sha256": "39e353724e59d32d16d85c91beb16e7f58584888dbae6a0380b8f7080dfea95f",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "324423eeafd5d1413185",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R04_sol_seed4/raw/20261108_001247_6a3a1f44_round_2/task_chatroom.jsonl",
+      "sha256": "9497f63ddb428309d7c5816ee23b67f7ae8413d97c4a2ca3567c138368f72257",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "ac31e636ab08fcad8490",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R04_sol_seed4/raw/20261108_001247_6a3a1f44_round_2/task_preview.json",
+      "sha256": "321041799c4245a31f533da9ea106f2346c4bfd6dfeb852fd09dd25730790f14",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "578d855c409ddd267ce1",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R05_sol_seed5/english/translation.json",
+      "sha256": "63319364351fb6708874a142fb96da99fa926c06cf3b24d8181438e186f5ffbf",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "d1f856777898caa3dbde",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R05_sol_seed5/raw/20261108_003651_9542311d_round_2/config.json",
+      "sha256": "d12187492a86eb0d84611bc34de49044a8e6a42533371b1af277053e23027741",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "33d50687f233dcf8b0a5",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R05_sol_seed5/raw/20261108_003651_9542311d_round_2/escape_room_definition.json",
+      "sha256": "6c16f9d19c440c6f1c0220d98d79b0bfda67b273551af8fae962808037a345b9",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "2874d25e5c7fea305240",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R05_sol_seed5/raw/20261108_003651_9542311d_round_2/swarmish.txt",
+      "sha256": "b653688ed3776a53844c8cd6767810c4c624fe62bd555d3068ff35fb3b48eedc",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "ad088a33583ff26d900a",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R05_sol_seed5/raw/20261108_003651_9542311d_round_2/task_agents.json",
+      "sha256": "0e31f5cd8b82af2b5f75bbf6209e96cc92f7671b4ffa24b4ce86072dc11da685",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "66c9a8cd8e1df5108658",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R05_sol_seed5/raw/20261108_003651_9542311d_round_2/task_chatroom.jsonl",
+      "sha256": "a7106583613de02b09e7fb5feb8899e34382d1ac397a3034bcbf33a12fa96346",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "e57777d6fffc9f602feb",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R05_sol_seed5/raw/20261108_003651_9542311d_round_2/task_preview.json",
+      "sha256": "b659c1909e9cc83df99def4c33dd356585eaa089d300c6ec4aa07507482fd5aa",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "e6f7ae4ba71d16483f64",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R06_haiku_seed1/english/translation.json",
+      "sha256": "19db696a9dbba33ce37fc9d193bf2b509a9b363be23f78f2580f459956ffd53d",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "d11dffb5acc76d8e1c05",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R06_haiku_seed1/raw/20261107_213238_49205dc2_round_2/config.json",
+      "sha256": "875a2edebd9c637887c0ad9c14c7c216418e920b8eeffbd84e14429f01eaecf4",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "381217061ed152c8e69b",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R06_haiku_seed1/raw/20261107_213238_49205dc2_round_2/escape_room_definition.json",
+      "sha256": "6c16f9d19c440c6f1c0220d98d79b0bfda67b273551af8fae962808037a345b9",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "fe8a2bece91465ad7121",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R06_haiku_seed1/raw/20261107_213238_49205dc2_round_2/swarmish.txt",
+      "sha256": "9ef04f41c5ae4e074b3befd11b78e05384f24882ffba281dde41ea45c249e3b7",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "e5937c581cfd903e92f4",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R06_haiku_seed1/raw/20261107_213238_49205dc2_round_2/task_agents.json",
+      "sha256": "6234354702d9409e8808c74b514e0e12dc379aa24d7f8e40953103e4f8d5fe2d",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "46126c1cd3e713c07dbb",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R06_haiku_seed1/raw/20261107_213238_49205dc2_round_2/task_chatroom.jsonl",
+      "sha256": "e10bfb3dadf8f7641e1f12d9bf77008d8620f81a01a6ac4042f053a9117db9ff",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "49f2441fc8642a986adf",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R06_haiku_seed1/raw/20261107_213238_49205dc2_round_2/task_preview.json",
+      "sha256": "eb67b571d364612af29d5b1bd2beed39967d46080d3ba395d92a013edbe9505e",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "40d57abee63d5d21f45d",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R07_gemini_seed1/english/translation.json",
+      "sha256": "109c1dad777ee101971a7bbc71ba5eb94ff3bbe833165bd5b4599b53a267af2e",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "926a88b4383214f328ad",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R07_gemini_seed1/raw/20261107_213603_7630ee4f_round_2/config.json",
+      "sha256": "a9d65ccf2cf8c8440bc813de07d6c02a29c9237624082a4379136b21230edc83",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "bc96bccd14479a004aa1",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R07_gemini_seed1/raw/20261107_213603_7630ee4f_round_2/escape_room_definition.json",
+      "sha256": "6c16f9d19c440c6f1c0220d98d79b0bfda67b273551af8fae962808037a345b9",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "0856e8652eb0113ab468",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R07_gemini_seed1/raw/20261107_213603_7630ee4f_round_2/swarmish.txt",
+      "sha256": "638e0333ec1e8236a27d31e6b2de754fbf58aea3a037c8bd52ec4bfc3ead2a10",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "c0610c385e4dbc37f470",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R07_gemini_seed1/raw/20261107_213603_7630ee4f_round_2/task_agents.json",
+      "sha256": "e28ea4dcf71bdd0e7aab27b665e3a68317c1e97410ce56aff06068ff1cb938d2",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "5258e212d01607eefa1e",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R07_gemini_seed1/raw/20261107_213603_7630ee4f_round_2/task_chatroom.jsonl",
+      "sha256": "227e8f9a2f2be2af78b5c91cb1a74f082b96617eee0d9cae89a245d1a96338e9",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "59462fda7cea54578aa3",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R07_gemini_seed1/raw/20261107_213603_7630ee4f_round_2/task_preview.json",
+      "sha256": "67fbd999e70b3819570c328130d9d927302c9917eb28db801110a506c303b52f",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "2e8791f3bdb0a65394a2",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R08_deepseek_seed1/english/translation.json",
+      "sha256": "b4bf2372846fef3a425bc2679c5cf4cf74fd4c060b31da0ed245fb7253e63147",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "825dbb5e37d282f56fc2",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R08_deepseek_seed1/raw/20261107_214101_c5268011_round_2/config.json",
+      "sha256": "9ba9afeca90557489c1163dc814d328dbd031c49d1d3c8e0215f9debe353c503",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "8a5d2aed2d25f35e009e",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R08_deepseek_seed1/raw/20261107_214101_c5268011_round_2/escape_room_definition.json",
+      "sha256": "6c16f9d19c440c6f1c0220d98d79b0bfda67b273551af8fae962808037a345b9",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "8aa67ca85e918044982c",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R08_deepseek_seed1/raw/20261107_214101_c5268011_round_2/swarmish.txt",
+      "sha256": "db6213162ce96320b198b1aa10c99a5f980a45ef060a66e2d35e06e3e2504dc8",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "5f5e229311d008e99d87",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R08_deepseek_seed1/raw/20261107_214101_c5268011_round_2/task_agents.json",
+      "sha256": "ae71f5a4ec5b2c7f80f20bf2e72e4591f184c6d59a238eb1f485841f82d06b12",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "cf36f8fe6c532bfb5f2b",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R08_deepseek_seed1/raw/20261107_214101_c5268011_round_2/task_chatroom.jsonl",
+      "sha256": "ed9887c2a3f9737480a280508be696a70accaea48bc2ddacde1b7332886fe8a9",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "9e7dc37945cbf780e6c9",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/R08_deepseek_seed1/raw/20261107_214101_c5268011_round_2/task_preview.json",
+      "sha256": "c51a25508307be328b72189892dde07089fc5065a7b43bfd5a35cab58e753340",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "915029786d76e46f9821",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T01_sol/english/translation.json",
+      "sha256": "2709f2e548ea4a686892cf01f4fd05c31206ff1d3f59962f15f52234a210a8db",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "15038380ef14822443db",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T01_sol/raw/20261107_190808_9b8745f6_round_2/config.json",
+      "sha256": "6270488dc83249d6ce28c0d56fafd799e0f7801e0edc6b78e5b890055e3b449d",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "2a512cbb7816af0742ae",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T01_sol/raw/20261107_190808_9b8745f6_round_2/escape_room_definition.json",
+      "sha256": "6c16f9d19c440c6f1c0220d98d79b0bfda67b273551af8fae962808037a345b9",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "94939cb1080c92a29f8f",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T01_sol/raw/20261107_190808_9b8745f6_round_2/swarmish.txt",
+      "sha256": "657e2217fade9d75810493f9522576725e77ca867bd9d831abaa925854596f10",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "7d14c434cd1969f7bae1",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T01_sol/raw/20261107_190808_9b8745f6_round_2/task_agents.json",
+      "sha256": "8cc742601916d9042de7fead82bd9763183605179f8e78ccb86c3bf56bff4369",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "6a3a43a86b471cdf6d43",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T01_sol/raw/20261107_190808_9b8745f6_round_2/task_chatroom.jsonl",
+      "sha256": "e803d867348670f3239d6e6e4cac17a9ca53de5a6b1aaab21a1f2593ac57643c",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "b369492c25acfc6ab854",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T01_sol/raw/20261107_190808_9b8745f6_round_2/task_preview.json",
+      "sha256": "8b958a7a81e64115c8e157775c4d1d966bcc4330c664690589b20c422cbf32d7",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "a357fd268b843b484ff5",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T02_haiku/english/translation.json",
+      "sha256": "1a41f5420dde6bd04cae7c0a5149ac5ae6a620a391ef9a8a4f5ebbd9212766d9",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "6039244cb4b7815fd196",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T02_haiku/raw/20261107_191106_bed4cd23_round_2/config.json",
+      "sha256": "77bc6cc87d6e475e9d68e5ada84dac3717beb3aea99fa2ea5d8b27cac52282de",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "2611a81dbc7ad4cffff4",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T02_haiku/raw/20261107_191106_bed4cd23_round_2/escape_room_definition.json",
+      "sha256": "6c16f9d19c440c6f1c0220d98d79b0bfda67b273551af8fae962808037a345b9",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "a30d0bbea255d215a170",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T02_haiku/raw/20261107_191106_bed4cd23_round_2/swarmish.txt",
+      "sha256": "9ef04f41c5ae4e074b3befd11b78e05384f24882ffba281dde41ea45c249e3b7",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "0197b30ea7ceef3298b9",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T02_haiku/raw/20261107_191106_bed4cd23_round_2/task_agents.json",
+      "sha256": "74d4416ea65be78a1d72a429ffa78b36ed1b7afbf15bfa19b1e4be65e173c9c8",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "ac16098b65c59aef4967",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T02_haiku/raw/20261107_191106_bed4cd23_round_2/task_chatroom.jsonl",
+      "sha256": "72fc7f6f3c7cc3fc17fd6ad2919fd66049d2ee8a1b9e0d65fd09ee87cdfe1ab2",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "76e98fefeb43cb3a9dd7",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T02_haiku/raw/20261107_191106_bed4cd23_round_2/task_preview.json",
+      "sha256": "86e924afcab130c4a8092d3f3f82331a647fc1e53e5c1fc20847ebba022f4d57",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "9add0dc8d75356bce676",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T03_gemini/english/translation.json",
+      "sha256": "3da54ad6f66aab91be901de9084f20c844f70a652285f5e3b4cf81b8e497a92c",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "801291e70f6a241b582d",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T03_gemini/raw/20261107_201505_a4626c1c_round_2/config.json",
+      "sha256": "4409d784e159623d88133210a99907ef9075efc3c3a4cb346c39dd6b0688a093",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "238d503f18fb74bb357c",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T03_gemini/raw/20261107_201505_a4626c1c_round_2/escape_room_definition.json",
+      "sha256": "6c16f9d19c440c6f1c0220d98d79b0bfda67b273551af8fae962808037a345b9",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "d632069704f469398515",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T03_gemini/raw/20261107_201505_a4626c1c_round_2/swarmish.txt",
+      "sha256": "638e0333ec1e8236a27d31e6b2de754fbf58aea3a037c8bd52ec4bfc3ead2a10",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "d4966244a55e1bbed4ef",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T03_gemini/raw/20261107_201505_a4626c1c_round_2/task_agents.json",
+      "sha256": "100e3e572844d1fb9e8de045ee577107c28b1a6498007b1b6c9d3c331dd06c91",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "341a7029e202f970f247",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T03_gemini/raw/20261107_201505_a4626c1c_round_2/task_chatroom.jsonl",
+      "sha256": "ae1488eef34fd4dd534c1f157b411afab1d94b51133538d684b4374b92e5017e",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "2619780df22a954ad66a",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T03_gemini/raw/20261107_201505_a4626c1c_round_2/task_preview.json",
+      "sha256": "50623c688a85d2f0f440e4d8e5d0cc2ab92a3e1cff05fe3d155bca7cea634144",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "ae883f59efcbab3f6725",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T04_deepseek/english/translation.json",
+      "sha256": "5f5e49369e0532728e52156339876fed4dc828882d2e0cca59dd0b9ad8db9c7a",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "effcfe2ec275f474f73f",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T04_deepseek/raw/20261107_202101_c89be70b_round_2/config.json",
+      "sha256": "c0bb966dc61a5f85264c6218add1825b6e4356550a8b9a0a72e4b34e77af005b",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "5c25a68a8648387fc4fc",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T04_deepseek/raw/20261107_202101_c89be70b_round_2/escape_room_definition.json",
+      "sha256": "6c16f9d19c440c6f1c0220d98d79b0bfda67b273551af8fae962808037a345b9",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "4d85a0c5055045aae44c",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T04_deepseek/raw/20261107_202101_c89be70b_round_2/swarmish.txt",
+      "sha256": "db6213162ce96320b198b1aa10c99a5f980a45ef060a66e2d35e06e3e2504dc8",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "d07c5a30acb8e52d3ebe",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T04_deepseek/raw/20261107_202101_c89be70b_round_2/task_agents.json",
+      "sha256": "e1edffd98679fc9a44fa30d040269b0072d80a4ba071fbf913b0a9b9fac5e282",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "0a149644202443746a8d",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T04_deepseek/raw/20261107_202101_c89be70b_round_2/task_chatroom.jsonl",
+      "sha256": "872ebaa330cfcbfc3b5376df97090461963c8f8ebdf3336478be072d5a49df27",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "f4364901b76f4417f42b",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "5f054acc3b1a3d37c2f931be72999879fc04e01f",
+      "path": "experiments/tangut_200g_250l_200t/gameplay/archive/original_prompt_20261107/T04_deepseek/raw/20261107_202101_c89be70b_round_2/task_preview.json",
+      "sha256": "a66486c763bf51024baabd52c7dedf502acbe622a2a577b5fb40abfc055e91a8",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "ca2e69bb55266be11d94",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_151252_315264d9/agent_calls.jsonl",
+      "sha256": "6b600a197cfe6235a4674804c825ed998ec89117754369289fd3093f3032ec0c",
+      "committed_at_snapshot": false
+    },
+    {
+      "id": "be1931916c3ad72b615e",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_151252_315264d9/agents.json",
+      "sha256": "b744c3c07c76348eb96ddba703978417e4abcc267aa0785e29fc77425862475a",
+      "committed_at_snapshot": false
+    },
+    {
+      "id": "3ce59a66287d5ecc17ba",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_151252_315264d9/chatroom.jsonl",
+      "sha256": "309ee7a4b5a78fa65e00d4a5331a69cb3b7cb7c482e6a0609384a35b646da6ce",
+      "committed_at_snapshot": false
+    },
+    {
+      "id": "ba9eead71291717aa37a",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_151252_315264d9/config.json",
+      "sha256": "1f08d86dd112df5a572c7f561fd66bd4b52eaac91a15c5fd919a774f573e5396",
+      "committed_at_snapshot": false
+    },
+    {
+      "id": "81e86d6da66d0a24d56b",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_151252_315264d9/glyphs.json",
+      "sha256": "39aff2eebe00d99188ccfd6112d9f9698f6082efa55055e5926c2e4e907945a8",
+      "committed_at_snapshot": false
+    },
+    {
+      "id": "08dd668dd70502ae8739",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_151252_315264d9/language_document.jsonl",
+      "sha256": "f17b73095db373f9909a02d5c30d3be78ef8d30ab9051f955ab8032d3017297c",
+      "committed_at_snapshot": false
+    },
+    {
+      "id": "4ae014620fcb9b2c5355",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_151252_315264d9/language_protocol.json",
+      "sha256": "74c88c46021dff37b44fa850e33b33bb8eabe0b56a60726283b262d2210a0026",
+      "committed_at_snapshot": false
+    },
+    {
+      "id": "cc9d67ee31c297e5c1ac",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_151252_315264d9/swarmish_shared_final_114.txt",
+      "sha256": "f014be937438ad968471083222c26957dfaf217d2bf4e57eb32d84564fc3f2d6",
+      "committed_at_snapshot": false
+    },
+    {
+      "id": "99e0c8da3376e8f29281",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_153016_59aeb789/config.json",
+      "sha256": "1f08d86dd112df5a572c7f561fd66bd4b52eaac91a15c5fd919a774f573e5396",
+      "committed_at_snapshot": false
+    },
+    {
+      "id": "2edd5b2938029db1d271",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_153016_59aeb789/escape_room_definition.json",
+      "sha256": "6c16f9d19c440c6f1c0220d98d79b0bfda67b273551af8fae962808037a345b9",
+      "committed_at_snapshot": false
+    },
+    {
+      "id": "a779520dd4b85b3ee0cc",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_153016_59aeb789/swarmish.txt",
+      "sha256": "f014be937438ad968471083222c26957dfaf217d2bf4e57eb32d84564fc3f2d6",
+      "committed_at_snapshot": false
+    },
+    {
+      "id": "2f9684e036e7a7303743",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_153016_59aeb789/task_agents.json",
+      "sha256": "ebe10e3ccd2fc80568703f9fed299f400b26bf68d19406b9312773649cad2199",
+      "committed_at_snapshot": false
+    },
+    {
+      "id": "1fa574daa4da84d2b606",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_153016_59aeb789/task_chatroom.jsonl",
+      "sha256": "6c84aada5c5b39cda36d8f93b1306a4984b26255b3016681cc56e395e4f4052e",
+      "committed_at_snapshot": false
+    },
+    {
+      "id": "be1ae63ac3e95f320143",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_153016_59aeb789/task_preview.json",
+      "sha256": "332a4e8c36ffceca6d4008dd43fce85b70453ba8f78b20c80d626ffc8a2679ff",
+      "committed_at_snapshot": false
+    },
+    {
+      "id": "a6c362884ed07deabb88",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_181546_5949aefe/agent_calls.jsonl",
+      "sha256": "1f7ce522c6ab140f22c1e361912aba74015887b18f49383c981835c91853f9c5",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "fc7790179c7fd3f73b57",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_181546_5949aefe/agents.json",
+      "sha256": "67d2914888e4fb4c9f0566da44e3cc77eb0aa719110abb9e5d79b65f20940ad9",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "3355a968977b18a81b96",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_181546_5949aefe/chatroom.jsonl",
+      "sha256": "17229b4ffc5cd64d3843dc911c4d9eb03cc331062e4e98061f627284a70a54f2",
+      "committed_at_snapshot": true
+    },
+    {
+      "id": "fc67383c687688c8ab16",
+      "repository_url": "https://github.com/erafkin/swarm-glyphs",
+      "repository_snapshot_commit": "7223b24e8cae4b279c3009397ab826559e50add0",
+      "path": "logs/20261107_181546_5949aefe/language_document.jsonl",
+      "sha256": "42525acdb17d33e1b6a277ce6358f22f5e756e21435c879246e16c13642a54c1",
+      "committed_at_snapshot": true
+    }
+  ]
+}

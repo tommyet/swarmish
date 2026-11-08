@@ -1,0 +1,38 @@
+{
+  "id": "pilot_sol_latin_task",
+  "language_id": "pilot_sol_latin",
+  "task_id": "storm_shelter_v1",
+  "prompt_variant": "pilot",
+  "settings": {
+    "model": "openai/gpt-6.1-sol",
+    "agent_models": null,
+    "task_model": null,
+    "n_agents": 8,
+    "task_n_agents": null,
+    "seed": 0,
+    "temperature": null,
+    "reasoning_effort": "medium",
+    "max_tokens": 16000,
+    "allow_spaces": true,
+    "task_kind": "escape_room",
+    "task_minutes": null,
+    "task_feedback": true,
+    "task_feedback_interval_s": 60,
+    "task_prompt": "",
+    "chat_context_messages": 50,
+    "min_turn_interval_s": 5.0
+  },
+  "translation": {
+    "available": false,
+    "reason": "No public-reference English translation is available for this pilot."
+  },
+  "source_files": {
+    "public_transcript": "1fa574daa4da84d2b606",
+    "task_definition": "2edd5b2938029db1d271",
+    "frozen_document": "a779520dd4b85b3ee0cc",
+    "configuration": "99e0c8da3376e8f29281",
+    "task_agents": "2f9684e036e7a7303743",
+    "initial_private_views": "be1ae63ac3e95f320143"
+  },
+  "context_note": "Initial private views contain agent-specific clues. Load them only for an explicitly chosen context condition."
+}
