@@ -5,3 +5,5 @@ contexts/** -text
 manifest.json -text
 provenance.json -text
 checksums.json -text
+glyphs_tangut.txt -text
+glyphs_latin.txt -text

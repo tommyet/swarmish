@@ -1,0 +1,19 @@
+{
+  "glyph_dictionary": "glyphs_tangut",
+  "n_glyphs": 200,
+  "allow_spaces": true,
+  "n_agents": 8,
+  "model": "openai/gpt-6.1-sol",
+  "temperature": null,
+  "reasoning_effort": "medium",
+  "max_tokens": 16000,
+  "request_timeout_s": 300,
+  "monitor_max_tokens": 16000,
+  "monitor_reasoning_effort": "medium",
+  "language_minutes": 10,
+  "task_minutes": 10,
+  "task_feedback": true,
+  "max_cost_usd": 50,
+  "seed": 0,
+  "task_prompt": "PLACEHOLDER TASK: replace task_prompt before a real run. For a pipeline check, agree on the word ready and each submit it as your private answer."
+}
