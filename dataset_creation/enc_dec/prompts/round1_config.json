@@ -1,0 +1,11 @@
+{
+  "semantic_only": true,
+  "max_lines": 500,
+  "mechanics": "You have {language_minutes} minutes. This chatroom is ordinary English, so you can plan Swarmish directly. Each turn you are shown the most recent {language_context_messages} messages and the current swarmish.txt. There is one shared swarmish.txt, not a private copy. To change it, return the full new document in \"language_document\". Another agent may overwrite it. Return the current text unchanged if you are not editing it; an empty string leaves the file as it is. Set \"done\" to true when the group has agreed on the language. The round ends early once every agent has set done, or when the time is up. At the end, each of you writes swarmish.txt once more from the chat and the current file. That write is not posted in this chat.\n\nRESPONSE FORMAT\nRespond with a single JSON object:\n- \"message\": your chat message, in ordinary English, or \"\" to stay silent.\n- \"language_document\": the full shared swarmish.txt, or \"\" to leave it unchanged.\n- \"done\": true or false.",
+  "_notes": {
+    "semantic_only": "includes the no-calculation clause in the prompt.",
+    "max_lines": "soft cap stated to the agents; not enforced by code.",
+    "mechanics": "must describe what dataset_creation/enc_dec/run.py actually does. {language_minutes} and {language_context_messages} are filled from the run config.",
+    "everything else": "agent count, alphabet, minutes and spaces come from the run config JSON, not from here."
+  }
+}

@@ -1,0 +1,7 @@
+# Optional local embedding dependencies for the archived Sol translation comparison.
+# Base repository dependencies remain in requirements.txt.
+-r requirements.txt
+sentence-transformers==6.2.0
+transformers==5.22.2
+torch==2.15.0
+numpy==2.5.4

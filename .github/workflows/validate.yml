@@ -16,4 +16,4 @@ jobs:
       - uses: actions/setup-python@v7
         with:
           python-version: '3.12'
-      - run: python scripts/validate_dataset.py
+      - run: python dataset_builder/validate_dataset.py
