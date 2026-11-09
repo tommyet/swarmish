@@ -1,6 +1,12 @@
 # Swarmish
 
+🏆 **Winner of the [2026 Swarm Alignment Hackathon](https://www.aialignmentfoundation.org/hackathons/swarm-alignment-2026)**, co-organized by the AI Alignment Foundation and Apart Research.
+
+https://github.com/user-attachments/assets/c3d75e69-81d4-44bb-bcce-abd09e9f5128
+
 Agent-created languages and conversations for experiments on communication, language learning, and monitoring.
+
+If the glyphs show up as boxes, [download Noto Serif Tangut](https://notofonts.github.io/tangut/fonts/NotoSerifTangut/full/ttf/NotoSerifTangut-Regular.ttf), open the file and click **Install**. On macOS with Homebrew: `brew install --cask font-noto-serif-tangut`. Restart your browser or editor afterward.
 
 This first release contains **9 languages** and **13 conversations**, with English reference translations for 12 conversations. Eight languages use Tangut glyphs; one pilot uses Latin letters and digits. It includes the language references, alphabets, creation discussions and drafts, public conversations, prompts, and task context. It does not include experiment scores or conclusions.
 
